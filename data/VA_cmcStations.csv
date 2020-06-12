@@ -1,0 +1,546 @@
+Code,Name,NameLong,Lat,Long,Cbseg,WaterBody,Description,Datum,CityCounty,Tidal,Comments,Fips,Huc12,State,Huc6Name
+RAS.09-PL21-Sug-SLR4,09-PL21-Sug-SLR4,,38.9787922,-77.3643976,,Sugarland Run,NULL,NAD83,Fairfax County,FALSE,NULL,51059,020700080905,Virginia,Potomac
+RAS.09-PL22-Sna-DR19,09-PL22-Sna-DR19,,38.9298922,-77.3458976,,Difficult Run,NULL,NAD83,Fairfax County,FALSE,NULL,51059,020700081004,Virginia,Potomac
+CWT.1.1,1.1,James River at Stone Harbor HOA Dock,37.5619,-77.6532,,East Branch Tuckahoe Creek-James River,Test site is on a private dock of the Stone Harbor Homeowners Association,NAD83,Henrico County,FALSE,,51087,020802050606,Virginia,James
+CWT.10,10,,37.5271,-77.5643,,Little Westham Creek-James River,Behind Bon Air Elementary School,NAD83,Chesterfield County,FALSE,,51041,020802050607,Virginia,James
+CWT.11,11,,37.5142,-77.5493,,Little Westham Creek-James River,North of culvert under Poplar Hollow Trail,NAD83,Chesterfield County,FALSE,,51041,020802050607,Virginia,James
+CWT.14,14,,37.5543,-77.604,,East Branch Tuckahoe Creek-James River,Upstream of boat slip at the Virginia Powerboat Association property,NAD83,Chesterfield County,FALSE,,51041,020802050606,Virginia,James
+CWT.15,15,,37.3306,-77.7275,,Winterpock Creek,20 feet upstream of River Road bridge,NAD83,Chesterfield County,FALSE,,51041,020802070802,Virginia,James
+CWT.16,16,,37.4473,-77.739,,Swift Creek Reservoir-Swift Creek,At Mount Hermon Road bridge on south bank of creek,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.18,18,,37.4435,-77.5221,,Falling Creek,At end of a cul de sac on a residential road northwest of Belmont Road,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+MDE.1806011,1806011,,37.929722,-75.775,,East Creek-Pocomoke Sound,,NAD83,Accomack County,TRUE,,51001,020801110502,Virginia,Lower Chesapeake
+MDE.1807012,1807012,,37.979583,-75.637114,,Bullbegger Creek-Pocomoke River,,NAD83,Accomack County,TRUE,,51001,020801110402,Virginia,Lower Chesapeake
+ACB.19,19,Levy Pier 19,37.1796,-76.4425,,Poquoson River-Lower Chesapeake Bay,Levy Pier,NAD83,York County,TRUE,,51199,020801080101,Virginia,
+CWT.2,2,,37.4542,-77.5804,,Falling Creek,Sample taken from wooden bridge that leads to the wetlands area Park at the nature center and walk 1/4 mile on paved trail,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.20,20,,37.491,-77.5754,,Falling Creek,North bank of creek next to Shenandoah Community Association parking lot,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.202,202,,37.47825,-77.63507,,Falling Creek,Near west shore 150 yards from dam,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.204,204,,37.47634,-77.6302,,Falling Creek,off south shore 600 yards from dam,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.21,21,,37.44191,-77.56483,,Falling Creek,North of picnic shelter at Fernbrook Park,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.23,23,,37.3837,-77.6666,,Third Branch-Swift Creek,On pedestrian trail behind 14337 Forest Row Trail,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.24,24,,37.3682,-77.5187,,Third Branch-Swift Creek,South bank of creek at 7700 Old Beach Road at base of historic bridge abutment,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.26,26,,37.5518,-77.6633,,Bernards Creek-James River,West of Kings Farm Drive culvert north bank of creek,NAD83,Chesterfield County,FALSE,,51041,020802050604,Virginia,James
+CWT.29,29,,37.4416,-77.7119,,Swift Creek Reservoir-Swift Creek,On pedestrian trail behind 4400 Lake Summer Place next to sewer access cover,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.3,3,,37.4917,-77.6429,,Falling Creek,50 yards west of Groveton Terrace,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.3.1,3.1,,37.497,-77.6451,,Falling Creek,Upstream pavilion in Midlothian Mines Park ,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.30,30,,37.4086,-77.7132,,Swift Creek Reservoir-Swift Creek,South bank of creek west of Prescotts Level Culvert,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.31,31,,37.4914,-77.541,,Falling Creek,West side of creek at the head of the nature trail ,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.35,35,,37.3898,-77.5759,,Third Branch-Swift Creek,Pedestrian bridge where Swift Creek joins Swift Creek Lake,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+ACB.35,35,James River Park,37.5246,-77.4686,,Little Westham Creek-James River,James River Park,NAD83,Richmond city,FALSE,Valerie Parrish and Julie Abse (RMN),51760,020802050607,Virginia,James
+CWT.35.1,35.1,,37.3888,-77.5752,,Third Branch-Swift Creek,Boat dock at confluence of Swift Creek and Swift Creek Lake,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.4,4,,37.4098,-77.6165,,Third Branch-Swift Creek,Park near the driveway of the Bailey Bridge Pump Station near Bailey Bridge MS walk down driveway to the stream,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.41,41,,37.4865,-77.6403,,Falling Creek,West bank of creek north end of Queensgate Road culvert,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.42,42,,37.383768,-77.498854,,Proctors Creek-James River,At Government Center Parkway,NAD83,Chesterfield County,FALSE,,51041,020802060103,Virginia,James
+CWT.45,45,,37.4796,-77.6884,,Swift Creek Reservoir-Swift Creek,At Otterdale Road east side of culvert,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.47,47,,37.457,-77.60006,,Falling Creek,Base of bridge crossing the creek east bank south of the bridge,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.53,53,,37.4188,-77.4826,,Proctors Creek-James River,North bank at the intersection of Beulah and Irongate Roads,NAD83,Chesterfield County,FALSE,,51041,020802060103,Virginia,James
+ACB.53,53,Huguenot Bridge,37.5604,-77.5453,,Little Westham Creek-James River,Huguenot Bridge,NAD83,Richmond city,FALSE,Lois Love and John Rowley are the monitors,51760,020802050607,Virginia,James
+CWT.56,56,,37.3187,-77.4869,,Franks Branch-Swift Creek,West bank of creek at the northern end of Glebe Point Road culvert,NAD83,Chesterfield County,FALSE,,51041,020802070904,Virginia,James
+CWT.57,57,,37.4444,-77.6539,,Third Branch-Swift Creek,West bank of the creek north of the Overcreek Lane culvert,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.58,58,,37.4694,-77.5466,,Falling Creek,East bank of the creek next to the pool parking lot,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.6,6,,37.4073,-77.6441,,Third Branch-Swift Creek,Located behind 13621 Birdsong Lane,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+ACB.6,6,RIVER BLUFFS,38.3473,-77.5822,,Motts Run-Rappahannock River,RIVER BLUFFS,NAD83,Stafford County,FALSE,,51179,020801040101,Virginia,
+CWT.60,60,,37.4877,-77.6637,,Swift Creek Reservoir-Swift Creek,South bank of creek 75 feet west of the Greenway Crossing Drive culvert,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.62,62,,37.3839,-77.4526,,Proctors Creek-James River,North end of culvert at the intersection of Chester Road and Hamlin Creek Parkway,NAD83,Chesterfield County,FALSE,,51041,020802060103,Virginia,James
+CWT.65,65,,37.5191,-77.6849,,Bernards Creek-James River,At Creekbrook Drive bridge,NAD83,Chesterfield County,FALSE,,51041,020802050604,Virginia,James
+CWT.68,68,,37.5231,-77.5832,,Little Westham Creek-James River,Test site is on the observation platform of the dam. ,NAD83,Chesterfield County,FALSE,,51041,020802050607,Virginia,James
+CWT.69,69,,37.3734,-77.4246,,Proctors Creek-James River,Test site is on the south bank of the creek behind 2831 Defrod Court  ,NAD83,Chesterfield County,FALSE,,51041,020802060103,Virginia,James
+CWT.7,7 James River at Henricus,,37.3749,-77.3605,,Curles Creek-James River,At the floating dock to the right of the historical area down the path,NAD83,Chesterfield County,TRUE,,51041,020802060106,Virginia,James
+CWT.70,70,,37.411,-77.6966,,Swift Creek Reservoir-Swift Creek,Test site is on the north bank of the creek west of the Fox Club Parkway Culvert ,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.71,71,,37.4234,-77.7258,,Swift Creek Reservoir-Swift Creek,On the south bank of creek side at the east end of Otterdale Road culvert ,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.72,72,,37.4584,-77.6144,,Falling Creek,On the south bank of creek at the end of the trail approximately 550 feet north west of playground ,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.74,74,,37.4093,-77.6433,,Third Branch-Swift Creek,Test site is approximately 290 feet southwest of the end of Coby Way ,NAD83,Chesterfield County,FALSE,,51041,020802070902,Virginia,James
+CWT.75,75,Little Tomahawk Creek at Agee Terrace,37.4849,-77.6669,,Swift Creek Reservoir-Swift Creek,,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.CWT76,76,Dry Creek at Hampton Park,37.3915,-77.6994,,Swift Creek Reservoir-Swift Creek,,NAD83,Chesterfield County,FALSE,Test site is on the north bank of the creek below Skip Rock Lake dam,51041,020802070901,Virginia,James
+CWT.79,79,Tributary to Swift Creek at Brightwalton Road,37.4771,-77.7126,,Swift Creek Reservoir-Swift Creek,,NAD83,Chesterfield County,FALSE,,51041,020802070901,Virginia,James
+CWT.8,8,,37.3631,-77.3091,,Curles Creek-James River,Sample taken off dock located at 2312 Mount Blanco Road,NAD83,Henrico County,TRUE,,51087,020802060106,Virginia,James
+LACA.8-COL-40-LACA,8-COL-40-LACA,Lake Anna,37.984722,-77.766944,,Lake Anna,Coleman Creek upstream of 652 bridge,NAD83,Louisa County,FALSE,Privet/Hot side,51109,020801060603,Virginia,
+LACA.8-CON-33-LACA,8-CON-33-LACA,,38.063611,-77.849722,,Lake Anna,Contrary Creek Arm of Lake Anna - upstream,NAD83,Louisa County,FALSE,,51109,020801060601,Virginia,
+LACA.8-CON-5-LACA,8-CON-5-LACA,,38.063055,-77.831944,,Lake Anna,Rt. 652 bridge over Contrary Creek Arm of Lake Anna,NAD83,Louisa County,FALSE,,51109,020801060601,Virginia,
+LACA.8-CRC-44-LACA,8-CRC-44-LACA,,38.088111,-77.901194,,Lake Anna,Christopher Run near Camp Ground,NAD83,Louisa County,FALSE,,51109,020801060404,Virginia,
+LACA.8-DAV-39-LACA,8-DAV-39-LACA,,37.995833,-77.733056,,Lake Anna,David Creek,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-ELK-32-LACA,8-ELK-32-LACA,,38.033611,-77.795833,,Lake Anna,Elk Creek east of Showman Island,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-ELK-42-LACA,8-ELK-42-LACA,,38.025278,-77.806944,,Lake Anna,Elk Creek near Beaver Creek,NAD83,Louisa County,FALSE,Privet/Hot side,51109,020801060603,Virginia,
+LACA.8-FWC-34-LACA,8-FWC-34-LACA,,38.053611,-77.841389,,Lake Anna,Freshwater Creek (upstream tributary of Contrary Creek),NAD83,Louisa County,FALSE,,51109,020801060601,Virginia,
+LACA.8-GMC-13-LACA,8-GMC-13-LACA,,38.111944,-77.942222,,Lake Anna,Gold Mine Creek arm of Lake Anna,NAD83,Louisa County,FALSE,,51109,020801060403,Virginia,
+LACA.8-MIT-45-LACA,8-MIT-45-LACA,Mitchel Creek,38.081942,-77.8227,,Pigeon Run-Lake Anna,Mitchel Creek at Lake Anna Resort,NAD83,Louisa County,FALSE,,51109,020801060602,Virginia,Lower Chesapeake
+LACA.8-MLN-31-LACA,8-MLN-31-LACA,,38.021389,-77.775833,,Lake Anna,Millpond Creek at 652 bridge,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-MLN-41-LACA,8-MLN-41-LACA,,38.009722,-77.788889,,Lake Anna,Millpond Creek new Gioia Cove,NAD83,Louisa County,FALSE,Privet/Hot side,51109,020801060603,Virginia,
+LACA.8-NAP-29-LACA,8-NAP-29-LACA,,38.05056,-77.78389,,Lake Anna,At North Anna Power Station Outfall,NAD83,Louisa County,FALSE,Privet/Hot side,51109,020801060603,Virginia,
+LACA.8-NAR-12-LACA,8-NAR-12-LACA,,38.111944,-77.886389,,Lake Anna,North Anna River arm of Lake Anna near Rt. #719,NAD83,Louisa County,FALSE,,51109,020801060404,Virginia,
+LACA.8-NAR-1-LACA,8-NAR-1-LACA,,38.010583,-77.716111,,Lake Anna,Main lake - 100 yds from dam,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-NAR-2-LACA,8-NAR-2-LACA,,38.031944,-77.7375,,Lake Anna,Main lake south of River Bend Island,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-NAR-35-LACA,8-NAR-35-LACA,North Anna Upstream at Woodlawn Flats,38.118611,-77.954167,,Christopher Creek-North Anna River,North Anna Upstream at Woodlawn Flats,NAD83,Orange County,FALSE,,51137,020801060404,Virginia,Lower Chesapeake
+LACA.8-NAR-3-LACA,8-NAR-3-LACA,,38.053611,-77.765555,,Lake Anna,Main lake near Smith's Point,NAD83,Spotsylvania County,FALSE,,51177,020801060603,Virginia,
+LACA.8-NAR-43-LACA,8-NAR-43-LACA,,38.119444,-77.945556,,Lake Anna,North Anna  are upstream with confluence with Goldmine Creek,NAD83,Spotsylvania County,FALSE,,51177,020801060404,Virginia,
+LACA.8-NAR-47-LACA,8-NAR-47-LACA,,38.102717,-77.861664,,Lake Anna,,NAD83,Louisa County,FALSE,,51109,020801060404,Virginia,
+LACA.8-NAR-4-LACA,8-NAR-4-LACA,,38.069722,-77.7875,,Lake Anna,Main Lake north of power plant,NAD83,Louisa County,FALSE,,51109,020801060602,Virginia,
+LACA.8-NAR-6-LACA,8-NAR-6-LACA,,38.086111,-77.815277,,Lake Anna,Main Lake North of Rt. 208 Bridge,NAD83,Louisa County,FALSE,"Monitored by DEQ also, 8-NAR047.69",51109,020801060602,Virginia,
+LACA.8-PGN-7-LACA,8-PGN-7-LACA,,38.096111,-77.814444,,Lake Anna,Pigeon Run arm of Lake Anna across from State Park,NAD83,Spotsylvania County,FALSE,,51177,020801060602,Virginia,
+LACA.8-PLT-36-LACA,8-PLT-36-LACA,,38.143611,-77.855555,,Lake Anna,Plentiful Creek upstream,NAD83,Spotsylvania County,FALSE,,51177,020801060503,Virginia,
+LACA.8-PLT-9-LACA,8-PLT-9-LACA,,38.132222,-77.8575,,Lake Anna,Plentiful Creek arm of Lake Anna,NAD83,Spotsylvania County,FALSE,,51177,020801060503,Virginia,
+LACA.8-PMC-11-LACA,8-PMC-11-LACA,,38.138889,-77.895,,Lake Anna,Pamunkey Creek arm of Lake Anna,NAD83,Spotsylvania County,FALSE,,51177,020801060501,Virginia,
+LACA.8-PMC-38-LACA,8-PMC-38-LACA,,38.141667,-77.929722,,Lake Anna,Pamunkey Creek arm of Lake Anna,NAD83,Orange County,FALSE,,51137,020801060501,Virginia,
+LACA.8-PMC-8-LACA,8-PMC-8-LACA,,38.109722,-77.838055,,Lake Anna,Pamunkey Creek arm of Lake Anna north of the splits,NAD83,Spotsylvania County,FALSE,,51177,020801060503,Virginia,
+LACA.8-RCK-30-LACA,8-RCK-30-LACA,,37.994167,-77.754167,,Lake Anna,Rock Creek west of Robbies Island,NAD83,Louisa County,FALSE,,51109,020801060603,Virginia,
+LACA.8-STU-46-LACA,8-STU-46-LACA,,38.087083,-77.783861,,Lake Anna,Sturgeon Creek just South of Sturgeon Creek Marina,NAD83,Spotsylvania County,FALSE,,51177,020801060602,Virginia,
+LACA.8-TRY-10-LACA,8-TRY-10-LACA,,38.148333,-77.892778,,Lake Anna,Terry's Run arm of Lake Anna,NAD83,Spotsylvania County,FALSE,,51177,020801060502,Virginia,
+LACA.8-TRY-37-LACA,8-TRY-37-LACA,,38.16278,-77.90694,,Lake Anna,Terry's Run upstream,NAD83,Orange County,FALSE,,51137,020801060502,Virginia,
+JRA.A01,A01,,37.316523,-77.273569,,Bailey Creek-James River,Appomattox River at City Point,NAD83,Prince George County,TRUE,,51149,020802060201,Virginia,
+JRA.A02,A02,,37.311187,-77.297991,,Ashton Creek-Appomattox River,Appomattox River at Hopewell Rt. 10,NAD83,Hopewell city,TRUE,Monitored by American Water,51670,020802071002,Virginia,
+JRA.A03,A03,,37.233842,-77.412567,,Oldtown Creek-Appomattox River,Appomattox River at Harvell Dam,NAD83,Petersburg city,FALSE,,51730,020802071001,Virginia,
+JRA.A08,A08,,37.307397,-78.388979,,Bad Luck Branch-Appomattox River,Appomattox River at Farmville Main St. Bridge,NAD83,Cumberland County,FALSE,,51049,020802070206,Virginia,
+ACB.A1,A1,,38.47066,-77.385517,,Lower Aquia Creek,Aquia Creek @ Entrance to Harbor,NAD83,Stafford County,FALSE,Behind 2062 Aquia Dr. Contact Don Head (540-659-5380) 2 days prior,51179,020700110203,Virginia,Potomac
+ACB.A2,A2,,38.457625,-77.382565,,Lower Aquia Creek,Aquia Creek @ Harbor Center,NAD83,Stafford County,FALSE,1415 Washington Drive test from Pier Harbor Marina,51179,020700110203,Virginia,Potomac
+ACB.A3,A3,,38.445705,-77.379232,,Lower Aquia Creek,Aquia Creek @ Harbor exit,NAD83,Stafford County,FALSE,Behind 3805 Aquia Dr. Contact Dodi Bunker (540-659-2825) 2 days prior,51179,020700110203,Virginia,Potomac
+ACB.A4,A4,Aquia Creek,38.464202,-77.3873577,,Rosier Creek-Potomac River,1111 Potomac Drive off the dock,NAD83,King George County,TRUE,New site for Green Aquia starting in 2019.,51099,020700110602,Virginia,Potomac
+ACB.A5,A5,Aquia Creek,38.0279,-77.2329,,Jacks Creek-Maracossic Creek,Harbour Marina off the last T dock,NAD83,Caroline County,TRUE,New site for Green Aquia starting in 2019.,51033,020801050401,Virginia,Lower Chesapeake
+HAWQS.AC1,AC1,Almond Creek 1,37.50667,-77.4016,,Almond Creek-James River,,NAD83,Henrico County,FALSE,Behind property of 1134 Bickerstaff Rd,51087,020802060101,Virginia,James
+HAWQS.AC2.1,AC2,Almond Creek 2,37.506684,-77.4111,,Almond Creek-James River,"located along Almond Creek Pump Station, old bridge",NAD83,Henrico County,TRUE,,51087,020802060101,Virginia,James
+ACB.AIMCRE0.5,AIMCRE0.5,,38.126737,-76.6548027,,Lower Machodoc Creek-Potomac River,Aimes Creek 0.5 from mouth of Machodoc Creek�,NAD83,Westmoreland County,TRUE,Bobbie Burton and Nancy Joel,51193,020700110803,Virginia,
+ACB.ALBCRE0.5,ALBCRE0.5,Albro Creek,37.49701,-77.43906,,Almond Creek-James River,,NAD83,Richmond city,TRUE,"Albro Creek 0.5 miles to headwaters
+Primary Monitor: Sonia Pham",51760,020802060101,Virginia,James
+PVMN.APP,APP,Air Power Park,37.042988,-76.366555,,Southwest Branch Back River,Air Power Park,NAD83,Hampton city,TRUE,This site is on the left side of the dock on the Newmarket Creek,51650,020801080103,Virginia,Lower Chesapeake
+ACB.ARF,ARF,Appomattox River at Farmville,37.30734,-78.389257,,Bad Luck Branch-Appomattox River,,NAD83,Cumberland County,FALSE,Located along the main street bridge in downtown Farmville. Sample from the middle of the bridge using a bucket.,51049,020802070206,Virginia,James
+ACB.B1,B1,,38.4478,-77.39237,,Lower Aquia Creek,Austin Run @ Horse Trail,NAD83,Stafford County,FALSE,Directly off horse trails below northwest bend in stream,51179,020700110203,Virginia,Potomac
+JMSAWCD.B1,B1,Bowens Run 1,38.57467,-77.771,,Marsh Run,Schoolhouse Rd (Rt. 661) bridge,NAD83,Fauquier County,FALSE,,51061,020801030601,Virginia,Lower Chesapeake
+ACB.B2,B2,,38.44778,-77.38811,,Lower Aquia Creek,Austin Run behind horse corrals,NAD83,Stafford County,FALSE,,51179,020700110203,Virginia,Potomac
+ACB.B3,B3,,38.44946,-77.38381,,Lower Aquia Creek,Austin Run near trail bridge,NAD83,Stafford County,FALSE,,51179,020700110203,Virginia,Potomac
+ACB.B4,B4,Austin Run,38.45083,-77.383403,,Lower Aquia Creek,At Lions Park at the Tire Swing,NAD83,Stafford County,TRUE,New Green Aquia site starting in 2019.,51179,020700110203,Virginia,Potomac
+TUPMP.BACKCR001,BACKCR001,Back Creek,37.980752,-78.953412,,Inch Branch-Back Creek,Back Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+TUPMP.BACKCR002,BACKCR002,Back Creek,37.966452,-78.955626,,Inch Branch-Back Creek,Back Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+TUPMP.BACKCR003,BACKCR003,Back Creek,37.929987,-78.979478,,Inch Branch-Back Creek,Back Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+TUPMP.BACKCR004,BACKCR004,Back Creek,37.9205,-78.9879,,Inch Branch-Back Creek,Back Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+TUPMP.BACKCR005,BACKCR005,Back Creek,37.944862,-78.964713,,Inch Branch-Back Creek,Back Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+JMSAWCD.BB1,BB1,Bolling Branch 1,38.91354,-77.89075,,Crooked Run-Goose Creek,Bolling Branch at Rt. 713 (Maidstone Road),NAD83,Fauquier County,FALSE,,51061,020700080502,Virginia,Potomac
+HAWQS.BB1,BB1,Biddy Branch 1,37.422899,-77.395419,,Proctors Creek-James River,"located behind 1431 Chaffins Branch Henrico, VA 23231",NAD83,Henrico County,TRUE,,51087,020802060103,Virginia,James
+PVMN.BBGF1,BBGF1,Bluebird Gap Farm Shoreline,37.0319,-76.38058,,Southwest Branch Back River,"Testing at shoreline project at Bluebird Gap Farm on Newmarket Creek, 60 Pine Chapel Rd, Hampton, VA. There is floating dock near the site that is proposed for water sports, ie. paddle boarding, paddle boats and kayaking",NAD83,Hampton city,TRUE,This site has low salinity <6PPT and is subject to a lot of run off with little chance for water to be flushed out.,51650,020801080103,Virginia,Lower Chesapeake
+PVMN.BCP1,BCP1,Back Creek Park,37.20497,-76.43784,,Poquoson River-Lower Chesapeake Bay,Public access boat landing and fishing pier,NAD83,York County,TRUE,,51199,020801080101,Virginia,Lower Chesapeake
+ACB.BLACRE0.6,BLACRE0.6,Bland Creek,37.4070413,-76.6481492,,Skimino Creek-York River,sampling from boat,NAD83,Gloucester County,TRUE,Jack and Carol Kauffman,51073,020801070104,Virginia,
+JMSAWCD.BM1,BM1,Burnt Mill Run 1,38.94082,-77.74233,,Little River,Burnt Mill Run at Rt. 626 (Halfway Road),NAD83,Fauquier County,FALSE,,51061,020700080701,Virginia,Potomac
+HAWQS.BP1,BP1,Bryan Park 1,37.597203,-77.473774,,Upham Brook,"located on bridge in Bryan Park by main, large parking lot and shelter area",NAD83,Richmond city,TRUE,,51760,020802060403,Virginia,James
+PVMN.BR,BR,"Back River, Poquoson",37.1164,-76.3639,,Northwest Branch Back River,,NAD83,Poquoson city,TRUE,,51735,020801080102,Virginia,Lower Chesapeake
+ACB.BR1,BR1,Brattons Run,37.9824,-79.55068,,Guys Run-Calfpasture River,"The sampling is from Brattons Run on Stonehouse Farm, owned by Carl Arosarena, at 2509 Brattons Run Road, Goshen, Va., in Rockbridge County.",NAD83,Rockbridge County,FALSE,"Brattons Run is a small stream perhaps 10-20 feet wide that runs northeast to the Calfpasture River near Goshen, Va. There is not much heavy farming and no manufacturing upstream. The headwaters are a few miles away. After leaving Stonehouse Farm, the water passes by a saw mill and creosote plant (which makes mostly crossties). It joins the Calfpasture for a few miles before the Calfpasture meets the Little Calfpasture to form the Maury River. The Maury eventually flows into the James. The health of the stream has been checked by benthic monitors since 2001. It has usually been in the acceptable range, that is, between 9 and 12 on a 12-point scale.",51163,020802020108,Virginia,James
+JMSAWCD.Br1,Br1,Browns Run 1,38.52912,-77.75145,,Marsh Run,Browns Run at Morgansburg Rd (Rt. 653) bridge,NAD83,Fauquier County,FALSE,,51061,020801030601,Virginia,Lower Chesapeake
+TUPMP.BRALBR001,BRALBR001,Braley Branch,38.278173,-79.297023,,Chair Draft-Calfpasture River,Braley Branch,NAD83,Augusta County,FALSE,,51015,020802020101,Virginia,
+TUPMP.BRIEBR001,BRIEBR001,Briery Branch,38.440201,-79.136333,,Briery Branch,Briery Branch,NAD83,Rockingham County,FALSE,,51165,020700050403,Virginia,
+TUPMP.BRIEBR002,BRIEBR002,Briery Branch,38.44627,-79.105538,,Briery Branch,Briery Branch,NAD83,Rockingham County,FALSE,,51165,020700050403,Virginia,
+TUPMP.BROADR001,BROADR001,Broad Draft,38.27618,-79.31866,,Chair Draft-Calfpasture River,Broad Draft,NAD83,Augusta County,FALSE,,51015,020802020101,Virginia,
+TUPMP.BROADR002,BROADR002,Broad Draft,38.28307,-79.32193,,Chair Draft-Calfpasture River,Broad Draft,NAD83,Augusta County,FALSE,,51015,020802020101,Virginia,
+RCA.BSC01,BSC01,Biscuit Run,38.00368,-78.50852,,Moores Creek,Biscuit Run- West of Southern Parkway,NAD83,Albemarle County,FALSE,"""West of Southern Parkway, from corner of Fox Horn Lane near outlet of drainage pipe""",51003,020802040402,Virginia,
+ACB.BUFCRE10,BUFCRE10,Buffalo Creek,37.7425,-79.5066,,Buffalo Creek,Buffalo Creek at interction with Mateer Rd/670,NAD83,Rockbridge County,FALSE,Monitors: David Bryer and Marsha Heatwole,51163,020802020505,Virginia,
+ACB.BUFCRE12.5,BUFCRE12.5,Buffalo Creek,37.7568,-79.5431,,Colliers Creek,Buffalo Creek at Colliers Creek,NAD83,Rockbridge County,FALSE,Monitors: David Bryer and Marsha Heatwole,51163,020802020504,Virginia,
+ACB.BURPON1,BURPON1,Burke Pond,37.4824901,-76.4582484,,North River,Will Kayak out to the middle of the waterway,NAD83,Gloucester County,TRUE,David and Kerry Harlan,51073,020801020404,Virginia,
+ACB.BUSMILCRE,BUSMILCRE,,37.8750643,-76.441372,,Great Wicomico River,Bush Mill Creek at the dock at the end of Heron Court.�,NAD83,Northumberland County,TRUE,Alice Stieve and Art Gilbert,51133,020801020102,Virginia,
+JRA.C01,C01,,37.264742,-76.874715,,Morris Creek-Chickahominy River,Chickahominy Riverfront Park,NAD83,James City County,TRUE,,51095,020802060605,Virginia,
+JRA.C05,C05,,37.55197,-77.271146,,Powhite Creek-Chickahominy River,Chickahominy River at Grapevine Bridge,NAD83,Henrico County,TRUE,,51087,020802060501,Virginia,
+TUPMP.CALFRI001,CALFRI001,Calfpasture River,37.949615,-79.460144,,Guys Run-Calfpasture River,Calfpasture River,NAD83,Rockbridge County,FALSE,,51163,020802020108,Virginia,
+TUPMP.CALFRI002,CALFRI002,Calfpasture River,38.27945,-79.29465,,Chair Draft-Calfpasture River,Calfpasture River,NAD83,Augusta County,FALSE,,51015,020802020101,Virginia,
+TUPMP.CALFRI003,CALFRI003,Calfpasture River,38.279417,-79.293817,,Chair Draft-Calfpasture River,Calfpasture River,NAD83,Augusta County,FALSE,,51015,020802020101,Virginia,
+TUPMP.CALFRI004,CALFRI004,Calfpasture River,38.2305,-79.3447,,Holloway Draft-Calfpasture River,Calfpasture River,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.CALFRI005,CALFRI005,Calfpasture River,38.2238,-79.3606,,Holloway Draft-Calfpasture River,Calfpasture River,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.CALFRI006,CALFRI006,Calfpasture River,38.2103,-79.3684,,Holloway Draft-Calfpasture River,Calfpasture River,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.CARIDR001,CARIDR001,Camp Ridge Draft,38.29335,-79.23998,,Jennings Branch,Camp Ridge Draft,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+ACB.CB1,CB1,,37.51261,-77.48008,,Little Westham Creek-James River,Crooked Branch,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,James
+ACB.CB2,CB2,Crooked Branch 2,37.5139,-77.48058,,Little Westham Creek-James River,in Crooked Branch Revine,NAD83,Richmond city,TRUE,,51760,020802050607,Virginia,James
+ACB.CEDCRE2.4,CEDCRE2.4,Cedar Creek,37.6307036,-79.5481695,,Spring Gap Creek-Cedar Creek,Cedar Creek at low bridge above monacan living exhibit off of the Cedar Creek Trail.,NAD83,Rockbridge County,FALSE,Monitor: Sandra Stuart,51163,020802011504,Virginia,James
+ACB.CGC01,CGC01,Cedar Grove Creek at Maury River,37.8828,-79.3859,,Alone Mill Creek-Maury River,Cedar Grove Creek at confluence with Maury River,NAD83,Rockbridge County,FALSE,Monitor: David Hopkins,51163,020802020301,Virginia,James
+RCA.CHA01,CHA01,St. Charles Branch at NE Park,38.042334,-78.466174,,Meadow Creek-Rivanna River,St. Charles at NE Park,NAD83,Charlottesville city,FALSE,Not regularly sampled until 2020,51540,020802040401,Virginia,James
+ACB.CHIRIV22,CHIRIV22,Chickahominy River,37.6802779,-77.4550473,,Stony Run-Chickahominy River,Off of route 782,NAD83,Hanover County,TRUE,Sampled by Bill Flemming,51085,020802060402,Virginia,James
+JMSAWCD.CK1,CK1,Crooked Run 1,38.9365,-77.93529,,Crooked Run-Goose Creek,Crooked Run at Rt. 724 (Pleasant Vale Road),NAD83,Fauquier County,FALSE,,51061,020700080502,Virginia,Potomac
+HAWQS.CL1,CL1,Copperas Lane,37.633166,-77.625863,,Tuckahoe Creek,Tributary of Tuckahoe Creek that flows behind Copperas Lane street.,NAD83,Henrico County,FALSE,,51087,020802050605,Virginia,James
+TUPMP.CLMICR001,CLMICR001,Clayton Mill Creek,38.138367,-79.430133,,Fridley Branch-Calfpasture River,Clayton Mill Creek,NAD83,Augusta County,FALSE,,51015,020802020105,Virginia,
+JMSAWCD.CM1,CM1,Cromwells Run 1,38.90008,-77.83067,,Cromwells Run,Cromwells Run at Rt. 702 (Frogtown Road),NAD83,Fauquier County,FALSE,,51061,020700080504,Virginia,Potomac
+ACB.CM1,CM1,Caledon Marsh 1,38.343494,-77.1682215,,Chotank Creek-Potomac River,Caledon Marsh 1,NAD83,King George County,TRUE,Front half of the marsh. Samples will be collected from the road by collecting water in a bucket from the bank.,51099,020700110303,Virginia,Potomac
+ACB.CM2,CM2,Caledon Marsh 2,38.3438051,-77.170389,,Chotank Creek-Potomac River,Caledon Marsh 2,NAD83,King George County,TRUE,Walk down along the beach to the mouth of the Marsh where it connects to the Potomac. Samples will be collected in-stream mid-channel of the mouth.,51099,020700110303,Virginia,Potomac
+JMSAWCD.CM2,CM2,Cromwells Run 2,38.91903,-77.819,,Cromwells Run,Cromwells Run at Rt. 716 (Five Points Road),NAD83,Fauquier County,FALSE,,51061,020700080504,Virginia,Potomac
+JMSAWCD.CM3,CM3,Cromwells Run 3,38.91597,-77.80182,,Cromwells Run,Unnamed Tributary No. 1 to Cromwells Run at Rt. 708 (Young Road),NAD83,Fauquier County,FALSE,,51061,020700080504,Virginia,Potomac
+ACB.COARIV3.0,COARIV3.0,Coan River,37.9581,-76.48242,,Coan River,End of the pier at 886 Bundick Rd. on the Coan River at the Bundick Wharf,NAD83,Northumberland County,TRUE,,51133,020700110805,Virginia,Potomac
+ACB.COLCRE0.5,COLCRE0.5,Colliers Creek,37.7626,-79.54902,,Colliers Creek,Colliers Creek where it intersects with Toad Run at Effinger FD,NAD83,Rockbridge County,FALSE,Monitor: David Bryer and Marsha Heatwole,51163,020802020504,Virginia,
+TUPMP.COONHO001,COONHO001,Coon Hollow,37.719205,-78.776884,,Beaver Creek-Rockfish River,Coon Hollow,NAD83,Nelson County,FALSE,,51125,020802031003,Virginia,
+ACB.COVRUN0.1,COVRUN0.1,Cove Run,37.9080694,-79.4265595,,Mill Creek-Maury River,"68 Farmhouse Rd, Rockbridge Baths",NAD83,Lexington city,FALSE,"Monitors: Alicia and Molly. Cove Run begins underground, downhill from a new poultry CAFO and runs through 2 cattle farms before entering the Maury River.  It always has water.  Out station spot is just upstream of a small footbridge.",51678,020802020303,Virginia,James
+TUPMP.COWPRI001,COWPRI001,Cowpasture River,37.97,-79.67,,Mill Creek-Cowpasture River,Cowpasture River,NAD83,Bath County,FALSE,,51017,020802010801,Virginia,
+TUPMP.COWPRI002,COWPRI002,Cowpasture River,38.2891,-79.45862,,Wolfe Draft-Cowpasture River,Cowpasture River,NAD83,Highland County,FALSE,,51091,020802010601,Virginia,
+ACB.CP1,CP1,,38.08138889,-76.84611111,,The Big Swamp-Cat Point Creek,Peach Grove,NAD83,Richmond County,FALSE,,51159,020801040401,Virginia,Lower Chesapeake
+ACB.CP2,CP2,,38.03916667,-76.8275,,Menokin Bay-Cat Point Creek,County Bridge,NAD83,Richmond County,FALSE,,51159,020801040402,Virginia,Lower Chesapeake
+ACB.CP4,CP4,,37.98388889,-76.80944444,,Menokin Bay-Cat Point Creek,Newline Bridge,NAD83,Richmond County,FALSE,,51159,020801040402,Virginia,Lower Chesapeake
+ACB.CP8,CP8,,37.97444444,-76.85388889,,Menokin Bay-Cat Point Creek,Naylor's Point,NAD83,Richmond County,TRUE,,51159,020801040402,Virginia,Lower Chesapeake
+ACB.CR1,CR1,,37.6251,-77.4942,,Upham Brook,ROCKY BRANCH,NAD83,Henrico County,FALSE,,51087,020802060403,Virginia,James
+HAWQS.CR1,CR1,Chickahominy River,37.68855,-77.5777,,Grassy Swamp Creek-Chickahominy River,,NAD83,Hanover County,FALSE,230 feet north of track at Rivers Edge Elementary School,51085,020802060401,Virginia,James
+JMSAWCD.CR1,CR1,Carter Run 1,38.69928,-77.907,,Carter Run,Leeds Manor Rd (Rt. 688) bridge over Carter Run,NAD83,Fauquier County,FALSE,,51061,020801030202,Virginia,Lower Chesapeake
+JMSAWCD.CR2,CR2,Carter Run 2,38.75895,-77.91523,,Carter Run,Conde Rd (Rt. 737) bridge over South Run,NAD83,Fauquier County,FALSE,,51061,020801030202,Virginia,Lower Chesapeake
+ACB.CR21,CR21,Chickahominy River 21,37.419912,-76.97541,,Big Swamp-Chickahominy River,Dock at Eagles Landing Public Access,NAD83,New Kent County,TRUE,Monitor: Jbohrer,51127,020802060506,Virginia,James
+JMSAWCD.CR3,CR3,Carter Run 3,38.79938,-77.92217,,Carter Run,Wilson Rd (Rt. 738) bridge over South Run,NAD83,Fauquier County,FALSE,,51061,020801030202,Virginia,Lower Chesapeake
+JMSAWCD.CR4,CR4,Carter Run 4,38.74672,-77.88678,,Carter Run,Wilson Rd (Rt. 738) bridge over Carter Run,NAD83,Fauquier County,FALSE,,51061,020801030202,Virginia,Lower Chesapeake
+JMSAWCD.CR5,CR5,Carter Run 5,38.72454,-77.91048,,Carter Run,Intersection of Cliff Mills Rd (Rt. 681) and Piney Mountain Rd (Rt. 678) bridge over Carter Run,NAD83,Fauquier County,FALSE,,51061,020801030202,Virginia,Lower Chesapeake
+ACB.CR5,CR5,,37.6057,-77.5455,,Upham Brook,Upham Brook,NAD83,Henrico County,FALSE,BCharles,51087,020802060403,Virginia,James
+TUPMP.CRABRU001,CRABRU001,Crab Run,38.785183,-78.951383,,Crab Run,Crab Run,NAD83,Rockingham County,FALSE,,51165,020700060102,Virginia,
+TUPMP.CRAICR002,CRAICR002,Craig Creek,37.315154,-80.39484,,Trout Creek-Craig Creek,Craig Creek,NAD83,Montgomery County,FALSE,,51121,020802011001,Virginia,
+TUPMP.CRAICR003,CRAICR003,Craig Creek,37.308483,-80.420767,,Trout Creek-Craig Creek,Craig Creek,NAD83,Montgomery County,FALSE,,51121,020802011001,Virginia,
+TUPMP.CRAICR004,CRAICR004,Craig Creek,37.315222,-80.401417,,Trout Creek-Craig Creek,Craig Creek,NAD83,Montgomery County,FALSE,,51121,020802011001,Virginia,
+ACB.CRAMILCRE,CRAMILCRE,,37.87844,-76.4399417,,Great Wicomico River,Crabbe Mill Creek at dock off of Steamboat Lane.,NAD83,Northumberland County,TRUE,Alice Stieve and Art GIlbert,51133,020801020102,Virginia,
+TUPMP.DAVICR002,DAVICR002,Davis Creek,37.830574,-78.848191,,Buck Creek-Rockfish River,Davis Creek,NAD83,Nelson County,FALSE,,51125,020802030903,Virginia,
+TUPMP.DAVICR003,DAVICR003,Davis Creek,37.835674,-78.835211,,Buck Creek-Rockfish River,Davis Creek,NAD83,Nelson County,FALSE,,51125,020802030903,Virginia,
+HAWQS.DB1,DB1,Deep Bottom 1,37.40815,-77.3031,,Fourmile Creek,,NAD83,Henrico County,FALSE,At floating dock on Bailey on Four Mile Creek at Deep Bottom Park,51087,020802060104,Virginia,James
+ACB.DC1,DC1,Deep Creek,37.6179,-77.989833,,Sallee Creek-Deep Creek,,NAD83,Powhatan County,FALSE,"Sr. Elena Henderson
+
+Rt. 684 or the end of Bell Road.",51145,020802050405,Virginia,James
+HAWQS.DE1,DE1,Donahoe Elementary,37.540124,-77.295608,,Powhite Creek-Chickahominy River,located along Graves Rd by Donahoe Elementary School,NAD83,Henrico County,TRUE,,51087,020802060501,Virginia,James
+PVMN.DeepCreek,Deep Creek,Landing at Warwick Yacht and Country Club,37.08725,-76.52171,,Warwick River,,NAD83,Newport News city,TRUE,Moved from the end of Deep Creek road to this new location on May 4 2017.,51700,020802060901,Virginia,James
+ACB.DEEPRUN_FA,DEEPRUN_FA,Deep Run Fredericksburg Academy,38.2518,-77.4911,,Hazel Run-Rappahannock River,Deep Run near FA,NAD83,Spotsylvania County,TRUE,,51177,020801040102,Virginia,Lower Chesapeake
+PVMN.DP1,DP1,Dandy Point,37.095861,-76.294694,,Back River-Lower Chesapeake Bay,Kayak launch near Wallace's Bait and Tackle,NAD83,Hampton city,TRUE,,51650,020801080104,Virginia,Lower Chesapeake
+ACB.DR,DR,Dragon Run,37.5605011,-76.57189941,,Carvers Creek-Piankatank River,Dragon Run,NAD83,Gloucester County,TRUE,Sampled by Tidewater SWCD,51073,020801020301,Virginia,
+HAWQS.DR1,DR1,Deep Run 1,37.60234,-77.6063,,Tuckahoe Creek,,NAD83,Henrico County,FALSE,Downstream side of Pump Road crossing,51087,020802050605,Virginia,James
+ACB.DR3,DR3,,37.63527778,-76.69638889,,Meggs Bay-Dragon Swamp,Farley Park Bridge,NAD83,King and Queen County,TRUE,,51097,020801020204,Virginia,Lower Chesapeake
+ACB.DR6,DR6,,37.69638889,-76.72722222,,Timber Branch Swamp-Dragon Swamp,Ware Bridge,NAD83,Middlesex County,TRUE,,51119,020801020203,Virginia,Lower Chesapeake
+ACB.DR8,DR8,,37.55611111,-76.53305556,,Carvers Creek-Piankatank River,Holly Beach,NAD83,Gloucester County,FALSE,,51073,020801020301,Virginia,Lower Chesapeake
+ACB.DR9,DR9,,37.58555556,-76.60305556,,Meggs Bay-Dragon Swamp,Pitts Lumber,NAD83,Gloucester County,FALSE,,51073,020801020204,Virginia,Lower Chesapeake
+HAWQS.DRP2,DRP1,Deep Run Park 1,37.6224,-77.5863,,Tuckahoe Creek,,NAD83,Henrico County,FALSE,Spillway below southernmost lake at Deep Run Park,51087,020802050605,Virginia,James
+TUPMP.DRYRIV001,DRYRIV001,Dry River,38.569886,-79.095235,,Skidmore Fork-Dry River,Dry River,NAD83,Rockingham County,FALSE,,51165,020700050501,Virginia,
+TUPMP.DUTCCR001,DUTCCR001,Dutch Creek,37.759823,-78.795307,,Dutch Creek-Rockfish River,Dutch Creek,NAD83,Nelson County,FALSE,,51125,020802031002,Virginia,
+TUPMP.DUTCCR002,DUTCCR002,Dutch Creek,37.763128,-78.785505,,Dutch Creek-Rockfish River,Dutch Creek,NAD83,Nelson County,FALSE,,51125,020802031002,Virginia,
+TUPMP.EADRBR001,EADRBR001,East Dry Branch,38.20305,-79.25378,,Buffalo Branch-Middle River,East Dry Branch,NAD83,Augusta County,FALSE,,51015,020700050102,Virginia,
+ACB.EASRIV2.75,EASRIV2.75,William's Warf Landing on East River,37.4029071,-76.3463915,,East River,Sampling on the public dock,NAD83,Mathews County,TRUE,David and Kerry Harlan,51115,020801020405,Virginia,
+HAWQS.EL1,EL1,Echo Lake 1,37.67076,-77.54777,,Grassy Swamp Creek-Chickahominy River,,NAD83,Henrico County,FALSE,Echo Lake 1 is located on the back pedestrian bridge at Echo Lake Park,51087,020802060401,Virginia,James
+HAWQS.EL2,EL2,Echo Lake 2,37.67443,-77.5481,,Grassy Swamp Creek-Chickahominy River,,NAD83,Henrico County,FALSE,Echo Lake 2 is located at the front pedestrian bridge in Echo Lake Park at the spillway,51087,020802060401,Virginia,James
+ACB.ENGRUN,ENGRUN,England Run,38.3318,-77.5071,,Hazel Run-Rappahannock River,,NAD83,Stafford County,FALSE,,51179,020801040102,Virginia,Lower Chesapeake
+LACA.EX-1,EX-1,,38.11488,-78.01012,,Lake Anna,Lake Lousia Dam,NAD83,Louisa County,FALSE,Dam on Lake Louisa off Blue Ridge Rd,51109,020801060402,Virginia,
+LACA.EX-12,EX-12,,38.096,-77.96222,,Lake Anna,Goldmine Creek,NAD83,Louisa County,FALSE,Rte 613 - Gold Mine Creek at bridge,51109,020801060403,Virginia,
+LACA.EX-13,EX-13,,38.08816,-77.90111,,Lake Anna,Christopher Run,NAD83,Louisa County,FALSE,Rte 613 - Christopher Run,51109,020801060404,Virginia,
+LACA.EX-2,EX-2,,38.11522,-78.00257,,Lake Anna,Hickory Creek,NAD83,Louisa County,FALSE,Rte 669 - Downstream Lake Louisa,51109,020801060402,Virginia,
+LACA.EX-4,EX-4,,38.1222,-77.9847,,Lake Anna,North Anna River,NAD83,Louisa County,FALSE,Rte 651 - 1.5 miles above Lake Anna (NAR061.09),51109,020801060401,Virginia,
+LACA.EX-5,EX-5,,38.13902,-78.00667,,Lake Anna,North Anna River,NAD83,Orange County,FALSE,Rte 669 - 3 miles above Lake Anna (Bridge 6907),51137,020801060401,Virginia,
+LACA.EX-9,EX-9,,38.10709,-78.03813,,Lake Anna,Hickory Creek,NAD83,Louisa County,FALSE,Just above Lake Louisa - Bridge on Lakeshore Drive,51109,020801060402,Virginia,
+TUPMP.FALLRU002,FALLRU002,Falls Run,37.790524,-78.796783,,Dutch Creek-Rockfish River,Falls Run,NAD83,Nelson County,FALSE,,51125,020802031002,Virginia,
+TUPMP.FALLRU003,FALLRU003,Falls Run,37.777397,-78.794247,,Dutch Creek-Rockfish River,Falls Run,NAD83,Nelson County,FALSE,,51125,020802031002,Virginia,
+CWT.FCR10,FCR10,CWT FCR 10,37.45847,-77.48428,,Falling Creek,shorelline behind 4320 Reservoir Lane,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.FCR5,FCR5 ,,37.4591,-77.4834,,Falling Creek,On a private dock at 4309 Reservoir Lane,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.FCR6,FCR6,,37.4622,-77.4683,,Falling Creek,On a private dock at 4400 Lake Hill Court ,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.FCR7,FCR7,,37.4587,-77.4777,,Falling Creek,On a private dock at 4600 Selwood Road,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+CWT.FCR8,FCR8,,37.4854,-77.4732,,Almond Creek-James River,On a private dock at 4600 Melody Court ,NAD83,Richmond city,FALSE,,51760,020802060101,Virginia,James
+CWT.FCR9,FCR9,Falling Creek Reservoir 8,37.459,-77.4749,,Falling Creek,dock at 4150 October Road,NAD83,Chesterfield County,FALSE,,51041,020802060102,Virginia,James
+TUPMP.FENTCR001,FENTCR001,Fenton Creek,37.900652,-78.972298,,South Fork Rockfish River,Fenton Creek,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+ACB.FOR1,FOR1,,38.2898,-77.4816,,Hazel Run-Rappahannock River,HAZEL RUN / ALUM SPRINGS PARK,NAD83,Fredericksburg city,TRUE,,51630,020801040102,Virginia,Lower Chesapeake
+ACB.FOR11,FOR11,,38.27315,-77.53598,,Hazel Run-Rappahannock River,HAZEL RUN AT SALEM CHURCH ROAD,NAD83,Spotsylvania County,FALSE,Ben Raterman- monitor,51177,020801040102,Virginia,Lower Chesapeake
+ACB.FOR12,FOR12,Long Branch,38.26762772,-77.50488281,,Hazel Run-Rappahannock River,Long Branch (Hazel Run tributary) at Harrison Road,NAD83,Spotsylvania County,FALSE,,51177,020801040102,Virginia,
+ACB.FOR13,FOR13,Hazel Run,38.28559113,-77.49178314,,Hazel Run-Rappahannock River,Hazel Run at Kings Mill,NAD83,Fredericksburg city,TRUE,,51630,020801040102,Virginia,
+ACB.FOR14,FOR14,Hazel Run,38.20449829,-77.45950317,,Poni River,Hazel Run south of Gunnary Roads,NAD83,Spotsylvania County,TRUE,,51177,020801050105,Virginia,
+ACB.FOR16,FOR16,,38.348611,-77.580556,,Motts Run-Rappahannock River,Horsepen Run,NAD83,Stafford County,TRUE,,51179,020801040101,Virginia,Lower Chesapeake
+ACB.FOR17,FOR17,,38.313611,-77.540556,,Motts Run-Rappahannock River,Motts Run Landing,NAD83,Spotsylvania County,TRUE,,51177,020801040101,Virginia,Lower Chesapeake
+ACB.FOR18,FOR18,,38.321111,-77.488889,,Hazel Run-Rappahannock River,Rappahannock at FOR Beach,NAD83,Fredericksburg city,TRUE,,51630,020801040102,Virginia,Lower Chesapeake
+ACB.FOR2,FOR2,,38.3188,-77.4859,,Hazel Run-Rappahannock River,RAPPAHANNOCK RIVER (NONTIDAL),NAD83,Fredericksburg city,FALSE,Keith Homza - monitor,51630,020801040102,Virginia,Lower Chesapeake
+ACB.FOR4,FOR4,,38.1902,-77.201,,Goldenvale Creek-Rappahannock River,RAPPAHANNOCK RIVER (TIDAL),NAD83,King George County,FALSE,Keith Homza - Monitor,51099,020801040203,Virginia,Lower Chesapeake
+ACB.FOR6,FOR6,Hazel Run,38.29230118,-77.45659637,,Hazel Run-Rappahannock River,Hazel Run between rt 17/2 and rt. 3,NAD83,Fredericksburg city,TRUE,,51630,020801040102,Virginia,
+ACB.FOR7,FOR7,Hazel Run,38.29109955,-77.50589752,,Hazel Run-Rappahannock River,Hazel Run tributary east of Gateway Blvd.,NAD83,Fredericksburg city,FALSE,,51630,020801040102,Virginia,
+ACB.FOR8,FOR8,,38.2566,-77.4158,,Hazel Run-Rappahannock River,RAPPAHANNOCK RIVER AT LITTLE FALLS BOAT RAMP,NAD83,Stafford County,FALSE,,51179,020801040102,Virginia,Lower Chesapeake
+ACB.FOR9,FOR9,Smith Run/Hazel Run,38.30410004,-77.49259949,,Hazel Run-Rappahannock River,Smith Run/Hazel Run at manor drive,NAD83,Fredericksburg city,FALSE,,51630,020801040102,Virginia,
+ACB.FOR-Kinsey1,FOR-Kinsey1,,38.422793,-78.374048,,Garth Run-Rapidan River,FOR Kinsey Run,NAD83,Madison County,FALSE,Bryan Hoffman,51113,020801030701,Virginia,Lower Chesapeake
+ACB.FOR-Kinsey2,FOR-Kinsey2,,38.42312,-78.372267,,Garth Run-Rapidan River,FOR Kinsey Run,NAD83,Madison County,FALSE,Bryan Hoffman,51113,020801030701,Virginia,Lower Chesapeake
+PVMN.GA,GA,Garden Atrium,37.13705,-76.3896,,Poquoson River-Lower Chesapeake Bay,Poquoson Ave and Wythe Creek Road,NAD83,Poquoson city,TRUE,,51735,020801080101,Virginia,Lower Chesapeake
+ACB.GC,GC,,37.46921,-77.45798,,Falling Creek,Grindall Creek,NAD83,Richmond city,FALSE,,51760,020802060102,Virginia,James
+JMSAWCD.GC1,GC1,Goose Creek 1,38.90555,-77.9975,,Mitchells Branch-Goose Creek,Goose Creek at Rt. 688 (Leeds Manor Road),NAD83,Fauquier County,FALSE,,51061,020700080501,Virginia,Potomac
+PVMN.GC1,GC1,Goose Creek,37.19409,-76.42587,,Poquoson River-Lower Chesapeake Bay,Backyard water access of a private residence,NAD83,York County,TRUE,,51199,020801080101,Virginia,Lower Chesapeake
+JMSAWCD.GC2,GC2,Goose Creek 2,38.90331,-77.93577,,Mitchells Branch-Goose Creek,Unnamed Tributary No. 7 to Goose Creek at Rt. 55,NAD83,Fauquier County,FALSE,,51061,020700080501,Virginia,Potomac
+JMSAWCD.GC3,GC3,Goose Creek 3,38.9201,-77.87233,,Crooked Run-Goose Creek,Unnamed Tributary No. 4 to Goose Creek at Rt. 713 (Maidstone Road),NAD83,Fauquier County,FALSE,,51061,020700080502,Virginia,Potomac
+ACB.GIL02,GIL02,,37.5278854,-77.3928452,,Almond Creek-James River,Gillies Creek a split with Stoney Run,NAD83,Richmond city,FALSE,Utility road just south of Jennie Scher Rd.,51760,020802060101,Virginia,James
+ACB.GIL03,GIL03,,37.522728,-77.416358,,Almond Creek-James River,Gillies Creek by Stone Brewery,NAD83,Richmond city,FALSE,Park at Stone Brewing and follow trail entrance under the train bridge.,51760,020802060101,Virginia,James
+TUPMP.GOODCR002,GOODCR002,Goodwin Creek,37.97616,-78.86233,,North Fork Rockfish River,Goodwin Creek,NAD83,Nelson County,FALSE,,51125,020802030901,Virginia,
+ACB.GP1,GP1,,36.9952984,-76.5824258,,Jones Creek-Pagan River,GATLING POINT ISLE OF WIGHT,NAD83,Isle of Wight County,FALSE,COLLECTION FROM A PIER AT THE GATLING POINT YACHT CLUB ON MARINA ROAD,51093,020802060904,Virginia,James
+JMSAWCD.GP1,GP1,Gap Run 1,38.94361,-77.89528,,Crooked Run-Goose Creek,Gap Run at Rt. 623 (Rokeby Road),NAD83,Fauquier County,FALSE,,51061,020700080502,Virginia,Potomac
+ACB.GP3,GP3,Goshen Pass,37.9824,-79.23625,,Stony Run-South River,"Maury River near the lower end of Goshen Pass at my home, 65 Flat Rock Lane, Rockbridge Baths, Va. 24473",NAD83,Augusta County,FALSE,"This site is in the Allegheny Mountains about 13 miles northwest of Lexington, Va., in Rockbridge County. The river passes between two steep slopes here. Most of the surrounding area is owned by the state but there are a few private holdings. Three miles upstream the Calfpasture and the Little Calfpasture (impaired/sediment) come together to form the Maury. The river runs for 43 miles, all in Rockbridge County, and empties into the James at Glasgow, as the James enters the Blue Ridge Mountains.
+
+Monitor: John Pancake",51015,020700050701,Virginia,Potomac
+TUPMP.GULLCR001,GULLCR001,Gullysville Creek,37.861389,-78.861944,,Buck Creek-Rockfish River,Gullysville Creek,NAD83,Nelson County,FALSE,,51125,020802030903,Virginia,
+ACB.GW1,GW1,Mallard Bay,37.87110901,-76.43110657,,Great Wicomico River,Mallard Bay,NAD83,Northumberland County,TRUE,,51133,020801020102,Virginia,
+ACB.HALCRE0.72,HALCRE0.72,Halfway Creek,37.2408,-76.6916,,College Creek,Halfway Creek at Carter's Grove Country Road,NAD83,James City County,TRUE,Sampling is with a bucket from a pedestrian bridge in the channel,51095,020802060801,Virginia,James
+ACB.HALCRE3,HALCRE3,Tributary of Halfway Creek,37.239145,-76.664161,,College Creek,Tributary of Halfway Creek,NAD83,James City County,TRUE,Perennial Stream behind 2 Whittakers Mill Rd,51095,020802060801,Virginia,James
+TUPMP.HAMIBR001,HAMIBR001,Hamilton Branch,38.19035,-79.42254,,Hamilton Branch,Hamilton Branch,NAD83,Augusta County,FALSE,,51015,020802020104,Virginia,
+TUPMP.HAMIBR002,HAMIBR002,Hamilton Branch,38.18525,-79.39462,,Hamilton Branch,Hamilton Branch,NAD83,Augusta County,FALSE,,51015,020802020104,Virginia,
+ACB.HAYCRE1.45,HAYCRE1.45,Hay;s Creek below turkey house,37.911234,-79.40021,,Hays Creek,The point of sampling is from the bridge on Walkers Creek Road (rt. 602) using a bucket lowered from the bridge (about 20' above the creek).,NAD83,Rockbridge County,FALSE,Monitor: Jeff Scott,51163,020802020205,Virginia,James
+ACB.HAYCRE2.45,HAYCRE2.45,Hays Creek,37.93414,-79.34192,,Hays Creek,Hays Creek near the intersection of Hays Creek Road and McElwee Road. The site is the bridge crossing Hays Creek on McElwee Road.,NAD83,Rockbridge County,FALSE,Monitor: Greg Amonette,51163,020802020205,Virginia,
+ACB.HAYCRE3.5,HAYCRE3.5,Hays Creek at Walkers Creek,37.925606,-79.387617,,Hays Creek,The point of sampling is underneath the bridge on Walkers Creek Road,NAD83,Rockbridge County,FALSE,Monitor: Jeff Scott,51163,020802020205,Virginia,James
+ACB.HAZRUN,HAZRUN,Hazel Run,38.27963,-77.499828,,Hazel Run-Rappahannock River,,NAD83,Fredericksburg city,FALSE,Hazel Run immediately upstream of its confluence with Long Branch,51630,020801040102,Virginia,Lower Chesapeake
+PVMN.HB1,HB1,James River,37.02821,-76.46536,,Cooper Creek-James River,,NAD83,Newport News city,TRUE,At fishing pier near the shoreline,51700,020802060906,Virginia,James
+HAWQS.HB1,HB1,Hardings Branch,37.632049,-77.649008,,Tuckahoe Creek,"tributary of Tuckahoe Creek, back of 2601 Bradway Ln",NAD83,Henrico County,FALSE,,51087,020802050605,Virginia,James
+ACB.HC,HC,Horse Creek,37.59866,-77.4263,,Powhite Creek-Chickahominy River,Horse Creek at Lark Drive,NAD83,Henrico County,TRUE,,51087,020802060501,Virginia,James
+HAWQS.HC1,HC1,Hungary Creek,37.648866,-77.496569,,Upham Brook,,NAD83,Henrico County,TRUE,Located off Woodman Road on pull off area,51087,020802060403,Virginia,James
+PVMN.HC2,HC2,Hampton River,37.02014,-76.34401,,Hampton River-Hampton Roads,,NAD83,Hampton city,TRUE,At Hampton Yacht Club at end of pier,51650,020802080303,Virginia,James
+HAWQS.HCLR,HC2,Horse Creek,37.598688,-77.4265,,Powhite Creek-Chickahominy River,Off Lark Road by Richmond Henrico Turnpike Road,NAD83,Henrico County,TRUE,,51087,020802060501,Virginia,James
+HAWQS.HCP1,HCP1,Hidden Creek Park,37.555637,-77.394187,,Almond Creek-James River,Stream that runs in Hidden Creek Park,NAD83,Henrico County,TRUE,,51087,020802060101,Virginia,James
+ACB.HGC,HGC,Hungary Creek,37.64886,-77.49663,,Upham Brook,Hungary Creek,NAD83,Henrico County,TRUE,,51087,020802060403,Virginia,
+TUPMP.HODGDR001,HODGDR001,Hodges Draft,38.27493,-79.38364,,Holloway Draft-Calfpasture River,Hodges Draft,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.HODGDR002,HODGDR002,Hodges Draft,38.26031,-79.37106,,Holloway Draft-Calfpasture River,Hodges Draft,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.HODGDR003,HODGDR003,Hodges Draft,38.23334,-79.34763,,Holloway Draft-Calfpasture River,Hodges Draft,NAD83,Augusta County,FALSE,,51015,020802020103,Virginia,
+TUPMP.HOQURU001,HOQURU001,Hone Quarry Run,38.473396,-79.146968,,Briery Branch,Hone Quarry Run,NAD83,Rockingham County,FALSE,,51165,020700050403,Virginia,
+ACB.HR2,HR2,Hague Tidal Inlet,36.85599899,-76.29419708,,Elizabeth River,"Hague Tidal Inlet, East side",NAD83,Norfolk city,TRUE,,51710,020802080206,Virginia,
+ACB.HSC01,HSC01,Horse Swamp Creek,37.59866,-77.4263,,Powhite Creek-Chickahominy River,Horse Creek at Lark Drive,NAD83,Henrico County,FALSE,"Historically named, HC and named RVA-HSC01 for City of Richmond lab data.",51087,020802060501,Virginia,James
+HAWQS.WL1,IL1,Innsbrook Lake 1,37.65998,-77.57763,,Grassy Swamp Creek-Chickahominy River,,NAD83,Henrico County,FALSE,Pedestrian bridge behind ALFA Alliance Insurance Building,51087,020802060401,Virginia,James
+JRA.J05,J05,,37.2239,-76.788613,,Broad Swamp-James River,James River at Jamestown Beach,NAD83,James City County,TRUE,,51095,020802060701,Virginia,
+JRA.J08,J08,,37.518597,-77.416635,,Almond Creek-James River,James River at Rocketts Landing,NAD83,Richmond city,TRUE,,51760,020802060101,Virginia,
+JRA.J10,J10,,37.530947,-77.431925,,Little Westham Creek-James River,James River at 14th Street,NAD83,Richmond city,TRUE,,51760,020802050607,Virginia,
+JRA.J20,J20,,37.534353,-77.445372,,Little Westham Creek-James River,James River at Rope Swing at Tredegar,NAD83,Richmond city,TRUE,,51760,020802050607,Virginia,
+JRA.J21,J21,,37.524391,-77.469575,,Little Westham Creek-James River,James River at Reedy Creek,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,
+JRA.J22,J22,,37.52677,-77.475694,,Little Westham Creek-James River,James River at 42nd St Access,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,
+JRA.J23,J23,,37.551591,-77.520421,,Little Westham Creek-James River,James River at Pony Pasture,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,
+JRA.J24,J24,,37.56054,-77.545782,,East Branch Tuckahoe Creek-James River,James River at Huguenot Flatwater,NAD83,Henrico County,FALSE,,51087,020802050606,Virginia,
+JRA.J25,J25,,37.6661,-77.888811,,Mohawk Creek-James River,James River at Tucker Park (Maidens Crossing),NAD83,Goochland County,FALSE,,51075,020802050504,Virginia,
+JRA.J26,J26,,37.559211,-77.646665,,East Branch Tuckahoe Creek-James River,James River at Robious Landing Park,NAD83,Chesterfield County,FALSE,,51041,020802050606,Virginia,
+JRA.J30,J30,,37.797533,-78.49055,,Little George Creek-James River,James River at Scottsville Boat Landing,NAD83,Fluvanna County,FALSE,,51065,020802031104,Virginia,
+JRA.J35,J35,,37.41605,-79.13675,,Opossum Creek-James River,James River at Riveredge Park Boat Landing,NAD83,Amherst County,FALSE,,51009,020802030305,Virginia,
+JRA.J40,J40,,37.529933,-79.679078,,Purgatory Creek-James River,James River at Buchanan Boat Landing,NAD83,Botetourt County,FALSE,,51023,020802011501,Virginia,
+TUPMP.JAMERI001,JAMERI001,James River,37.687656,-78.692628,,Sycamore Creek-James River,James River,NAD83,Buckingham County,FALSE,,51029,020802030804,Virginia,
+TUPMP.JAMERI002,JAMERI002,James River,37.636111,-78.7201,,Mallorys Creek-James River,James River,NAD83,Nelson County,FALSE,,51125,020802030803,Virginia,
+HAWQS.JB1,JB1,Jordan Branch 1,37.58861,-77.49361,,Upham Brook,,NAD83,Henrico County,FALSE,450 feet upstream of Staples Mill Road,51087,020802060403,Virginia,James
+TUPMP.JENNBR001,JENNBR001,Jennings Branch,38.2751,-79.1991,,Jennings Branch,Jennings Branch,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.JENNBR002,JENNBR002,Jennings Branch,38.220944,-79.144206,,Jennings Branch,Jennings Branch,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.JERKBR001,JERKBR001,Jerkemtight Branch,38.16906,-79.46398,,Hamilton Branch,Jerkemtight Branch,NAD83,Augusta County,FALSE,,51015,020802020104,Virginia,
+ACB.JOR1,JOR1,,37.597255,-77.473902,,Upham Brook,JORDANS BRANCH,NAD83,Richmond city,FALSE,Same site as JB1,51760,020802060403,Virginia,James
+ACB.JP,JP,Jones Pond,38.3638905,-77.1422058,,Chotank Creek-Potomac River,Jones Pond,NAD83,King George County,FALSE,Sample will be collected off the bank by the pavillion; collect using a bucket.,51099,020700110303,Virginia,Potomac
+ACB.JRB,JRB,James River at Belmead,37.6244,-77.9831,,Picketts Creek-James River,,NAD83,Powhatan County,FALSE,Sr. Elena Henderson,51145,020802050403,Virginia,James
+ACB.JRRC,JRRC,,37.52577,-77.42113,,Almond Creek-James River,James River Canal at Great Shiplock Park,NAD83,Richmond city,TRUE,MStohr,51760,020802060101,Virginia,James
+ACB.JRTP,JRTP,James River at Tucker Park,37.6652,-77.886667,,Mohawk Creek-James River,,NAD83,Goochland County,FALSE,Sr. Elena Henderson,51075,020802050504,Virginia,James
+TUPMP.KENNCR001,KENNCR001,Kennedy Creek,37.971389,-79.009722,,Canada Run-South River,Kennedy Creek,NAD83,Augusta County,FALSE,,51015,020700050702,Virginia,
+TUPMP.KEPHRU001,KEPHRU001,Kephart Run,38.547028,-79.065193,,Black Run-Dry River,Kephart Run,NAD83,Rockingham County,FALSE,,51165,020700050502,Virginia,
+PVMN.LC1,LC1,Lucas Creek,37.11995,-76.55054,,Warwick River,,NAD83,Newport News city,TRUE,Floating dock in creek 10 ft off shore.,51700,020802060901,Virginia,James
+RCA.LDC01,LDC01,Lodge Creek,38.01674,-78.49583,,Moores Creek,Lodge Creek- Southeast of 5th Street,NAD83,Charlottesville city,FALSE,100 feet upstream of confluence with Rock Creek,51540,020802040402,Virginia,
+RCA.LDC03,LDC03,Lodge Creek,38.026649,-78.51153,,Moores Creek,Lodge Creek- South of Jefferson Park Avenue,NAD83,Charlottesville city,FALSE,"""250 feet south of Jefferson Park Avenue, upstream of railroad tracks""",51540,020802040402,Virginia,
+PVMN.LGC,LGC,Long Creek,37.080639,-76.281278,,Back River-Lower Chesapeake Bay,Back River bordering Grandview Nature Preserve,NAD83,Hampton city,TRUE,,51650,020801080104,Virginia,Lower Chesapeake
+TUPMP.LICARI001,LICARI001,Little Calfpasture River,37.949688,-79.459572,,Lower Little Calfpasture River,Little Calfpasture River,NAD83,Rockbridge County,FALSE,,51163,020802020202,Virginia,
+TUPMP.LICECR001,LICECR001,Little Cedar Creek,37.58885,-79.29205,,Browns Creek-Pedlar River,Little Cedar Creek,NAD83,Amherst County,FALSE,,51009,020802030202,Virginia,
+TUPMP.LIDRRI001,LIDRRI001,Little Dry River,38.661366,-78.92325,,Little Dry River,Little Dry River,NAD83,Rockingham County,FALSE,,51165,020700060104,Virginia,
+ACB.LILTOT,LILTOT,Little Totuskey Creek,37.9262344,-76.7199799,,Little Totuskey Creek,Little Totuskey Creek RT 620 Bridge,NAD83,Richmond County,TRUE,COLLECTION FROM BRIDGE CROSSING; LOCATION DETAILS: RT 620 BRIDGE OVER CREEK,51159,020801040501,Virginia,Lower Chesapeake
+TUPMP.LIMACR001,LIMACR001,Little Mahoning Creek,37.88137,-78.91967,,South Fork Rockfish River,Little Mahoning Creek,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.LITTRI001,LITTRI001,Little River,38.364567,-79.161917,,Little River,Little River,NAD83,Augusta County,FALSE,,51015,020700050402,Virginia,
+TUPMP.LIVARU001,LIVARU001,Little Valley Run,38.197188,-79.68974,,Bolar Run-Jackson River,Little Valley Run,NAD83,Bath County,FALSE,,51017,020802010102,Virginia,
+TUPMP.LIVARU002,LIVARU002,Little Valley Run,38.194288,-79.692486,,Bolar Run-Jackson River,Little Valley Run,NAD83,Bath County,FALSE,,51017,020802010102,Virginia,
+TUPMP.LIWIRI001,LIWIRI001,Little Willis River,37.4111,-78.4125,,Little Willis River,Little Willis River,NAD83,Cumberland County,FALSE,,51049,020802050203,Virginia,
+HAWQS.LL1,LL1,Lake Loreine,37.630694,-77.604132,,Tuckahoe Creek,2405 Islanview Drive,NAD83,Henrico County,FALSE,,51087,020802050605,Virginia,James
+ACB.LMC,LMC,Lower Machadoc Creek,38.11827,-76.635814,,Lower Machodoc Creek-Potomac River,"Private doc on 324 Peaceful Harbor Lane, Hague VA 22469",NAD83,Westmoreland County,TRUE,"Monitor: Patricia McMurray
+Private dock in residential neighborhood on lower Mochodoc Creek",51193,020700110803,Virginia,Potomac
+JMSAWCD.LR1,LR1,Little River 1,38.89655,-77.7571,,Little River,Little River at Rt. 705 (Herringdon Road),NAD83,Fauquier County,FALSE,,51061,020700080701,Virginia,Potomac
+JMSAWCD.LR2,LR2,Little River 2,38.91472,-77.74361,,Little River,Little River at Rt. 626 (Halfway Road),NAD83,Fauquier County,FALSE,,51061,020700080701,Virginia,Potomac
+ACB.LWC,LWC,Little Westham Creek,37.56807,-77.53628,,Little Westham Creek-James River,Little Westham Creek,NAD83,Henrico County,FALSE,,51087,020802050607,Virginia,
+HAWQS.LWC1,LWC1,Little Westham Creek,37.56776,-77.53653,,Little Westham Creek-James River,Little Westham Creek at Huguenot Road heading east,NAD83,Henrico County,FALSE,Little Westham Creek at Huguenot Road heading east,51087,020802050607,Virginia,James
+JRA.M05,M05,,37.753461,-79.392316,,Bennetts Run-Maury River,Maury River at Ben Salem Wayside,NAD83,Rockbridge County,FALSE,,51163,020802020501,Virginia,
+JMSAWCD.M1,M1,Marsh Run 1,38.56651,-77.75789,,Marsh Run,50 feet downstream of Rt. 17 bridge (Access from Luck Stone Rd),NAD83,Fauquier County,FALSE,,51061,020801030601,Virginia,Lower Chesapeake
+JMSAWCD.M2,M2,Marsh Run 2,38.50815,-77.76401,,Marsh Run,Marsh Run at Savannah Branch Rd (Rt. 668) bridge,NAD83,Fauquier County,FALSE,,51061,020801030601,Virginia,Lower Chesapeake
+JMSAWCD.M3,M3,Marsh Run 3,38.47493,-77.77254,,Marsh Run,50 feet downstream of Summerduck Rd (Rt. 651) bridge (Access from DGIF parking lot),NAD83,Fauquier County,FALSE,,51061,020801030601,Virginia,Lower Chesapeake
+ACB.MANCAN,MANCAN,Manchester Canal,37.52586,-77.43108,,Little Westham Creek-James River,Drainage canal that empties into James River,NAD83,Richmond city,TRUE,"Primary Monitor: Sonia Pham
+Secondary Monitor: Alliance intern",51760,020802050607,Virginia,James
+TUPMP.MARSRU001,MARSRU001,Marshall Run,38.684433,-78.934533,,Capon Run-North Fork Shenandoah River,Marshall Run,NAD83,Rockingham County,FALSE,,51165,020700060103,Virginia,
+ACB.MAT3,MAT3,Mattaponi River 3,37.9080349,-77.2992656,,Union Swamp-Mattaponi River,,NAD83,Caroline County,FALSE,"Located on Reedy Mill Road (Rt 647) at the bridge just north of the Route 601, Mout Vernon Church Road.",51033,020801050303,Virginia,Lower Chesapeake
+ACB.MATCRE3.9,MATCRE3.9,,38.2047463,-77.0008643,,Mattox Creek,At the dock at Nancy's house.,NAD83,Westmoreland County,TRUE,"Carla Bangs, Nancy Joel to start out and w/ backup",51193,020700110603,Virginia,
+TUPMP.MATTCR002,MATTCR002,Matthews Creek,37.5694,-78.6595,,Meadow Creek-North River,Matthews Creek,NAD83,Buckingham County,FALSE,,51029,020802031302,Virginia,
+ACB.Maymont,Maymont,Maymont Park Dooley Creek,37.53619,-77.4788,,Little Westham Creek-James River,Maymont Park at Dooley Creek,NAD83,Richmond city,FALSE,Stream flows from Bird Park and transects the Maymont grounds with a small drainage from Hampton Street joining it below the Nature Center. ,51760,020802050607,Virginia,James
+TUPMP.MAYOCR001,MAYOCR001,Mayo Creek,37.674833,-78.733717,,Sycamore Creek-James River,Mayo Creek,NAD83,Nelson County,FALSE,,51125,020802030804,Virginia,
+TUPMP.MAYOCR002,MAYOCR002,Mayo Creek,37.661967,-78.71965,,Sycamore Creek-James River,Mayo Creek,NAD83,Nelson County,FALSE,,51125,020802030804,Virginia,
+ACB.MB,MB,Meredeth Branch,37.6707494,-77.5477697,,Grassy Swamp Creek-Chickahominy River,Meredeth Branch as it enters Echo Lake,NAD83,Henrico County,FALSE,RMN site - Dan Schardein and Art Ritter,51087,020802060401,Virginia,James
+PVMN.MC2,MC2,Mill Creek 2,37.009306,-76.307083,,Hampton River-Hampton Roads,,NAD83,Hampton city,TRUE,Ramp at Ft. Monroe,51650,020802080303,Virginia,James
+RCA.MDC01,MDC01,Meade Creek,38.028026,-78.46503,,Meadow Creek-Rivanna River,Meade Creek- Meade Park,NAD83,Charlottesville city,FALSE,"""Meade Park, downstream of bridge""",51540,020802040401,Virginia,
+TUPMP.MIDDRI001,MIDDRI001,Middle River,38.20549,-79.13815,,Buffalo Branch-Middle River,Middle River,NAD83,Augusta County,FALSE,,51015,020700050102,Virginia,
+TUPMP.MIDDRI002,MIDDRI002,Middle River,38.20461,-79.14644,,Buffalo Branch-Middle River,Middle River,NAD83,Augusta County,FALSE,,51015,020700050102,Virginia,
+ACB.MILCRE2.5,MILCRE2.5,,37.7911072,-76.3313772,,Dividing Creek-Lower Chesapeake Bay,Mill Creek,NAD83,Northumberland County,TRUE,Camille Grabb and Karen Williams,51133,020801020104,Virginia,
+ACB.MILCRE3.65,MILCRE3.65,Mill Creek at Hickory Signpost Road,37.24611,-76.75266,,Lower Chippokes Creek-James River,Stream running behind housing area parallel to road - pumping station,NAD83,James City County,TRUE,,51095,020802060704,Virginia,James
+ACB.MILCRE3.9,MILCRE3.9,,37.8001956,-76.3507398,,Dividing Creek-Lower Chesapeake Bay,Mill Creek 3.9 miles from the mouth,NAD83,Northumberland County,TRUE,Camille Grabb and Karen Williams,51133,020801020104,Virginia,
+TUPMP.MILLCR002,MILLCR002,Mill Creek,38.004314,-79.53656,,Cabin Creek-Mill Creek,Mill Creek,NAD83,Rockbridge County,FALSE,,51163,020802020106,Virginia,
+TUPMP.MILLCR003,MILLCR003,Mill Creek,37.971351,-78.964351,,Inch Branch-Back Creek,Mill Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+TUPMP.MILLCR004,MILLCR004,Mill Creek,38.06853,-79.52718,,Cabin Creek-Mill Creek,Mill Creek,NAD83,Bath County,FALSE,,51017,020802020106,Virginia,
+TUPMP.MILLCR005,MILLCR005,Mill Creek,38.15796,-79.47326,,Cabin Creek-Mill Creek,Mill Creek,NAD83,Bath County,FALSE,,51017,020802020106,Virginia,
+ACB.MJBC,MJBC,in Sandusky Park,37.389118,-79.199409,,Blackwater Creek,in Sandusky Park,NAD83,Lynchburg city,FALSE,,51680,020802030304,Virginia,
+ACB.MJIC,MJIC,at Peaks View Park,37.419603,-79.223732,,Cheese Creek-Ivy Creek,at Peaks View Park,NAD83,Lynchburg city,FALSE,,51680,020802030303,Virginia,
+ACB.MJJC,MJJC,at Trents Ferry Rd,37.468728,-79.210095,,Judith Creek-James River,at Trents Ferry Rd,NAD83,Bedford County,FALSE,,51019,020802030301,Virginia,
+ACB.MJTR,MJTR,Middle James Tye River,37.63453,-78.90417,,Brown Creek-Tye River,Tye River,NAD83,Nelson County,FALSE,,51125,020802030701,Virginia,James
+ACB.MM,MM,Mallows Marsh,38.3476637,-77.1578686,,Chotank Creek-Potomac River,Mallows Marsh,NAD83,King George County,FALSE,Sample will be collected by cavert on the road. Collect in a bucket from mid-channel from the fallen tree.,51099,020700110303,Virginia,Potomac
+ACB.MOFCRE0.6,MOFCRE0.6,Moffatts Creek,37.9508,-79.29895,,Hays Creek,Intersection of Moffatts Creek and Beard Road,NAD83,Rockbridge County,FALSE,Monitor: Catherine Siegel,51163,020802020205,Virginia,James
+TUPMP.MOORRI001,MOORRI001,Moores Run,38.1293,-78.723823,,North Moormans River-Moormans River,Moores Run,NAD83,Albemarle County,FALSE,,51003,020802040103,Virginia,
+ACB.MOURUN1,MOURUN1,Mouse Run,37.874,-79.379,,Alone Mill Creek-Maury River,Mouse Run is a small stream that flows into the Maury River. It passes through some cow pastures and woods.,NAD83,Rockbridge County,FALSE,Monitor: Lisa Connors,51163,020802020301,Virginia,James
+PVMN.MP,MP,"Messick Point, Poquoson",37.1091,-76.3184,,Back River-Lower Chesapeake Bay,,NAD83,Poquoson city,TRUE,,51735,020801080104,Virginia,Lower Chesapeake
+RCA.MSV05,MSV05,Moores Creek,38.01015,-78.51667,,Moores Creek,Moores Creek- Azela Park,NAD83,Albemarle County,FALSE,"""Upper at Azalea Park, near baseball field""",51003,020802040402,Virginia,
+ACB.MUD1,MUD1,Muddy Creek 1,38.258294,-77.339088,,Muddy Creek-Rappahannock River,"A sample station on Muddy Creek, Stafford County VA",NAD83,Stafford County,TRUE,,51179,020801040104,Virginia,Lower Chesapeake
+RCA.MWC11,MWC11,Meadow Creek,38.054943,-78.49413,,Meadow Creek-Rivanna River,Meadow Creek- East of Morton Drive,NAD83,Charlottesville city,FALSE,275 feet downstream of Morton Drive,51540,020802040401,Virginia,
+RCA.MWC12,MWC12,Meadow Creek,38.046887,-78.50498,,Meadow Creek-Rivanna River,Meadow Creek Unnamed Trib- Copeley Road,NAD83,Charlottesville city,FALSE,At Copeley Road,51540,020802040401,Virginia,
+RCA.MWC13,MWC13,Meadow Creek,38.063705,-78.47585,,Meadow Creek-Rivanna River,Meadow Creek- Southeast of Brandywine Drive,NAD83,Charlottesville city,FALSE,100 feet downstream of Brandywine Drive bridge,51540,020802040401,Virginia,
+ACB.Newtown,Newtown,Newtown Discovery Park Blvd Williamsburg VA,37.282,-76.7413,,Powhatan Creek,Stream in public park,NAD83,James City County,TRUE,,51095,020802060702,Virginia,James
+PVMN.NL,NL,"North Lawson Road, Poquoson",37.1408,-76.3639,,Poquoson River-Lower Chesapeake Bay,,NAD83,Poquoson city,TRUE,,51735,020801080101,Virginia,Lower Chesapeake
+ACB.NORRUN0.7,NORRUN0.7,North Run,37.6218822,-77.46326,,Upham Brook,Entrance to Jefferson Lakeside Country Club,NAD83,Henrico County,TRUE,Anna Shore,51087,020802060403,Virginia,James
+TUPMP.NORTRI002,NORTRI002,North River,38.362714,-79.17141,,Skidmore Fork-North River,North River,NAD83,Augusta County,FALSE,,51015,020700050401,Virginia,
+TUPMP.NORTRI003,NORTRI003,North River,38.334248,-79.23894,,Skidmore Fork-North River,North River,NAD83,Augusta County,FALSE,,51015,020700050401,Virginia,
+ACB.NR1,NR1,North Run 1,37.6377352,-77.4774313,,Upham Brook,,NAD83,Henrico County,FALSE,This site is located on the campus of J. Sargent Reynolds community college. The site is located on a footbridge the crosses North Run behind the campus.,51087,020802060403,Virginia,James
+HAWQS.NR1,NR1,North Run 1,37.63759,-77.47739,,Upham Brook,,NAD83,Henrico County,FALSE,Pedestrian Bridge located on northwest parking lot corner,51087,020802060403,Virginia,James
+NRPA.NR-1,NR-1,,36.9056,-76.4569,,Bennett Creek-Nansemond River,Mouth of the Nansemond River,NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080106,Virginia,
+HAWQS.NR2,NR2,North Run 2,37.62927,-77.4768,,Upham Brook,,NAD83,Henrico County,FALSE,450 feet south of recreation park tennis courts,51087,020802060403,Virginia,James
+NRPA.NR-2,NR-2,,36.8856,-76.4932,,Bennett Creek-Nansemond River,Rt. 17 Bridge,NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080106,Virginia,
+NRPA.NR-3,NR-3,,36.8567,-76.5483,,Bennett Creek-Nansemond River,Ferry Point,NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080106,Virginia,
+NRPA.NR-4,NR-4,,36.8375,-76.5483,,Bennett Creek-Nansemond River,Rt. 125 bridge (former),NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080106,Virginia,
+NRPA.NR-5,NR-5,,36.8056,-76.5589,,Bennett Creek-Nansemond River,Between Oyster House Creek and Western Branch,NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080106,Virginia,
+NRPA.NR-6,NR-6,,36.7783,-76.5472,,Cedar Lake-Nansemond River,Solenis (BASF),NAD83,Suffolk city,TRUE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",51800,020802080105,Virginia,
+NRPA.NR-7,NR-7,,36.740257,-76.579794,,,Rt. 460 Constants Wharf,NAD83,,FALSE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",,,,
+NRPA.NR-8,NR-8,Nansemond River and Shingle Creek,36.743688,-76.573843,,Cedar Lake-Nansemond River,Nansemond River and Shingle Creek,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,James
+HAWQS.OsborneLanding,OL1,Osbourne Landing 1,37.40235,-77.38779,,Proctors Creek-James River,,NAD83,Henrico County,FALSE,Off paved footpath by small creek that flows into James River,51087,020802060103,Virginia,James
+HAWQS.OL2,OL2,Osborne Landing 2,37.404078,-77.391027,,Proctors Creek-James River,,NAD83,Henrico County,FALSE,,51087,020802060103,Virginia,James
+PVMN.OR,OR,"Oxford Run, Poquoson",37.1192,-76.3915,,Northwest Branch Back River,,NAD83,Poquoson city,TRUE,,51735,020801080102,Virginia,Lower Chesapeake
+TUPMP.OREBCR001,OREBCR001,Orebank Creek,37.967042,-78.956641,,Inch Branch-Back Creek,Orebank Creek,NAD83,Augusta County,FALSE,,51015,020700050703,Virginia,
+JRA.P05,P05,,37.237651,-76.768367,,Powhatan Creek,Powhatan Creek Park,NAD83,James City County,TRUE,,51095,020802060702,Virginia,
+LACA.P13,P13,,38.23637,-77.97138,,Lake Anna,Upstream White's Farm,NAD83,Orange County,FALSE,BMP Evaluation Site for White's Farm,51137,020801060501,Virginia,
+LACA.P7,P7,,38.22682,-77.98037,,Lake Anna,White's Farm,NAD83,Orange County,FALSE,After BMP Fencing,51137,020801060501,Virginia,
+PVMN.PA,PA,"Poquoson Anvenue, Poquoson",37.1288,-76.3483,,Poquoson River-Lower Chesapeake Bay,,NAD83,Poquoson city,TRUE,,51735,020801080101,Virginia,Lower Chesapeake
+ACB.PAMRIV82,PAMRIV82,Pamunky River,37.788696,-77.370077,,Mechumps Creek-Pamunkey River,"Located on 301N, 2 miles North of Hanover Couthouse",NAD83,Hanover County,TRUE,,51085,020801060901,Virginia,Lower Chesapeake
+RCA.PBR01,PBR01,Pollock's Branch at Jordan Park,38.01004,-78.2917,,Mechunk Creek,where the Rivanna trail Crosses Pollock's Branch in Jordan Park,NAD83,Louisa County,FALSE,,51109,020802040405,Virginia,James
+ACB.PC,PC,in Bryan Park near mouth of creek,37.596892,-77.469106,,Upham Brook,in Bryan Park near mouth of creek,NAD83,Richmond city,TRUE,,51760,020802060403,Virginia,
+ACB.PEC001,PEC001,White Oak/Cedar Run,38.5388,-78.3483,,Rose River-Robinson River,Road-stream crossing at White Oak trailhead,NAD83,Madison County,FALSE,monitored by Reilly Oare with PEC.,51113,020801030901,Virginia,Lower Chesapeake
+ACB.PEC002,PEC002,Robinson River/Biers 1,38.5253,-78.3494,,Rose River-Robinson River,Downstream of removed culvert on Biers property,NAD83,Madison County,FALSE,,51113,020801030901,Virginia,Lower Chesapeake
+ACB.PEC003,PEC003,BB1 - Bolton Branch,38.8066,-78.1419,,Jordan River,Restoration at Younkin property,NAD83,Rappahannock County,FALSE,,51157,020801030102,Virginia,Lower Chesapeake
+ACB.PEC004,PEC004,Piney River/VDOT,38.6941,-78.2588,,Piney River-Thornton River,River-stream crossing at Route 653/Sycamore Ridge Road,NAD83,Rappahannock County,FALSE,,51157,020801030301,Virginia,Lower Chesapeake
+ACB.PEC005,PEC005,BB2 - Bolton Branch,38.8045,-78.1439,,Jordan River,Road-stream crossing at Bolton Branch and Route 631,NAD83,Rappahannock County,FALSE,,51157,020801030102,Virginia,Lower Chesapeake
+ACB.PEC006,PEC006,Spruce Pine,38.7851,-78.1525,,Jordan River,Road-stream crossing at Route 630 and Riley Hollow Road,NAD83,Rappahannock County,FALSE,,51157,020801030102,Virginia,Lower Chesapeake
+ACB.POC01,POC01,Pocoshock Creek,37.464742,-77.499082,,Falling Creek,,NAD83,Chesterfield County,FALSE,"The house address is 3700 S Belmont Rd, Richmond, VA 23234.  You can park on the road while collecting your samples. Look for a path off of the northwest side of the road or you can walk on driveway for about 30 feet and then take a right into the woods to where the creeks join. Wade upstream about 30ft each branch in order to collect your samples. When you are looking upstream Pocoshock is on left and Pocosham is on the right.",51041,020802060102,Virginia,James
+PRK.PR-8,PR-8,Oronoco Bay,38.811825,-77.037683,,Fourmile Run-Potomac River,Oronoco Bay,NAD83,Alexandria city,TRUE,"Oronoco Bay is where one of Alexandria’s four major combined sewer outfalls (Outfall 001 located at the end of Pendleton Street) discharges an estimated 70 million gallons per year of combined sewage and stormwater into the Potomac River. This site is immediately next to the Dee Campbell Rowing Center, to the left of Oronoco Bay Park. The closest parking available is at the very end of Madison Street (you will cross over train tracks).",51510,020700100301,Virginia,
+PRK.PR-9,PR-9,Belle Haven Marina,38.77654,-77.04784,,Little Hunting Creek-Potomac River,Belle Haven Marina,NAD83,Fairfax County,TRUE,"Belle Haven Marina is located off the George Washington Memorial Parkway, behind the Mount Vernon Trail, directly adjacent Dyke Marsh Wildlife Preserve. The sampling site is located at the very end of the marina, past the kayak and sailing rentals, where the road abruptly ends at two concrete pilings.",51059,020700100307,Virginia,
+ACB.PRC01,PRC01,Princeton Creek,37.59697,-77.46902,,Upham Brook,,NAD83,Richmond city,FALSE,,51760,020802060403,Virginia,James
+ACB.PRC02,PRC02,Princeton Creek at Acca Temple,37.59365,-77.46709,,Upham Brook,,NAD83,Richmond city,FALSE,,51760,020802060403,Virginia,James
+ACB.PRC03,PRC03,Princeton Creek at 1618 Princeton Road,37.5943959,-77.4640283,,Upham Brook,,NAD83,Richmond city,FALSE,Backyard of 1618 Princeton Road,51760,020802060403,Virginia,James
+ACB.PSC,PSC,,37.46815,-77.50624,,Falling Creek,Pocasham Creek,NAD83,Richmond city,FALSE,,51760,020802060102,Virginia,James
+ACB.PSC01,PSC01,Pocosham Creek,37.465033,-77.500104,,Falling Creek,,NAD83,Richmond city,FALSE,"The house address is 3700 S Belmont Rd, Richmond, VA 23234.  You can park on the road while collecting your samples. Look for a path off of the northwest side of the road or you can walk on driveway for about 30 feet and then take a right into the woods to where the creeks join. Wade upstream about 30ft each branch in order to collect your samples. When you are looking upstream Pocoshock is on left and Pocosham is on the right.",51760,020802060102,Virginia,James
+HAWQS.QM1,QM1,Quioccasin Middle 1,37.60925,-77.5853,,Tuckahoe Creek,,NAD83,Henrico County,FALSE,Stone walkway west of Quioccasin Middle School track,51087,020802050605,Virginia,James
+TUPMP.RAMSDR002,RAMSDR002,Ramseys Draft,38.30791,-79.36073,,Ramseys Draft,Ramseys Draft,NAD83,Augusta County,FALSE,,51015,020802020102,Virginia,
+TUPMP.RAMSDR003,RAMSDR003,Ramseys Draft,38.27592,-79.33541,,Ramseys Draft,Ramseys Draft,NAD83,Augusta County,FALSE,,51015,020802020102,Virginia,
+TUPMP.RAMSDR004,RAMSDR004,Ramseys Draft,38.29134,-79.34538,,Ramseys Draft,Ramseys Draft,NAD83,Augusta County,FALSE,,51015,020802020102,Virginia,
+TUPMP.RAMSDR005,RAMSDR005,Ramseys Draft,38.24426,-79.33488,,Ramseys Draft,Ramseys Draft,NAD83,Augusta County,FALSE,,51015,020802020102,Virginia,
+TUPMP.RAMSDR006,RAMSDR006,Ramseys Draft,38.309539,-79.359504,,Ramseys Draft,Ramseys Draft,NAD83,Augusta County,FALSE,,51015,020802020102,Virginia,
+ACB.Rapidan1,Rapidan1,Rapidan River 1,38.3591,-77.6354,,Hazel Run-Rapidan River,Rapidan river at Hunting Run boat launch,NAD83,Spotsylvania County,FALSE,,51177,020801031105,Virginia,Lower Chesapeake
+HAWQS.RB1,RB1,Rocky Branch1,37.63028,-77.5138,,Upham Brook,,NAD83,Henrico County,FALSE,50 feet upstream of Parham Road crossing,51087,020802060403,Virginia,James
+PVMN.RB1,RB1,James River,37.04684,-76.4991,,Cooper Creek-James River,Riverside Beach on JR,NAD83,Newport News city,TRUE,At Riverside Beach,51700,020802060906,Virginia,James
+PVMN.RB2,RB2,Riverside Beach Outlet,37.04673,-76.49877,,Cooper Creek-James River,"This is near the outlet of the drainage from the community, 916 homes",NAD83,Newport News city,FALSE,Outlet from subdivision drainage,51700,020802060906,Virginia,James
+ACB.RB6,RB6,River Bluffs,38.327,-77.5822,,Motts Run-Rappahannock River,River Bluffs,NAD83,Spotsylvania County,FALSE,,51177,020801040101,Virginia,
+ACB.RC1,RC1,,37.51467,-77.47456,,Little Westham Creek-James River,Reedy Creek at Roanoke and Dunston,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,James
+ACB.RC3,RC3,,37.5147872,-77.4839271,,Little Westham Creek-James River,Reedy Creek at 44th Street,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,James
+ACB.RC4,RC4,,37.50686,-77.5043,,Little Westham Creek-James River,Reedy Creek at German School Road,NAD83,Richmond city,FALSE,,51760,020802050607,Virginia,James
+RCA.RCK01,RCK01,Rock Creek,38.027889,-78.50507,,Moores Creek,Rock Creek- at Valley Rd Extension,NAD83,Charlottesville city,FALSE,100 feet downstream of railroad bridge east of Valley Road,51540,020802040402,Virginia,
+RCA.RCK02,RCK02,Rock Creek,38.016846,-78.4958,,Moores Creek,Rock Creek- Southeast of 5th Street,NAD83,Charlottesville city,FALSE,100 feet upstream of confluence with Lodge Creek,51540,020802040402,Virginia,
+TUPMP.RIPLCR003,RIPLCR003,Ripley Creek NB,37.597022,-78.636904,,Ripley Creek-Walton Fork,Ripley Creek NB,NAD83,Buckingham County,FALSE,,51029,020802031304,Virginia,
+TUPMP.RIPLCR004,RIPLCR004,Ripley Creek SB,37.585347,-78.647194,,Ripley Creek-Walton Fork,Ripley Creek SB,NAD83,Buckingham County,FALSE,,51029,020802031304,Virginia,
+PVMN.ROB1,ROB1,Robinson Creek outflow,36.997357,-76.378853,,Hampton River-Hampton Roads,Robinson Creek outflows south through a narrow culvert under Chesapeake Avenue down a narrow stream (<15ft) and into Hampton Roads. Robinson Creek is a shallow tidal area surrounded by houses and at low tide is mostly mud,NAD83,Hampton city,TRUE,Close quarters in residential area with narrow outflow often causes high bacteria count. One sewer leak discovered through testing at this site. Small oyster bed is in the narrow stream.,51650,020802080303,Virginia,James
+TUPMP.ROCKRU001,ROCKRU001,Rock Run,38.51596,-79.052801,,Black Run-Dry River,Rock Run,NAD83,Rockingham County,FALSE,,51165,020700050502,Virginia,
+ACB.RRMC,RRMC,Myer Creek,37.694915,-76.499748,,Taylor Creek-Corrotoman River,,NAD83,Lancaster County,FALSE,Northern Neck Master Naturalists - no longer active in 2018.,51103,020801040703,Virginia,Lower Chesapeake
+PVMN.RS1,RS1,Rodgers A Smith Landing,37.13467,-76.43044,,Poquoson River-Lower Chesapeake Bay,Public access boat landing and fishing pier,NAD83,York County,TRUE,,51199,020801080101,Virginia,Lower Chesapeake
+ACB.RSC01,RSC01,,37.55893,-77.53839,,Little Westham Creek-James River,Rattlesnake Creek,NAD83,Richmond city,FALSE,Intersection of Riverside Drive and Strattford Road.,51760,020802050607,Virginia,James
+ACB.RSC02,RSC02,,37.543154,-77.545544,,Little Westham Creek-James River,Rattlesnake Creek,NAD83,Richmond city,FALSE,South of Chippenham Parkway at intersection of Weyburn and Abbey Road.,51760,020802050607,Virginia,James
+RCA.RVN09,RVN09,Rivanna River,38.02335,-78.45388,,Meadow Creek-Rivanna River,Rivanna River- Riverview Park,NAD83,Albemarle County,FALSE,Riverview Park at wooden steps near kiosk,51003,020802040401,Virginia,
+RCA.RVN10,RVN10,Rivanna River,37.91871,-78.29769,,Stigger Creek-Rivanna River,Rivanna River- Crofton (South Boston Road Boat Ramp),NAD83,Fluvanna County,FALSE,End of boat landing at Rt 600 Bridge,51065,020802040501,Virginia,
+RCA.RVN11,RVN11,Rivanna River,38.045668,-78.4513,,Meadow Creek-Rivanna River,Rivanna River - Darden Towe Park,NAD83,Albemarle County,FALSE,"""Riffle formed by utility crossing, upstream of baseball diamonds at Darden Towe Park""",51003,020802040401,Virginia,
+RCA.RVN12,RVN12,Rivanna River,37.857763,-78.26679,,Stigger Creek-Rivanna River,Rivanna River - Palmyra Boat Ramp,NAD83,Fluvanna County,FALSE,End of boat landing,51065,020802040501,Virginia,
+HAWQS.SA1,SA1,South Anna1,37.802577,-77.575795,,,"14434 Kings Grant Lane, Doswell, VA 23047",NAD83,Hanover County,TRUE,,,,Virginia,Lower Chesapeake
+ACB.SA1,SA1,South Anna River,37.7598,-77.61262,,Cedar Creek-South Anna River,South Anna River at Rt 33 bridge,NAD83,Hanover County,FALSE,RMN site - Brian McGurk,51085,020801060304,Virginia,Lower Chesapeake
+ACB.SA2,SA2,South Anna River,37.821667,-77.845278,,Owens Creek-South Anna River,,NAD83,Louisa County,FALSE,Sr. Elena Henderson,51109,020801060204,Virginia,Lower Chesapeake
+CS.SBC-000.35,SBC-000.35,,36.87598,-76.48317,,Bennett Creek-Nansemond River,Above confluence with Nansemond River,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+RCA.SCK01,SCK01,Schenk's Branch,38.041788,-78.47528,,Meadow Creek-Rivanna River,Schenk's Branch at 250,NAD83,Charlottesville city,FALSE,By the rescue squad buiding,51540,020802040401,Virginia,
+TUPMP.SFRORI001,SFRORI001,South Fork Rockfish River,37.894617,-78.97345,,South Fork Rockfish River,South Fork Rockfish River,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SFRORI003,SFRORI003,South Fork Rockfish River,37.90277,-78.9682,,South Fork Rockfish River,South Fork Rockfish River,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SFRORI004,SFRORI004,South Fork Rockfish River,37.8805,-78.8979,,South Fork Rockfish River,South Fork Rockfish River,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SFRORI005,SFRORI005,South Fork Rockfish River,37.8825,-78.8879,,South Fork Rockfish River,South Fork Rockfish River,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SFRORI006,SFRORI006,South Fork Rockfish River,37.895188,-78.973173,,South Fork Rockfish River,South Fork Rockfish River,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SHAWFO001,SHAWFO001,Shaw's Fork,38.33997,-79.38925,,Shaws Fork,Shaw's Fork,NAD83,Highland County,FALSE,,51091,020802010602,Virginia,
+TUPMP.SHAWFO002,SHAWFO002,Shaw's Fork,38.28879,-79.45846,,Shaws Fork,Shaw's Fork,NAD83,Highland County,FALSE,,51091,020802010602,Virginia,
+HAWQS.SHC1,SHC1,Shockoe Creek,37.569782,-77.405588,,Almond Creek-James River,Off Barrington Road across from where Yeadon Rd ends,NAD83,Henrico County,TRUE,,51087,020802060101,Virginia,James
+VBM.Site1,Site1,Long Creek at Marina Parking lot,36.90444,-76.06928,,Lynnhaven River,,NAD83,Virginia Beach city,TRUE,,51810,020801080201,Virginia,
+VBM.Site2,Site2,Chesapeake Bay beach at 2300 Mariners Mark Way,36.91438,-76.07025,,Little Creek-Lower Chesapeake Bay,,NAD83,Virginia Beach city,TRUE,,51810,020801080202,Virginia,
+CS.SNR-000.20,SNR-000.20,,36.90495,-76.45725,,Bennett Creek-Nansemond River,Above confluence with James River,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-001.48,SNR-001.48,,36.89079,-76.47109,,Bennett Creek-Nansemond River,Downstream of Bennetts/Upstream of Knotts Creeks,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-002.86,SNR-002.86,,36.88548,-76.49579,,Bennett Creek-Nansemond River,Upstream side of Route 17 Bridge,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-007.88,SNR-007.88,,36.83813,-76.54807,,Bennett Creek-Nansemond River,Kings Highway,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-008.82,SNR-008.82,,36.83224,-76.56174,,Bennett Creek-Nansemond River,Moore Farm above King's Highway,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-011.83,SNR-011.83,,36.79084,-76.56232,,Bennett Creek-Nansemond River,Marker 43 convergence of Western Branch & Nans,NAD83,Suffolk city,TRUE,,51800,020802080106,Virginia,
+CS.SNR-013.50,SNR-013.50,,36.77901,-76.54676,,Cedar Lake-Nansemond River,Downstream of BASF,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+CS.SNR-015.58,SNR-015.58,,36.76229,-76.56062,,Cedar Lake-Nansemond River,Upstream of HWY 58 downstream of Olde Mille,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+CS.SNR-018.24,SNR-018.24,,36.74747,-76.57391,,Cedar Lake-Nansemond River,Downstream of Shingle Creek confluence/Boat Ramp,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+CS.SNR-018.82,SNR-018.82,,36.74097,-76.5779,,Cedar Lake-Nansemond River,Downstream of Constance Wharf/downtown confluence,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+CS.SNR-019.27,SNR-019.27,,36.74004,-76.5843,,Cedar Lake-Nansemond River,At Kimberly gas station,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+CS.SNR-019.46,SNR-019.46,,36.74271,-76.58527,,Cedar Lake-Nansemond River,Downstream of KFC/Riverview Outfalls,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+ACB.SOUANNRIV1,SOUANNRIV1,South Anna River,37.7998768,-77.4235976,,Cedar Creek-South Anna River,bridge off 738,NAD83,Hanover County,TRUE,monitored by Bill Fleming,51085,020801060304,Virginia,Lower Chesapeake
+ACB.SOURIV14,SOURIV14,South River,37.89281,-79.2131,,Upper South River,Intersection of South River and Moon Shine Trail,NAD83,Rockbridge County,FALSE,Monitor: Catherine Siegel,51163,020802020402,Virginia,James
+TUPMP.SOUTRI001,SOUTRI001,South River,38.013481,-78.98915,,Canada Run-South River,South River,NAD83,Augusta County,FALSE,,51015,020700050702,Virginia,
+TUPMP.SOUTRI002,SOUTRI002,South River,38.026184,-79.06562,,Stony Run-South River,South River,NAD83,Augusta County,FALSE,,51015,020700050701,Virginia,
+TUPMP.SOUTRI003,SOUTRI003,South River,38.026304,-79.071196,,Stony Run-South River,South River,NAD83,Augusta County,FALSE,,51015,020700050701,Virginia,
+HAWQS.SP1,SP1,Spring Park 1,37.598862,-77.465087,,Upham Brook,,NAD83,Henrico County,FALSE,,51087,020802060403,Virginia,James
+TUPMP.SPRUCR001,SPRUCR001,Spruce Creek,37.884882,-78.89889,,South Fork Rockfish River,Spruce Creek,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SPRUCR002,SPRUCR002,Spruce Creek,37.883413,-78.885806,,South Fork Rockfish River,Spruce Creek,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+TUPMP.SPRUCR003,SPRUCR003,Spruce Creek,37.891936,-78.935109,,South Fork Rockfish River,Spruce Creek,NAD83,Nelson County,FALSE,,51125,020802030902,Virginia,
+HAWQS.SR1,SR1,Stony Run 1,37.54424,-77.36193,,Almond Creek-James River,,NAD83,Henrico County,FALSE,Located at corner of Eastgate Blvd and Colywick Rd by Fairfield Middle School,51087,020802060101,Virginia,James
+CS.SSC-000.24,SSC-000.24,,36.74225,-76.57073,,Cedar Lake-Nansemond River,At bridge to Shingle Creek island homes,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+ACB.STN01,STN01,,37.52828,-77.39319,,Almond Creek-James River,Stony Run,NAD83,Richmond city,FALSE,,51760,020802060101,Virginia,James
+ACB.STORUN0.04,STORUN0.04,South Anna River,37.6848629,-77.4492107,,Stony Run-Chickahominy River,off of King's Acres Road,NAD83,Hanover County,TRUE,monitored by Bill Fleming,51085,020802060402,Virginia,James
+ACB.STORUN6.2,STORUN6.2,Stony Run Branch,37.75357,-77.48936,,Stony Run-Chickahominy River,"Stony Run Branch flows south under the enterance footbridge and along the east side of DeJarnette Park, towards Stony Run. DeJarnette Park SIC Code #9512, Land, Mineral, Wildlife, and Forest Conservation in Ashland, VA",NAD83,Hanover County,TRUE,"The address of site location is 400 Race Course Street. Going east on 54 towards Ashland, Turn right on S. James St., cross over Havover Ave., pass Henry Clay Elementary School. Turn right onto Race Course St., go straight at end of Race Course St., onto gravel road that leads to parking lot. Site would be on the bridge, that leads into DeJarnette Park, next to parking lot
+
+Primary Monitor: Sharon Logan
+Back-up Monitor: Diane Dean",51085,020802060402,Virginia,James
+TUPMP.STOUBR001,STOUBR001,Stoutameyer Branch,38.2886,-79.2235,,Jennings Branch,Stoutameyer Branch,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.STUARU001,STUARU001,Stuart Run,38.09341,-79.5687,,Lick Run-Stuart Run,Stuart Run,NAD83,Bath County,FALSE,,51017,020802010704,Virginia,
+TUPMP.STUARU002,STUARU002,Stuart Run,38.0831,-79.57368,,Lick Run-Stuart Run,Stuart Run,NAD83,Bath County,FALSE,,51017,020802010704,Virginia,
+TUPMP.STUARU003,STUARU003,Stuart Run,38.083213,-79.574201,,Lick Run-Stuart Run,Stuart Run,NAD83,Bath County,FALSE,,51017,020802010704,Virginia,
+CS.SWB-000.30,SWB-000.30,,36.78983,-76.56788,,Cedar Lake-Nansemond River,Marker 3 at the Duck Club,NAD83,Suffolk city,TRUE,,51800,020802080105,Virginia,
+TUPMP.SYCACR002,SYCACR002,Sycamore Creek,37.640907,-78.691147,,Sycamore Creek-James River,Sycamore Creek,NAD83,Buckingham County,FALSE,,51029,020802030804,Virginia,
+ACB.TAY2,TAY2,,37.7645,-77.64133,,Taylors Creek,Taylors Creek,NAD83,Hanover County,FALSE,,51085,020801060301,Virginia,Lower Chesapeake
+ACB.TAY3,TAY3,,37.77177,-77.65819,,Taylors Creek,Taylors Creek @ Waltons Tavern Rd,NAD83,Hanover County,FALSE,,51085,020801060301,Virginia,Lower Chesapeake
+ACB.TB,TB,,37.62339,-77.47886,,Diascund Creek Reservoir-Diascund Creek,Thorpe Branch,NAD83,New Kent County,FALSE,,51127,020802060602,Virginia,James
+HAWQS.TB1,TB1,Trumpet Branch,37.60772,-77.46539,,Upham Brook,,NAD83,Henrico County,TRUE,"Located at 6010-6000 Club Road, Henrico VA 23228 at the back of a baseball field.",51087,020802060403,Virginia,James
+HAWQS.TC1,TC1,Three Chopt 1,37.63404,-77.58027,,Tuckahoe Creek,,NAD83,Henrico County,FALSE,Upstream side of Three Chopt Road crossing,51087,020802050605,Virginia,James
+HAWQS.TCP1,TCP1,Tuckahoe Creek Park 1,37.62336,-77.6507,,Stony Run-Chickahominy River,,NAD83,Hanover County,TRUE,Off the walkway bridge at Tuckahoe Park at the end of Ridgefield Pkwy,51085,020802060402,Virginia,James
+HAWQS.TCT1,TCT1,Tuckahoe Creek Tributary,37.641087,-77.649435,,Tuckahoe Creek,Confluence of Tuckahoe Creek Tributary and Little Tuckahoe Creek,NAD83,Henrico County,FALSE,Confluence of Tuckahoe Creek Tributary and Little Tuckahoe Creek,51087,020802050605,Virginia,James
+ACB.TOT1,TOT1,Totuskey Creek 1,37.9129344,-76.6573787,,Totuskey Creek,Totuskey Creek at Moore's Mill Bridge,NAD83,Richmond County,TRUE,COLLECTION FROM BRIDGE CROSSING; LOCATION DETAILS: MOORE'S MILL BRIDGE AT EMMERTON RD OVERPASS,51159,020801040502,Virginia,Lower Chesapeake
+ACB.TOT2,TOT2,Totuskey Creek 2,37.9260343,-76.7090797,,Totuskey Creek,Totuskey Creek,NAD83,Richmond County,TRUE,Dcollins,51159,020801040502,Virginia,Lower Chesapeake
+ACB.TOT3,TOT3,Totuskey Creek 3,37.9236345,-76.7206799,,Totuskey Creek,Totuskey Creek at public boat landing,NAD83,Richmond County,TRUE,COLLECTION FROM DOCK; LOCATION DETAILS: PUBLIC BOAT LANDING AND PICNIC AREA AT RT 3 OVERPASS,51159,020801040502,Virginia,Lower Chesapeake
+ACB.TOT4,TOT4,Totuskey Creek 4,37.8860358,-76.7362806,,Totuskey Creek,Totuskey Creek at the bushes,NAD83,Richmond County,TRUE,COLLECTION FROM DOCK; LOCATION DETAILS: BUSHES RESIDENCE OFF WELLFORD RD NE OF WHERE TOTUSKEY EMPTIES INTO RAPPAHANNOCK,51159,020801040502,Virginia,Lower Chesapeake
+ACB.TOT5,TOT5,Totuskey Creek 5,37.8798472222,-76.7395638888,,Totuskey Creek,Totuskey Creek Station #5,NAD83,Richmond County,TRUE,Monitor: Dayle Collins,51159,020801040502,Virginia,Lower Chesapeake
+ACB.TOTC1,TOTC1,,37.65274,-77.31035,,Totopotomoy Creek,Totopotomy Creek,NAD83,Hanover County,FALSE,"Susan frost monitored until Aug 2018, then picked up my Jennifer Zemke",51085,020801060904,Virginia,Lower Chesapeake
+JMSAWCD.TR1,TR1,Thumb Run 1,38.74734,-77.98956,,Thumb Run,Main branch of Thumb Run at Rt. 736 bridge; 1.5 miles south of Rt. 688,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR10,TR10,Thumb Run 10,38.80287,-77.95671,,Thumb Run,East branch of Thumb Run at Rt. 647 bridge,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR2,TR2,Thumb Run 2,38.76608,-77.97693,,Thumb Run,Main branch of Thumb Run at Rt. 688 bridge,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR3,TR3,Thumb Run 3,38.7941,-77.97416,,Thumb Run,West branch of Thumb Run on Rt. 647; 1 mile north of Rt. 688,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR4,TR4,Thumb Run 4,38.83345,-77.98868,,Thumb Run,West branch of Thumb Run at Rt. 635 bridge; 0.5 miles east of Hume,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR5,TR5,Thumb Run 5,38.84808,-77.9972,,Thumb Run,West branch of Thumb Run at Rt. 688 bridge; 1 mile north of Hume,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR6,TR6,Thumb Run 6,38.86648,-78.00363,,Thumb Run,West branch of Thumb Run on Canaan Rd west of Rt. 688,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR7,TR7,Thumb Run 7,38.8852,-78.0251,,Thumb Run,West branch of Thumb Run at Moss Hollow Rd. (Rt. 728) culvert,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR8,TR8,Thumb Run 8,38.84394,-77.93862,,Thumb Run,East branch of Thumb Run at Rt. 732 culvert,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+JMSAWCD.TR9,TR9,Thumb Run 9,38.831,-77.93443,,Thumb Run,East branch of Thumb Run at Rt. 635 bridge,NAD83,Fauquier County,FALSE,,51061,020801030104,Virginia,Lower Chesapeake
+HAWQS.TUC1,TUC1,Tuckahoe Creek 1,37.6117,-77.6417,,Tuckahoe Creek,,NAD83,Henrico County,FALSE,located in backyard of 1518 Westshire Lane,51087,020802050605,Virginia,James
+ACB.UB1,UB1,Upham Brook 1,37.6146,-77.4567,,Upham Brook,Upham Brook below north run confluence,NAD83,Henrico County,FALSE,LAKESIDE STREAM SAVERS 4-H CLUB IN 2001.  PICKED UP IN 2012 BY CBF MONITORS.  ACCESS ON RIGHT SIDE UNDER POWERLINES.,51087,020802060403,Virginia,James
+ACB.UB2,UB2,Upham Brook 2,37.59832,-77.46803,,Upham Brook,Upham Brook,NAD83,Richmond city,FALSE,,51760,020802060403,Virginia,James
+ACB.UB3,UB3,Upham Brook 3,37.60303,-77.45975,,Upham Brook,Upham Brook at Anderson St,NAD83,Henrico County,FALSE,,51087,020802060403,Virginia,James
+ACB.UB4,UB4,Upham Brook 4,37.59963,-77.48641,,Upham Brook,Upham Brook at ByrdHill Rd,NAD83,Henrico County,FALSE,,51087,020802060403,Virginia,James
+ACB.UNTSC,UNTSC,Unnamed Tributary of Swift Creek,37.4927111,-77.7768892,,Swift Creek Reservoir-Swift Creek,Unnamed trib of Swift Creek in the backyard of Sandra Baron,NAD83,Powhatan County,FALSE,,51145,020802070901,Virginia,James
+ACB.UT1,UT1,Unnamed tributary of Reedy Creek,37.51483,-77.48533,,Little Westham Creek-James River,,NAD83,Richmond city,FALSE,UT1 is an unnamed tributary that enters Reedy Creek just downstream (east) of 46th Street.  Most of the tributary is buried underground and daylights along 46th Street just south of Reedy Avenue through a 7-foot diameter stormwater pipe.  The sampling site on UT1 is near the intersection of 46th Street and Bassett Avenue and is located just upstream from the concrete pad that leads down to Reedy Creek.  This is less than 100 feet from the mouth of UT1.,51760,020802050607,Virginia,James
+TUPMP.UTBACR001,UTBACR001,Unnamed Trib to Back Creek,38.26918,-79.73747,,Jim Dave Run-Back Creek,Unnamed Trib to Back Creek,NAD83,Highland County,FALSE,,51091,020802010202,Virginia,
+TUPMP.UTBACR002,UTBACR002,Unnamed Trib to Back Creek,38.26703,-79.73886,,Jim Dave Run-Back Creek,Unnamed Trib to Back Creek,NAD83,Highland County,FALSE,,51091,020802010202,Virginia,
+TUPMP.UTBACR003,UTBACR003,Unnamed Trib to Back Creek,38.26955,-79.73185,,Jim Dave Run-Back Creek,Unnamed Trib to Back Creek,NAD83,Highland County,FALSE,,51091,020802010202,Virginia,
+TUPMP.UTCRCR001,UTCRCR001,Unnamed Trib to Craig Creek,37.314306,-80.408306,,Trout Creek-Craig Creek,Unnamed Trib to Craig Creek,NAD83,Montgomery County,FALSE,,51121,020802011001,Virginia,
+TUPMP.UTJARI001,UTJARI001,Unnamed Trib to James River,37.668611,-78.699167,,Sycamore Creek-James River,Unnamed Trib to James River,NAD83,Buckingham County,FALSE,,51029,020802030804,Virginia,
+TUPMP.UTMICR001,UTMICR001,Unnamed Trib to Mill Creek,38.12785,-79.49928,,Cabin Creek-Mill Creek,Unnamed Trib to Mill Creek,NAD83,Bath County,FALSE,,51017,020802020106,Virginia,
+TUPMP.UTMICR002,UTMICR002,Unnamed Trib to Mill Creek,38.13684,-79.49133,,Cabin Creek-Mill Creek,Unnamed Trib to Mill Creek,NAD83,Bath County,FALSE,,51017,020802020106,Virginia,
+PVMN.WC,WC,Whitehouse Cove,37.1424,-76.37625,,Poquoson River-Lower Chesapeake Bay,"City Dock,Rens Road,Poquoson, VA",NAD83,Poquoson city,TRUE,,51735,020801080101,Virginia,Lower Chesapeake
+ACB.WC1,WC1,"Wharf Creek, Hole in the Wall",37.4923795,-76.3098561,,Milford Haven-Lower Chesapeake Bay,"Public boat launch, sample from the dock",NAD83,Mathews County,TRUE,David and Kerry Harlan,51115,020801020303,Virginia,
+PVMN.WH,WH,Warehouse Landing,37.40308,-76.48952,,Ware River,,NAD83,Gloucester County,TRUE,"Monitored under Peninsula Master Naturalists until November 2019, then switched to the RiverTrends program.",51073,020801020403,Virginia,Lower Chesapeake
+TUPMP.WHEECO001,WHEECO001,Wheelers Cove,37.80541,-78.805339,,Buck Creek-Rockfish River,Wheelers Cove,NAD83,Nelson County,FALSE,,51125,020802030903,Virginia,
+TUPMP.WHEECO002,WHEECO002,Wheelers Cove,37.816531,-78.797357,,Buck Creek-Rockfish River,Wheelers Cove,NAD83,Nelson County,FALSE,,51125,020802030903,Virginia,
+TUPMP.WHOADR001,WHOADR001,White Oak Draft,38.284709,-79.237875,,Jennings Branch,White Oak Draft,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.WHOADR002,WHOADR002,White Oak Draft,38.28655,-79.236917,,Jennings Branch,White Oak Draft,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.WHOADR003,WHOADR003,White Oak Draft,38.29327,-79.23459,,Jennings Branch,White Oak Draft,NAD83,Augusta County,FALSE,,51015,020700050103,Virginia,
+TUPMP.WHSUSP001,WHSUSP001,White Sulphur Springs,38.0942,-79.56992,,Lick Run-Stuart Run,White Sulphur Springs,NAD83,Bath County,FALSE,,51017,020802010704,Virginia,
+ACB.WILCRE1.5,WILCRE1.5,Paynes Landing on Wilson Creek,37.36905,-76.48522,,Ware River,,NAD83,Gloucester County,TRUE,Joan Haury and Michelle Phillips,51073,020801020403,Virginia,
+TUPMP.WILLRI001,WILLRI001,Willis River,37.4281,-78.4321,,Whispering Creek-Willis River,Willis River,NAD83,Buckingham County,FALSE,,51029,020802050202,Virginia,
+TUPMP.WILLRI002,WILLRI002,Willis River,37.4291,-78.4541,,Whispering Creek-Willis River,Willis River,NAD83,Buckingham County,FALSE,,51029,020802050202,Virginia,
+ACB.WINHAR,WINHAR,Winter Harbor,37.3904139,-76.2752188,,Winter Harbor-Lower Chesapeake Bay,,NAD83,Mathews County,TRUE,"Located at Winter Harbor Landing in the Onemo area of Mathews County, VA.
+
+Directions: Take Route 198 (Buckley Hall Road) into Mathews. Turn right at the stop sign across from the Hardees onto main Street. Follow Main Street through the Business district. Turn left onto Route 611 (Tabernacle road) at the Riverside Convalescent Center. Go ~3 miles. Route 611 turns sharply to the right and name changes to Garden Creek road. Follow Garden Creek road to stop sign at intersection of Bethel Beach road. Go straight onto Old Mill Landing and follow 1/4 mile to end.
+
+Primary Monitor: Jan Towne
+First Collection Date: January 2018",51115,020801020406,Virginia,Lower Chesapeake
+PVMN.WL,WL,Williams Landing,37.30001,-76.53142,,Carter Creek-York River,,NAD83,Gloucester County,TRUE,"Monitored under Peninsula Master Naturalists until November 2019, then switched to the RiverTrends program.",51073,020801070203,Virginia,Lower Chesapeake
+ACB.WOOCRE1.6,WOOCRE1.6,Woods Creek,37.7847655,-79.4499301,,Mill Creek-Maury River,Woods Creek 1.6 miles from the Maury River,NAD83,Lexington city,FALSE,Gretchen Sukow is the primary monitor.,51678,020802020303,Virginia,James
+HAWQS.WP1,WP1,Westham Park 1,37.586301,-77.549689,,Little Westham Creek-James River,"Westham Park Henrico, behind western swing set, approximately 300 feet from Dogwood Rd",NAD83,Henrico County,FALSE,,51087,020802050607,Virginia,James
+PVMN.WR1,WR1,Warwick River,37.12372,-76.56867,,Warwick River,,NAD83,Newport News city,TRUE,Left dock of boat ramp at end of Denbigh Boulevard,51700,020802060901,Virginia,James
+RCA.XLC01,XLC01,Lodge Creek Eastern Unnamed Trib,38.028302,-78.51308,,Moores Creek,Lodge Creek Eastern Unnamed Trib- Hermon Street,NAD83,Charlottesville city,FALSE,"""Eastern tributary, before it goes under Harmon St.""",51540,020802040402,Virginia,
+RCA.XLC01A,XLC01A,Lodge Creek Eastern Unnamed Trib- Stadium Road,38.029619,-78.512842,,Moores Creek,Updated site for Lodge Creek Eastern unnamed tributary from where tributary daylights from under Stadium Road,NAD83,Charlottesville city,FALSE,,51540,020802040402,Virginia,James
+RCA.XLD01,XLD01,Lodge Creek Western Unnamed Trib,38.028144,-78.51308,,Moores Creek,Lodge Creek Western Unnamed Trib- Hermon Street,NAD83,Charlottesville city,FALSE,"""Western tributary, before it goes under Harmon St.""",51540,020802040402,Virginia,
+RCA.XLD01A,XLD01A,Lodge Creek Western Unnamed Trib- Washington Ave,38.028551,-78.514349,,Moores Creek,Western tributary of Lodge Creek after it daylights from under Washington Ave near Stadium Road,NAD83,Charlottesville city,FALSE,,51540,020802040402,Virginia,James
+RCA.XRC01,XRC01,Rock Creek Unnamed Trib,38.028377,-78.50315,,Moores Creek,Rock Creek Unnamed Trib -�Patton St,NAD83,Charlottesville city,FALSE,"""100 feet downstream of railroad bridge west of Paton St, east of gravel driveway""",51540,020802040402,Virginia,
+ACB.YORRIV21.5,YORRIV21.5,York River,37.4066902,-76.6599295,,Skimino Creek-York River,Could potentially monitor at the end of the dock at the park or in the middle of the bay.,NAD83,Gloucester County,TRUE,Jack and Carol Kauffman,51073,020801070104,Virginia,
+ACB.YORRIV7.2,YORRIV7.2,Gloucester Point Beach/Boat Landing,37.2452068,-76.5026,,Sarah Creek-York River,near historic site 16. will monitor from boat landing,NAD83,Gloucester County,TRUE,Joan Haury and Michelle Phillips,51073,020801070204,Virginia,

@@ -1,0 +1,536 @@
+Code,Name,NameLong,Lat,Long,Cbseg,WaterBody,Description,Datum,CityCounty,Tidal,Comments,Fips,Huc12,State,Huc6Name
+LCCD.AnnanRun,Annan Run,Annan Run,39.897857,-75.995203,,Valley Creek-East Branch Octoraro Creek,Creek Road - downstream for chemistry; Upstream for macros,NAD83,Lancaster County,FALSE,,42071,020503061402,Pennsylvania,
+TUCCC.ARCTSP001,ARCTSP001,arctic springs -six mile,40.90468,-78.10922,,Sixmile Run,arctic springs -six mile,NAD83,Centre County,FALSE,,42027,020502010505,Pennsylvania,
+TUCCC.ARTISP001,ARTISP001,arctic springs -six mile,40.90458,-78.10922,,Sixmile Run,arctic springs -six mile,NAD83,Centre County,FALSE,,42027,020502010505,Pennsylvania,
+AWA.AS,AS,,39.805725,-77.574917,,West Branch Antietam Creek,Aden Spring,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+TUCCC.ASAPRU002,ASAPRU002,Asaph Run,41.781908,-77.433016,,Asaph Run,Asaph Run,NAD83,Tioga County,FALSE,,42117,020502050302,Pennsylvania,
+TUCCC.ASPARU001,ASPARU001,Asaph Run,41.79165,-77.44603,,Asaph Run,Asaph Run,NAD83,Tioga County,FALSE,,42117,020502050302,Pennsylvania,
+AWA.ATAS,ATAS,,39.788233,-77.487814,,East Branch Antietam Creek,AT Antietam Shelter,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+AWA.B,B,,39.765053,-77.516044,,East Branch Antietam Creek,Brookdale,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+TUCCC.BABBCR001,BABBCR001,Babb Creek,41.6851,-77.19785,,Headwaters Babb Creek,Babb Creek,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+TUCCC.BABBCR002,BABBCR002,Babb Creek,41.59661,-77.29014,,Long Run-Babb Creek,Babb Creek,NAD83,Tioga County,FALSE,,42117,020502050405,Pennsylvania,
+TUCCC.BABBCR003,BABBCR003,Babb Creek,41.64204,-77.20837,,Headwaters Babb Creek,Babb Creek,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+TUCCC.BABBCR004,BABBCR004,Babb Creek,41.57292,-77.33528,,Long Run-Babb Creek,Babb Creek,NAD83,Tioga County,FALSE,,42117,020502050405,Pennsylvania,
+TUCCC.BAILCR001,BAILCR001,Bailey Creek,41.86218,-77.0121,,Bailey Creek-Mill Creek,Bailey Creek,NAD83,Tioga County,FALSE,,42117,020501040702,Pennsylvania,
+TUCCC.BAILRU001,BAILRU001,Bailey Run (lower),41.523567,-78.0661,,Middle First Fork Sinnemahoning Creek,Bailey Run (lower),NAD83,Potter County,FALSE,,42105,020502020406,Pennsylvania,
+TUCCC.BAILRU002,BAILRU002,Bailey Run (upper),41.512283,-78.045767,,Middle First Fork Sinnemahoning Creek,Bailey Run (upper),NAD83,Potter County,FALSE,,42105,020502020406,Pennsylvania,
+TUCCC.BALDRU002,BALDRU002,Baldwin Run,41.793917,-77.304492,,Marsh Creek-Pine Creek,Baldwin Run,NAD83,Tioga County,FALSE,,42117,020502050303,Pennsylvania,
+GCWD.BALRUN1.44,BALRUN1.44,Baldwin Run 1.44,41.7947,-77.30473,,Marsh Creek-Pine Creek,Baldwin Run 1.44,NAD83,Tioga County,FALSE,,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.BALRUN4.02,BALRUN4.02,Baldwin Run 4.02,41.81431667,-77.34078,,Marsh Creek-Pine Creek,Baldwin Run 4.02,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+TUCCC.BEECRU001,BEECRU001,Beech Run,41.647083,-77.96235,,Upper First Fork Sinnemahoning Creek,Beech Run,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,
+GCWD.BEEFLARUN0.12,BEEFLARUN0.12,Beech Flats Run 0.12,41.72041667,-77.68421667,,Wetmore Run-West Branch Pine Creek,Beech Flats Run 0.12,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,West Branch Susquehanna
+LCCD.BellsRunRynear,Bells Run,Bells Run,39.887816,-76.045817,,Muddy Run-East Branch Octoraro Creek,"Rynear Rd - downstream, in pasture",NAD83,Lancaster County,FALSE,,42071,020503061403,Pennsylvania,
+LCCD.BellsRunBartville,Bells Run,Bells Run,39.89775,-76.05285,,Muddy Run-East Branch Octoraro Creek,"Bartville Rd - upstream, in pasture",NAD83,Lancaster County,FALSE,,42071,020503061403,Pennsylvania,
+BCVM.BENCRE7.92,BENCRE7.92,Bentley Creek,41.928043,-76.69907,,Upper Bentley Creek,Bentley Creek,NAD83,Bradford County,FALSE,,42015,020501050601,Pennsylvania,Upper Susquehanna
+TUCCC.BENNRU001,BENNRU001,Benner Run,40.935392,-78.022634,,Black Moshannon Creek,Benner Run,NAD83,Centre County,FALSE,,42027,020502010507,Pennsylvania,
+YCST.BERCRE1.22,BERCRE 1.22,,39.999214,-76.941858,,Mud Run-Bermudian Creek,Bermudian Creek 1.22,NAD83,York County,FALSE,,42133,020503060303,Pennsylvania,
+TUCCC.BERGRU001,BERGRU001,Berge Run,41.48858,-78.051783,,Middle First Fork Sinnemahoning Creek,Berge Run,NAD83,Potter County,FALSE,,42105,020502020406,Pennsylvania,
+AWA.BF,BF,Blueberry Farm,39.831244,-77.570878,,West Branch Antietam Creek,Blueberry Farm,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+TUCCC.BIBURU001,BIBURU001,Billy Buck Run,41.587425,-78.441636,,Elk Fork-Driftwood Branch Sinnemahoning Creek,Billy Buck Run,NAD83,Elk County,FALSE,,42047,020502020201,Pennsylvania,
+GCWD.BIGMOORUN3.70,BIGMOORUN3.70,Big Moores Run 3.70,41.67988,-77.987692,,Big Moores Run,Big Moores Run 3.70,NAD83,Potter County,FALSE,,42105,020502020401,Pennsylvania,West Branch Susquehanna
+GCWD.BIGMOORUN5.78,BIGMOORUN5.78,Big Moores Run 5.78,41.7069,-77.97625,,Big Moores Run,Big Moores Run 5.78,NAD83,Potter County,FALSE,,42105,020502020401,Pennsylvania,West Branch Susquehanna
+TUCCC.BIGRU001,BIGRU001,Big Run,41.11059,-77.733806,,Big Run,Big Run,NAD83,Clinton County,FALSE,,42035,020502040204,Pennsylvania,
+CCCD.BIGSPRCRE1.23,BIGSPRCRE1.23,Big Spring Creek 1.23,40.174463,-77.395054,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek at Laughlin Mill,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+BSWA.BIGSPRCRE1.98,BIGSPRCRE1.98,Big Spring Creek 1.98,40.154841,-77.409991,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek 1.98 at Sheepman's Bridge,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+CCCD.BIGSPRCRE4.69,BIGSPRCRE4.69,Big Spring Creek 4.69,40.129762,-77.40758,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+BSWA.BIGSPRCRE1.16,BIGSPRICRE1.16,Big Spring Creek 1.16,40.144224,-77.405537,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek 1.16 at Willow Tree Pool,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+BSWA.BIGSPRCRE1.58,BIGSPRICRE1.58,Big Spring Creek 1.58,40.149975,-77.406898,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek 1.58 at Nealy Road,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+BSWA.BIGSPRCRE1.80,BIGSPRICRE1.80,Big Spring Creek 1.80,40.152978,-77.407924,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek 1.80 at Swamp Pulloff,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+BSWA.BIGSPRCRE2.48,BIGSPRICRE2.48,Big Spring Creek 2.48,40.160232,-77.406287,,Big Spring Creek-Conodoguinet Creek,Big Spring Creek 2.48 at Stone Arch Bridge,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+TUCCC.BIMCRU001,BIMCRU001,Billy McCracken Run,40.8987,-78.5616,,Little Clearfield Creek,Billy McCracken Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.BIMORU001,BIMORU001,Big Moores Run,41.63195,-78.000967,,Big Moores Run,Big Moores Run,NAD83,Potter County,FALSE,,42105,020502020401,Pennsylvania,
+TUCCC.BINERU001,BINERU001,Big Nelson Run,41.556395,-78.034133,,Middle First Fork Sinnemahoning Creek,Big Nelson Run,NAD83,Potter County,FALSE,,42105,020502020406,Pennsylvania,
+TUCCC.BIRCRU001,BIRCRU001,Birch Run,41.55789,-77.951093,,East Fork Sinnemahoning Creek,Birch Run,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.BLACCR002,BLACCR002,Black Creek,41.55178,-77.15403,,Blacks Creek,Black Creek,NAD83,Tioga County,FALSE,,42117,020502050503,Pennsylvania,
+TUCCC.BLACCR003,BLACCR003,Black Creek,41.56593,-77.13464,,Blacks Creek,Black Creek,NAD83,Tioga County,FALSE,,42117,020502050503,Pennsylvania,
+TUCCC.BLHOCR001,BLHOCR001,Blockhouse Creek,41.56371,-77.103221,,Blockhouse Creek,Blockhouse Creek,NAD83,Tioga County,FALSE,,42117,020502050504,Pennsylvania,
+TUCCC.BLHOCR002,BLHOCR002,Blockhouse Creek,41.56024,-77.10484,,Blockhouse Creek,Blockhouse Creek,NAD83,Tioga County,FALSE,,42117,020502050504,Pennsylvania,
+TUCCC.BOONRU001,BOONRU001,Boone Run,41.34913,-77.35793,,Little Pine Creek-Pine Creek,Boone Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+GCWD.BORBRA0.39,BORBRA0.39,Borie Branch 0.39,41.6572,-77.959458,,Upper First Fork Sinnemahoning Creek,Borie Branch 0.39,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,West Branch Susquehanna
+TUCCC.BORIBR002,BORIBR002,Borie Branch,41.652817,-77.937467,,Upper First Fork Sinnemahoning Creek,Borie Branch,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,
+TUCCC.BOWMCR001,BOWMCR001,Bowmans Creek,41.47444,-75.986944,,Lower Bowman Creek,Bowmans Creek,NAD83,Wyoming County,FALSE,,42131,020501061303,Pennsylvania,
+TUCCC.BOWMCR002,BOWMCR002,Bowmans Creek,41.42556,-76.030278,,Upper Bowman Creek,Bowmans Creek,NAD83,Wyoming County,FALSE,,42131,020501061302,Pennsylvania,
+TUCCC.BOWMCR003,BOWMCR003,Bowmans Creek,41.40111,-76.098889,,Upper Bowman Creek,Bowmans Creek,NAD83,Wyoming County,FALSE,,42131,020501061302,Pennsylvania,
+AWA.BP,BP,Baumgardner Property,39.724967,-77.588817,,East Branch Antietam Creek,Baumgardner Property,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+AWA.BR,BR,Bailey's Run,39.75468,-77.505228,,East Branch Antietam Creek,Bailey's Run,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+LCCD.BR1,BR1,Bachman Run� - BR1,40.111389,-76.3325,,Millers Run-Little Conestoga Creek,#NAME?,NAD83,Lancaster County,FALSE,,42071,020503061001,Pennsylvania,
+LCCD.BR2,BR2,Bachman Run - BR2,40.116389,-76.330557,,Millers Run-Little Conestoga Creek,#NAME?,NAD83,Lancaster County,FALSE,,42071,020503061001,Pennsylvania,
+CCCD.BRARUN0.01,BRARUN0.01,Brandy Run 0.01,40.177641,-77.453873,,Three Square Hollow Run-Conodoguinet Creek,Brandy Run at Steelstown and Brandy Run Road,NAD83,Cumberland County,FALSE,,42041,020503050306,Pennsylvania,Lower Susquehanna
+BCVM.BROCRE1.89,BROCRE1.89,Browns Creek,41.803619,-76.55763,,Browns Creek,Browns Creek,NAD83,Bradford County,FALSE,,42015,020501060106,Pennsylvania,Upper Susquehanna
+TUCCC.BROWRU001,BROWRU001,Browns Run�������������������������,40.9633,-78.4913,,Curwensville Dam-West Branch Susquehanna River,Browns Run�������������������������,NAD83,Clearfield County,FALSE,,42033,020502010408,Pennsylvania,
+TUCCC.BROWRU002,BROWRU002,Browns Run�������������������������,40.9581,-78.4845,,Curwensville Dam-West Branch Susquehanna River,Browns Run�������������������������,NAD83,Clearfield County,FALSE,,42033,020502010408,Pennsylvania,
+TUCCC.BROWRU003,BROWRU003,Browns Run�������������������������,41.34255,-77.39925,,Upper Pine Bottom Run-Pine Creek,Browns Run�������������������������,NAD83,Lycoming County,FALSE,,42081,020502050606,Pennsylvania,
+CCWA.BS00.0,BS00.0,Big Spring 00.0,40.18534,-77.392621,,Big Spring Creek-Conodoguinet Creek,Big Spring 00.0,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+TUCCC.BUCKRU001,BUCKRU001,Buck Run,41.60637,-77.50523,,Cedar Run,Buck Run,NAD83,Tioga County,FALSE,,42117,020502050602,Pennsylvania,
+CCCD.BURRUN1.38,BURRUN1.38,Burd Run 1.38,40.061749,-77.514999,,Thompson Creek-Burd Run,Burd Run above Middle Spring,NAD83,Cumberland County,FALSE,,42041,020503050301,Pennsylvania,Lower Susquehanna
+AWA.BV,BV,Buena Vista,39.720703,-77.500192,,Red Run,Buena Vista,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+TUCCC.CAHOCR001,CAHOCR001,Catlin Hollow Creek,41.809708,-77.269588,,Catlin Hollow,Catlin Hollow Creek,NAD83,Tioga County,FALSE,,42117,020501040601,Pennsylvania,
+GCWD.CALCRE0.11,CALCRE0.11,California Creek 0.11,41.846317,-77.702733,,Genesee Forks,California Creek 0.11,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,West Branch Susquehanna
+TUCCC.CALDRU001,CALDRU001,Caldwell Run,40.9308,-78.4723,,Little Clearfield Creek,Caldwell Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.CALECR001,CALECR001,Caleb Creek,41.33556,-76.955278,,Mill Creek-West Side of Loyalsock Creek,Caleb Creek,NAD83,Lycoming County,FALSE,,42081,020502060508,Pennsylvania,
+TUCCC.CAMPRU001,CAMPRU001,Camp Run,41.576157,-77.911012,,East Fork Sinnemahoning Creek,Camp Run,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.CANARU001,CANARU001,Canada Run,41.78278,-77.37472,,Marsh Creek-Pine Creek,Canada Run,NAD83,Tioga County,FALSE,,42117,020502050303,Pennsylvania,
+TUCCC.CARBRU001,CARBRU001,Carbon Run,41.63098,-76.64306,,Little Schrader Creek,Carbon Run,NAD83,Bradford County,FALSE,,42015,020501060201,Pennsylvania,
+TUCCC.CEDARI002,CEDARI002,Cedar Run,41.55525,-77.45933,,Cedar Run,Cedar Run,NAD83,Tioga County,FALSE,,42117,020502050602,Pennsylvania,
+TUCCC.CEDARU001,CEDARU001,Cedar Run,41.58321,-77.47474,,Cedar Run,Cedar Run,NAD83,Tioga County,FALSE,,42117,020502050602,Pennsylvania,
+YCST.CENCRE0.07,CENCRE 0.07,,39.801615,-76.74097,,Upper South Branch Codorus Creek,Centerville Creek 0.07,NAD83,York County,FALSE,,42133,020503060601,Pennsylvania,
+TUCCC.CHARCR001,CHARCR001,Charleston Creek,41.72942,-77.252637,,Charleston Creek,Charleston Creek,NAD83,Tioga County,FALSE,,42117,020502050301,Pennsylvania,
+TUCCC.CHERRU001,CHERRU001,Cherry River,41.36847,-76.46653,,Big Run-Muncy Creek,Cherry River,NAD83,Sullivan County,FALSE,,42113,020502060801,Pennsylvania,
+NYWS.CHOCRE11.38,CHOCRE 11.38,,41.978284,-76.003547,,Middle Chocohut Creek,Choconut Creek at Town Hall,NAD83,Susquehanna County,FALSE,,42115,020501030203,Pennsylvania,
+NYWS.CHOCRE9.45,CHOCRE 9.45,,41.989896,-76.000242,,Middle Chocohut Creek,Choconut Creek at Kellum Road,NAD83,Susquehanna County,FALSE,,42115,020501030203,Pennsylvania,
+LCCD.Climb1,Climb1,Climbers Run - Climb1,39.920757,-76.29744,,Climbers Run-Pequea Creek,SRREC LCC Nature Preserve,NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061204,Pennsylvania,
+LCCD.Climb2,Climb2,Climbers Run - Climb2,39.918973,-76.28175,,Climbers Run-Pequea Creek,966 Pennsy Rd.,NAD83,Lancaster County,FALSE,DTU restoration site,42071,020503061204,Pennsylvania,
+LCCD.Climb3,Climb3,Climbers Run #3 - Climb3,39.91547,-76.312588,,Climbers Run-Pequea Creek,Below Pipeline,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+TUCCC.COALRU001,COALRU001,Cherry River,41.63369,-76.610253,,Millstone Creek-Schrader Creek,Cherry River,NAD83,Bradford County,FALSE,,42015,020501060202,Pennsylvania,
+LCCD.CoC2,CoC2,Cocalico Cr. - CoC2,40.187778,-76.17,,Little Cocalico Creek-Cocalico Creek,Church St. - before bridge into Ephrata,NAD83,Lancaster County,FALSE,"after stream relocation, restoration, & wetland creation project",42071,020503060901,Pennsylvania,
+YCST.CODCRE12.16,CODCRE 12.16,,39.953416,-76.733901,,Willis Run-Codorus Creek,Codorus Creek 12.16,NAD83,York County,FALSE,,42133,020503060705,Pennsylvania,
+YCST.CODCRE12.39,CODCRE 12.39,,39.952885,-76.73827,,Willis Run-Codorus Creek,Codorus Creek 12.39,NAD83,York County,FALSE,,42133,020503060705,Pennsylvania,
+TUCCC.COLDST001,COLDST001,Coal Run,40.89526,-78.20605,,Cold Stream,Coal Run,NAD83,Centre County,FALSE,,42027,020502010504,Pennsylvania,
+TUCCC.COLECR001,COLECR001,Coles Creek,41.282697,-76.327558,,Raven Creek,Coles Creek,NAD83,Columbia County,FALSE,,42037,020501070704,Pennsylvania,
+TUCCC.COLECR002,COLECR002,Coles Creek,41.273162,-76.332977,,Raven Creek,Coles Creek,NAD83,Columbia County,FALSE,,42037,020501070704,Pennsylvania,
+LCCD.Con2,Con2,Conoy Cr. - Con2,40.134722,-76.616667,,Conoy Creek,Bainbridge Rd. - below Shrine Rd. intersection where creek crosses Rt. 241,NAD83,Lancaster County,FALSE,Elizabethtown Borough's urban effects & above stream restoration work,42071,020503061701,Pennsylvania,
+LCCD.Con3,Con3,Conoy Cr. - Con3,40.131944,-76.621944,,Conoy Creek,Bainbridge Rd. 2 - Across from Masonic Conference Center,NAD83,Lancaster County,FALSE,in the�middle of streambank restoration project,42071,020503061701,Pennsylvania,
+LCCD.Con4,Con4,Conoy Cr. - Con4,40.127222,-76.627778,,Conoy Creek,Arosite Rd. - first farm on left at ford crossing,NAD83,Lancaster County,FALSE,Below waste water discharge treatment plant & below stream restoration project,42071,020503061701,Pennsylvania,
+YCST.CONCRE7.04,CONCRE 7.04,,40.100063,-76.7637,,Conewago Creek-Susquehanna River,Conewago Creek 7.04,NAD83,York County,FALSE,,42133,020503060504,Pennsylvania,
+CCCD.CONCRE1.85,CONCRE1.85,Conodoguinet Creek 1.85,40.277468,-76.925578,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek at Ridley Park,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE11.47,CONCRE11.47,Conodoguinet Creek 11.47,40.241213,-76.969512,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE13.64,CONCRE13.64,Conodoguinet Creek 13.64,40.263776,-76.98015,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek at Good Hope Launch,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE21.95,CONCRE21.95,Conodoguinet Creek 21.95,40.259296,-77.040426,,Simmons Creek-Conodoguinet Creek,Conodoguinet Creek at Willow Mill Park,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE27.96,CONCRE27.96,Conodoguinet Creek 27.96,40.259792,-77.103054,,Simmons Creek-Conodoguinet Creek,Conodoguinet Creek at Scott Farm Work Center,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+CCSTA.CONCRE27.96,CONCRE27.96,Conodoguinet Creek,40.259792,-77.103054,,Simmons Creek-Conodoguinet Creek,Scott Farm bridge,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,
+CCSTA.CONCRE32.47,CONCRE32.47,Conodoguinet Creek,40.235785,-77.14107,,Simmons Creek-Conodoguinet Creek,LeTort Falls Park,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,
+CCCD.CONCRE32.47,CONCRE32.47,Conodoguinet Creek 32.47,40.235785,-77.14107,,Simmons Creek-Conodoguinet Creek,Conodoguinet Creek at Letort Falls Park,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE35.82,CONCRE35.82,Conodoguinet Creek 35.82,40.236495,-77.193667,,Wertz Run-Conodoguinet Creek,Conodoguinet Creek at Creekview Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCSTA.CONCRE35.82,CONCRE35.82,Conodoguinet Creek,40.236495,-77.193667,,Wertz Run-Conodoguinet Creek,Creekview Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,
+CCSTA.CONCRE39.03,CONCRE39.03,Conodoguinet Creek,40.234075,-77.218027,,Conodoguinet Creek,North Middleton Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,
+CCCD.CONCRE39.03,CONCRE39.03,Conodoguinet Creek 39.03,40.234075,-77.218027,,Conodoguinet Creek,Conodoguinet Creek at North Middleton Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE43.93,CONCRE43.93,Conodoguinet Creek 43.93,40.224638,-77.260294,,Wertz Run-Conodoguinet Creek,Conodoguinet Creek,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE44.27,CONCRE44.27,Conodoguinet Creek 44.27,40.221555,-77.269701,,Wertz Run-Conodoguinet Creek,Conodoguinet Creek below Opossum lake confluence,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE5.25,CONCRE5.25,Conodoguinet Creek 5.25,40.27688,-76.944799,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek at Adams-Ricci Park,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE59.72,CONCRE59.72,Conodoguinet Creek 59.72,40.177355,-77.454229,,Three Square Hollow Run-Conodoguinet Creek,Conodoguinet Creek at Steelstown and Brandy Run Road,NAD83,Cumberland County,FALSE,,42041,020503050306,Pennsylvania,Lower Susquehanna
+CCCD.CONCRE6.09,CONCRE6.09,Conodoguinet Creek 6.09,40.270673,-76.95154,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek at Acri Meadow Park,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCSTA.CONCRE6.09,CONCRE6.09,Conodoguinet Creek,40.271876,-76.951478,,Conodoguinet Creek-Susquehanna River,Acri Meadow Park,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,
+CCCD.CONCRE79.50,CONCRE79.50,Conodoguinet Creek 79.50,40.068522,-77.643277,,Trout Run-Conodoguinet Creek,Conodoguinet Creek at Creek Road and Cumberland Highway ,NAD83,Franklin County,FALSE,,42055,020503050203,Pennsylvania,Lower Susquehanna
+CCWA.CONO00.1,CONO00.1,Conodoguinet Creek 00.1,40.270861,-76.9156,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 00.1,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO02.6,CONO02.6,Conodoguinet Creek 02.6,40.256489,-76.928446,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 02.6,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO06.4,CONO06.4,Conodoguinet Creek 06.4,40.256938,-76.944205,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 06.4,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO09.5,CONO09.5,CCWA.CONO09.5,40.251142,-76.958114,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 09.5,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO10.3,CONO10.3,Conodoguinet Creek 10.3,40.258352,-76.964875,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 10.3,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO13.2,CONO13.2,Conodoguinet Creek 13.2,40.262529,-76.978808,,Conodoguinet Creek-Susquehanna River,Conodoguinet Creek 13.2,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+CCWA.CONO17.1,CONO17.1,Conodoguinet Creek 17.1,40.267855,-77.015436,,Simmons Creek-Conodoguinet Creek,Conodoguinet Creek 17.1,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+CCWA.CONO27.5,CONO27.5,Conodoguinet Creek 27.5,40.258784,-77.10283,,Simmons Creek-Conodoguinet Creek,Conodoguinet Creek 27.5,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+CCWA.CONO33.9,CONO33.9,Conodoguinet Creek 33.9,40.239804,-77.173815,,Wertz Run-Conodoguinet Creek,Conodoguinet Creek 33.9,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCWA.CONO46.3,CONO46.3,Conodoguinet Creek 46.3,40.214601,-77.297451,,Wertz Run-Conodoguinet Creek,Conodoguinet Creek 46.3,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCWA.CONO46.8,CONO46.8,Conodoguinet Creek 46.8,40.215365,-77.30397,,Big Spring Creek-Conodoguinet Creek,Conodoguinet Creek 46.8,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+CCWA.CONO48.8,CONO48.8,Conodoguinet Creek 48.8,40.226963,-77.332296,,Big Spring Creek-Conodoguinet Creek,Conodoguinet Creek 48.8,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+CCWA.CONO53.2,CONO53.2,Conodoguinet Creek 53.2,40.201869,-77.365123,,Big Spring Creek-Conodoguinet Creek,Conodoguinet Creek 53.2,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+CCWA.CONO66.5,CONO66.5,Conodoguinet Creek 66.5,40.149675,-77.507219,,Three Square Hollow Run-Conodoguinet Creek,Conodoguinet Creek 66.5,NAD83,Cumberland County,FALSE,,42041,020503050306,Pennsylvania,Lower Susquehanna
+CCWA.CONO74.5,CONO74.5,Conodoguinet Creek 74.5,40.076156,-77.595852,,Trout Run-Conodoguinet Creek,Conodoguinet Creek 74.5,NAD83,Franklin County,FALSE,,42055,020503050203,Pennsylvania,Lower Susquehanna
+CCWA.CONO82.9,CONO82.9,Conodoguinet Creek 82.9,40.09015,-77.64789,,Trout Run-Conodoguinet Creek,Conodoguinet Creek 82.9,NAD83,Franklin County,FALSE,,42055,020503050203,Pennsylvania,Lower Susquehanna
+LCCD.CoopersRun,Coopers Run,Coopers Run,39.831417,-76.025528,,Muddy Run-East Branch Octoraro Creek,"Mount Eden Road - downstream, in cropland",NAD83,Lancaster County,FALSE,,42071,020503061403,Pennsylvania,
+TUCCC.CORECR001,CORECR001,Corey Creek,41.800567,-77.047383,,Corey Creek,Corey Creek,NAD83,Tioga County,FALSE,,42117,020501040906,Pennsylvania,
+GCWD.COWRIV34.68,COWRIV34.68,Cowanesque River 34.68,41.92933,-77.628583,,Headwaters Cowanesque River,Cowanesque River 34.68,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+GCWD.CROCRE13.23,CROCRE13.23,Crooked Creek 12.23,41.84242,-77.27702,,Middle Crooked Creek,Crooked Creek 12.23,NAD83,Tioga County,FALSE,n/a,42117,020501040606,Pennsylvania,Upper Susquehanna
+TUCCC.CROOCR001,CROOCR001,Crooked Creek,41.84493,-77.27932,,Middle Crooked Creek,Crooked Creek,NAD83,Tioga County,FALSE,,42117,020501040606,Pennsylvania,
+TUCCC.CROOCR002,CROOCR002,Crooked Creek,41.85919,-77.30723,,Middle Crooked Creek,Crooked Creek,NAD83,Tioga County,FALSE,,42117,020501040606,Pennsylvania,
+TUCCC.CUSHHO001,CUSHHO001,Cushing Hollow,41.821461,-77.708164,,Genesee Forks,Cushing Hollow,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,
+LCCD.CW1,CW1,Little Conowingo Cr. - CW1,39.76356,-76.1679,,Conowingo Creek,Goat Hill Rd.,NAD83,Lancaster County,FALSE,DTU,42071,020503061711,Pennsylvania,
+LCCD.CW2,CW2,Conowingo Cr. - CW2,39.77364,-76.1702223,,Conowingo Creek,Wakefield,NAD83,Lancaster County,FALSE,DTU,42071,020503061711,Pennsylvania,
+LCCD.CW3,CW3,Conowingo Cr. - CW3,39.8588,-76.20147,,Conowingo Creek,Scotland Rd.,NAD83,Lancaster County,FALSE,DTU,42071,020503061711,Pennsylvania,
+LCCD.CW4,CW4,Conowingo Cr. - CW4,39.8304,-76.1892,,Conowingo Creek,Weaver Farm / Cardinal Drive,NAD83,Lancaster County,FALSE,DTU restoration site,42071,020503061711,Pennsylvania,
+TUCCC.DAMRUN001,DAMRUN001,Damon Run,41.326683,-77.354867,,Little Pine Creek-Pine Creek,Damon Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.DAMRUN002,DAMRUN002,Damon Run,41.329433,-77.344467,,Little Pine Creek-Pine Creek,Damon Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+CCWA.DC00.9,DC00.9,Doubling Creek 00.9,40.201195,-77.417339,,Doubling Gap Creek,Doubling Creek 00.9,NAD83,Cumberland County,FALSE,,42041,020503050307,Pennsylvania,Lower Susquehanna
+TUCCC.DIXIRU001,DIXIRU001,Dixie Run,41.55859,-77.33154,,Long Run-Babb Creek,Dixie Run,NAD83,Tioga County,FALSE,,42117,020502050405,Pennsylvania,
+GCWD.DODHOLRUN0.32,DODHOLRUN0.32,Dodge Hollow Run 0.32,41.9225,-77.62645,,Headwaters Cowanesque River,Dodge Hollow Run 0.32,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+TUCCC.DRIFBR001,DRIFBR001,Driftwood Branch (Emporium),41.508195,-78.235766,,Driftwood Branch Sinnemahoning Creek-Sinnemahoning Creek,Driftwood Branch (Emporium),NAD83,Cameron County,FALSE,,42023,020502020207,Pennsylvania,
+TUCCC.DRIFBR002,DRIFBR002,Driftwood Branch (Emporium),41.581891,-78.440491,,Elk Fork-Driftwood Branch Sinnemahoning Creek,Driftwood Branch (Emporium),NAD83,Elk County,FALSE,,42047,020502020201,Pennsylvania,
+TUCCC.DRYRUN001,DRYRUN001,Dry Run,41.34325,-77.654133,,Rattlesnake Run-West Branch Susquehanna River,Dry Run,NAD83,Clinton County,FALSE,,42035,020502030402,Pennsylvania,
+CCWA.DS01.0,DS01.0,Dykeman Spring 01.0,40.027322,-77.507586,,Middle Spring Creek,Dykeman Spring 01.0,NAD83,Cumberland County,FALSE,,42041,020503050302,Pennsylvania,Lower Susquehanna
+TUCCC.DYKECR001,DYKECR001,Dyke Creek,41.69343,-77.155667,,Headwaters Babb Creek,Dyke Creek,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+GCWD.EASFORSINCRE10.25,EASFORSINCRE10.25,East Fork Sinnemahong Creek 10.25,41.609215,-77.88983333,,East Fork Sinnemahoning Creek,East Fork Sinnemahong Creek 10.25,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,West Branch Susquehanna
+GCWD.EASFORSINCRE11.03,EASFORSINCRE11.03,East Fork Sinnemahong Creek 11.03,41.61528833,-77.87932361,,East Fork Sinnemahoning Creek,East Fork Sinnemahong Creek 11.03,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,West Branch Susquehanna
+GCWD.EASFORSINCRE12.53,EASFORSINCRE12.53,,41.62841306,-77.860145,,East Fork Sinnemahoning Creek,East Fork Sinnemahong Creek 12.53,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,West Branch Susquehanna
+TUCCC.EBCORU001,EBCORU001,East Branch of Cowley Run,41.59678,-78.18343,,Cowley Run,East Branch of Cowley Run,NAD83,Cameron County,FALSE,,42023,020502020101,Pennsylvania,
+TUCCC.EFSICR004,EFSICR004,East Fork Sinnemahoning Creek,41.628357,-77.86037,,East Fork Sinnemahoning Creek,East Fork Sinnemahoning Creek,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.EFSICR005,EFSICR005,East Fork Sinnemahoning Creek,41.529465,-78.014285,,East Fork Sinnemahoning Creek,East Fork Sinnemahoning Creek,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.ELKLRU001,ELKLRU001,Elk Run,41.521832,-78.02645,,Middle First Fork Sinnemahoning Creek,Elk Run,NAD83,Potter County,FALSE,,42105,020502020406,Pennsylvania,
+TUCCC.ELKRU001,ELKRU001,Elk Run,41.38018,-76.47466,,Big Run-Muncy Creek,Elk Run,NAD83,Sullivan County,FALSE,,42113,020502060801,Pennsylvania,
+TUCCC.ELKRU002,ELKRU002,Elk Run,41.84803,-77.01248,,Gaffers Creek-Elk Run,Elk Run,NAD83,Tioga County,FALSE,,42117,020501040701,Pennsylvania,
+TUCCC.ELKRU003,ELKRU003,Elk Run,41.71212,-77.578533,,Elk Run,Elk Run,NAD83,Tioga County,FALSE,,42117,020502050206,Pennsylvania,
+TUCCC.ELMIHO001,ELMIHO001,Elevenmile Hollow,41.62445,-78.03195,,Upper First Fork Sinnemahoning Creek,Elevenmile Hollow,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,
+TUCCC.ENGLRU001,ENGLRU001,English Run,41.35423,-77.34771,,Little Pine Creek-Pine Creek,English Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.ENGLRU002,ENGLRU002,English Run,41.44385,-77.29762,,Little Pine Creek-Pine Creek,English Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+CCCD.ENORUN0.47,ENORUN0.47,Enola Run 0.47,40.28072,-76.933674,,Conodoguinet Creek-Susquehanna River,Enola Run below the old landfill,NAD83,Cumberland County,FALSE,,42041,020503050408,Pennsylvania,Lower Susquehanna
+TUCCC.FAHNRU001,FAHNRU001,Fahnestock Run,41.57997,-77.47319,,Cedar Run,Fahnestock Run,NAD83,Tioga County,FALSE,,42117,020502050602,Pennsylvania,
+TUCCC.FALLCR001,FALLCR001,Falls Creek,41.64132,-76.593672,,Millstone Creek-Schrader Creek,Falls Creek,NAD83,Bradford County,FALSE,,42015,020501060202,Pennsylvania,
+TUCCC.FFSICR002,FFSICR002,First Fork Sinnemahoning Creek,41.4511,-78.04667,,Middle First Fork Sinnemahoning Creek,First Fork Sinnemahoning Creek,NAD83,Cameron County,FALSE,,42023,020502020406,Pennsylvania,
+TUCCC.FIBIFO001,FIBIFO001,First Big Fork,41.40055,-77.49464,,Trout Run,First Big Fork,NAD83,Lycoming County,FALSE,,42081,020502050605,Pennsylvania,
+CCST.FISCRE0.49,FISCRE0.49,,40.98158,-76.47238,,Fishing Creek-Susquehanna River,Fishing Creek 2,NAD83,Columbia County,FALSE,,42037,020501070707,Pennsylvania,
+LCCD.Fish1,Fish1,Fishing Cr. - Fish1,39.831478,-76.245341,,Fishing Creek-Susquehanna River,"Scalpy Hollow Rd., LCC Nature Preserve (North Preserve)",NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061709,Pennsylvania,
+LCCD.Fish2,Fish2,UNT Fishing Cr. - Fish2,39.828759,-76.242286,,Fishing Creek-Susquehanna River,Osceola Dr.,NAD83,Lancaster County,FALSE,NFWF,42071,020503061709,Pennsylvania,
+LCCD.Fish3,Fish3,UNT Fishing Cr. - Fish3,39.809412,-76.233583,,Fishing Creek-Susquehanna River,Fishing Cr. hollow Rd.,NAD83,Lancaster County,FALSE,NFWF,42071,020503061709,Pennsylvania,
+LCCD.Fish4,Fish4,Fishing Cr. - Fish4,39.807606,-76.236189,,Fishing Creek-Susquehanna River,Furniss Rd.,NAD83,Lancaster County,FALSE,NFWF,42071,020503061709,Pennsylvania,
+LCCD.Fish5,Fish5,Fishing Cr. - Fish5,39.796641,-76.257328,,Fishing Creek-Susquehanna River,Fishing Cr. hollow Rd. - LCCD Perserve (South Preserve),NAD83,Lancaster County,FALSE,NFWF,42071,020503061709,Pennsylvania,
+LCCD.Fish6,Fish6,Fishing Cr. - Fish6,39.814735,-76.237063,,Fishing Creek-Susquehanna River,Drumore Park,NAD83,Lancaster County,FALSE,NFWF,42071,020503061709,Pennsylvania,
+LCCD.Fish7,Fish7,Fishing Cr. - Fish7,39.851725,-76.243605,,Fishing Creek-Susquehanna River,Metzler Sisters,NAD83,Lancaster County,FALSE,"DTU, USFW restored site, DTU, USFW restored site (10/4/2017)",42071,020503061709,Pennsylvania,
+LCCD.Fish8,Fish8,UNT Fishing Cr. - Fish8,39.81847,-76.244814,,Fishing Creek-Susquehanna River,Furniss Rd. and Scalpy Hollow Rd.,NAD83,Lancaster County,FALSE,"DTU, Exactly at Furniss Rd.",42071,020503061709,Pennsylvania,
+LCCD.Fish9,Fish9,UNT Fishing Cr. - Fish9,39.83547,-76.24224,,Fishing Creek-Susquehanna River,Moss Site,NAD83,Lancaster County,FALSE,,42071,020503061709,Pennsylvania,
+TUCCC.FISHCR002,FISHCR002,Fishing Creek,41.267348,-76.380047,,Raven Creek,Fishing Creek,NAD83,Columbia County,FALSE,,42037,020501070704,Pennsylvania,
+TUCCC.FISHCR003,FISHCR003,Fishing Creek,41.274865,-76.37773,,Raven Creek,Fishing Creek,NAD83,Columbia County,FALSE,,42037,020501070704,Pennsylvania,
+TUCCC.FLICKRU001,FLICKRU001,Flicks Run,41.48153,-77.21131,,Blockhouse Creek,Flicks Run,NAD83,Lycoming County,FALSE,,42081,020502050504,Pennsylvania,
+AWA.FP,FP,Foster Property,39.725989,-77.593831,,East Branch Antietam Creek,Foster Property ,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+TUCCC.FRANBR001,FRANBR001,Francis Branch,41.54952,-77.55795,,Slate Run,Francis Branch,NAD83,Tioga County,FALSE,,42117,020502050603,Pennsylvania,
+TUCCC.FREERU001,FREERU001,Freeman Run,41.60057,-78.064333,,Freeman Run,Freeman Run,NAD83,Potter County,FALSE,,42105,020502020404,Pennsylvania,
+TUCCC.FRPORU001,FRPORU001,Frog Pond Run,40.9238,-78.4836,,Little Clearfield Creek,Frog Pond Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.GAMBRU001,GAMBRU001,Gamble Run,41.24138,-77.33651,,Pine Creek-West Branch Susquehanna River,Gamble Run,NAD83,Lycoming County,FALSE,,42081,020502050607,Pennsylvania,
+TUCCC.GARRRU001,GARRRU001,Garrison Run,40.9532,-78.4888,,Curwensville Dam-West Branch Susquehanna River,Garrison Run,NAD83,Clearfield County,FALSE,,42033,020502010408,Pennsylvania,
+TUCCC.GAZZRU001,GAZZRU001,GAZZRU001,40.89132,-78.58166,,Little Clearfield Creek,GAZZRU001,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.GENEFO001,GENEFO001,Genesee Forks,41.8236,-77.7024,,Genesee Forks,Genesee Forks,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,
+TUCCC.GENEFO002,GENEFO002,Genesee Forks,41.827279,-77.706149,,Genesee Forks,Genesee Forks,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,
+GCWD.GENFOR10.77,GENFOR10.77,Genesee Forks 10.77,41.84637,-77.7018,,Genesee Forks,Genesee Forks 10.77,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,West Branch Susquehanna
+GCWD.GENFOR9.31,GENFOR9.31,Genesee Forks 9.31,41.82705,-77.70625,,Genesee Forks,Genesee Forks 9.31,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,West Branch Susquehanna
+GCWD.GERBRA4.32,GERBRA4.32,Germania Branch 4.32,41.64688889,-77.65480556,,Upper Kettle Creek,Germania Branch 4.32,NAD83,Potter County,FALSE,,42105,020502030102,Pennsylvania,West Branch Susquehanna
+TUCCC.GLRICR001,GLRICR001,Glen Richey Creek����������������,40.9364,-78.4632,,Little Clearfield Creek,Glen Richey Creek����������������,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+LCCD.Good1,Good1,Goods Run - Good1,39.94195,-76.306546,,Climbers Run-Pequea Creek,,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+AWA.GP,GP,George Property,39.731672,-77.540817,,Red Run,George Property,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+CCCD.GRESPRCRE0.16,GRESPRCRE 0.16,Green Spring Creek,40.168066,-77.455199,,Green Spring Creek,Green Spring Creek at Green Spring Brethren in Christ Church,NAD83,Cumberland County,FALSE,,42041,020503050305,Pennsylvania,Lower Susquehanna
+CCSTA.GRESPRCRE0.62,GRESPRCRE0.62,Green Spring Creek,40.168066,-77.455199,,Green Spring Creek,,NAD83,Cumberland County,FALSE,,42041,020503050305,Pennsylvania,
+LCCD.HACC1,HACC1,UNT Conestoga River - HACC1,40.042222,-76.268056,,Lower Conestoga River,Tributary stream behind HACC campus,NAD83,Lancaster County,FALSE,long-term monitoring for college students,42071,020503061107,Pennsylvania,
+LCCD.HANDMS1,HANDMS1,UNT Conestoga River,40.0326,-76.2871,,Lower Conestoga River,Tributary stream behind Hand Middle School,NAD83,Lancaster County,FALSE,,42071,020503061107,Pennsylvania,Lower Susquehanna
+TUCCC.HAWKRU002,HAWKRU002,Hawk Run,41.5731,-76.86997,,Rock Run,Hawk Run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+TUCCC.HAYERU001,HAYERU001,Hayes Run,41.105418,-77.758962,,Beech Creek-Bald Eagle Creek,Hayes Run,NAD83,Centre County,FALSE,,42027,020502040205,Pennsylvania,
+AWA.HB,HB,Hess Benedict,39.810403,-77.576394,,West Branch Antietam Creek,Hess Benedict,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+LCCD.HC4,HC4,Hammer Cr. - HC4,40.174722,-76.255278,,Hammer Creek,below bridge and below sign at restoration project on Buch Mill Rd.,NAD83,Lancaster County,FALSE,below 2 miles of restoration work,42071,020503060903,Pennsylvania,
+AWA.H,He,Henicle,39.734247,-77.540569,,Red Run,Henicle,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+GCWD.HEIRUN0.01,HEIRUN0.01,Heise Run 0.01,41.77267,-77.3549,,Marsh Creek-Pine Creek,Heise Run 0.01,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.HEIRUN1.68,HEIRUN1.68,Heise Run 1.68,41.75006667,-77.34817,,Marsh Creek-Pine Creek,Heise Run 1.68,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+TUCCC.HEISRU001,HEISRU001,Heise Run,41.75663,-77.3503,,Marsh Creek-Pine Creek,Heise Run,NAD83,Tioga County,FALSE,,42117,020502050303,Pennsylvania,
+TUCCC.HILLCR001,HILLCR001,Hills Creek,41.85645,-77.225265,,Hills Creek,Hills Creek,NAD83,Tioga County,FALSE,,42117,020501040605,Pennsylvania,
+TUCCC.HOBARU001,HOBARU001,Hog Back Run,40.9531,-78.4892,,Curwensville Dam-West Branch Susquehanna River,Hog Back Run,NAD83,Clearfield County,FALSE,,42033,020502010408,Pennsylvania,
+CCCD.HOGRUN0.98,HOGRUN0.98,Hogestown Run 0.98,40.244428,-77.033945,,Hogestown Run,Hogestown Run,NAD83,Cumberland County,FALSE,,42041,020503050405,Pennsylvania,Lower Susquehanna
+CCSTA.HOGRUN0.98,HOGRUN0.98,Hogestown Run,40.244428,-77.033945,,Hogestown Run,,NAD83,Cumberland County,FALSE,,42041,020503050405,Pennsylvania,
+TUCCC.HOOTRU001,HOOTRU001,Hootalink Run���,40.8967,-78.5531,,Little Clearfield Creek,Hootalink Run���,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.HORTRU001,HORTRU001,Horsecamp Run of Dry Fork,41.616098,-77.874827,,East Fork Sinnemahoning Creek,Horsecamp Run of Dry Fork,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+CCWA.HR00.1,HR00.1,Hogestown Run 00.1,40.251474,-77.022519,,Simmons Creek-Conodoguinet Creek,Hogestown Run 00.1,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+TUCCC.HUNTCR001,HUNTCR001,Huntington Creek,41.33417,-76.142778,,Headwaters Huntington Creek,Huntington Creek,NAD83,Luzerne County,FALSE,,42079,020501070501,Pennsylvania,
+TUCCC.HUNTRU001,HUNTRU001,Hunts Run,41.45268,-78.1744,,Hunts Run,Hunts Run,NAD83,Cameron County,FALSE,,42023,020502020205,Pennsylvania,
+TUCCC.HUNTRU002,HUNTRU002,Hunts Run,41.502896,-78.125208,,Hunts Run,Hunts Run,NAD83,Cameron County,FALSE,,42023,020502020205,Pennsylvania,
+TUCCC.HUNTRU003,HUNTRU003,Hunts Run,41.47377,-78.15105,,Hunts Run,Hunts Run,NAD83,Cameron County,FALSE,,42023,020502020205,Pennsylvania,
+AWA.IBR,IBR,Iron Bridges Rd,39.724881,-77.605128,,West Branch Antietam Creek,Iron Bridges Rd,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+TUCCC.JAMIRU001,JAMIRU001,Jamison Run,41.58625,-77.900065,,East Fork Sinnemahoning Creek,Jamison Run,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.JEMICR001,JEMICR001,Jemison Creek,41.87222,-77.49222,,Jemison Creek,Jemison Creek,NAD83,Tioga County,FALSE,,42117,020501040804,Pennsylvania,
+TUCCC.JEMICR002,JEMICR002,Jemison Creek,41.86802,-77.48842,,Jemison Creek,Jemison Creek,NAD83,Tioga County,FALSE,,42117,020501040804,Pennsylvania,
+TUCCC.JOHNBR001,JOHNBR001,Johnson Brook,41.74325,-77.62094,,West Branch Pine Creek-Pine Creek,Johnson Brook,NAD83,Potter County,FALSE,,42105,020502050204,Pennsylvania,
+JRRC.JOHRUN0.54,JOHRUN 0.54,,39.827579,-77.87694,,Lower West Branch Conococheague Creek,Johnston Run,NAD83,Franklin County,FALSE,,42055,020700040605,Pennsylvania,
+JRRC.JOHRUN2.41,JOHRUN 2.41,,39.834038,-77.898473,,Lower West Branch Conococheague Creek,Johnston Run,NAD83,Franklin County,FALSE,,42055,020700040605,Pennsylvania,
+JRRC.JOHRUN2.79,JOHRUN 2.79,,39.831062,-77.902611,,Lower West Branch Conococheague Creek,Johnston Run,NAD83,Franklin County,FALSE,,42055,020700040605,Pennsylvania,
+JRRC.JOHRUN3.08,JOHRUN 3.08,,39.831043,-77.906097,,Lower West Branch Conococheague Creek,Johnston Run,NAD83,Franklin County,FALSE,,42055,020700040605,Pennsylvania,
+JRRC.JOHRUN4.35,JOHRUN 4.35,,39.837415,-77.923427,,Lower West Branch Conococheague Creek,Johnston Run,NAD83,Franklin County,FALSE,,42055,020700040605,Pennsylvania,
+LCCD.Kelly1,Kelly1,Kellys Run - Kelly1,39.836524,-76.339021,,Muddy Run-Susquehanna River,LCC Nature Preserve,NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061708,Pennsylvania,
+TUCCC.KELSCR001,KELSCR001,Kelsey Creek,41.7285,-77.321652,,Charleston Creek,Kelsey Creek,NAD83,Tioga County,FALSE,,42117,020502050301,Pennsylvania,
+TUCCC.KENDCR001,KENDCR001,Kendall Creek,41.96388,-76.61972,,Dry Brook-Chemung River,Kendall Creek,NAD83,Bradford County,FALSE,,42015,020501050607,Pennsylvania,
+GCWD.KETCRE53.66,KETCRE53.66,Kettle Creek 53.66,41.58548333,-77.63618333,,Upper Kettle Creek,Kettle Creek 53.66,NAD83,Potter County,FALSE,,42105,020502030102,Pennsylvania,West Branch Susquehanna
+CCST.KITCRE5.67,KITCRE5.67,,41.30006,-76.27466,,Kitchen Creek,Kitchen Creek,NAD83,Luzerne County,FALSE,,42079,020501070502,Pennsylvania,
+LCCD.KnightsRun,KR,Knights Run,39.884646,-75.978733,,Muddy Run-East Branch Octoraro Creek,"Ross-Fording Road- updstream, in meadow",NAD83,Chester County,FALSE,Permission from Dennis Bush through CCCD,42029,020503061403,Pennsylvania,
+YCST.KRECRE8.67,KRECRE 8.67,,40.000433,-76.602183,,Kreutz Creek,Kreutz Creek 8.67,NAD83,York County,FALSE,,42133,020503061703,Pennsylvania,
+TUCCC.LALIRU001,LALIRU001,Laurel Lick Run,40.56722,-78.692778,,Upper Chest Creek,Laurel Lick Run,NAD83,Cambria County,FALSE,,42021,020502010101,Pennsylvania,
+LCCD.LaR2,LaR2,Landis Run - LaR2,40.089722,-76.290556,,Lower Conestoga River,Landis Woods at St. John Neuman Church,NAD83,Lancaster County,FALSE,,42071,020503061107,Pennsylvania,
+LCCD.LaR3,LaR3,Landis Run - LaR3,40.075,-76.269444,,Lower Conestoga River,Butter Rd. under bridge,NAD83,Lancaster County,FALSE,,42071,020503061107,Pennsylvania,
+TUCCC.LAURRU001,LAURRU001,Laurel Run,40.82668,-78.1111,,Laurel Run-Bald Eagle Creek,Laurel Run,NAD83,Centre County,FALSE,,42027,020502040401,Pennsylvania,
+TUCCC.LAURRU002,LAURRU002,Laurel Run,40.8682,-78.4241,,Lower Clearfield Creek,Laurel Run,NAD83,Clearfield County,FALSE,,42033,020502010308,Pennsylvania,
+TUCCC.LAURRU005,LAURRU005,Laurel Run,41.291317,-76.731433,,Gregs Run-Muncy Creek,Laurel Run,NAD83,Lycoming County,FALSE,,42081,020502060803,Pennsylvania,
+GCWD.LAURUN0.06,LAURUN0.06,Laurel Run 0.06,41.82895,-77.63941667,,Phoenix Run,Laurel Run 0.06,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+LCCD.LC2,LC2,Little Conestoga - LC2,39.983782,-76.377848,,West Branch Little Conestoga Creek-Little Conestoga Creek,Owl Bridge Rd. - mainstem before confluence with West Branch,NAD83,Lancaster County,FALSE,,42071,020503061002,Pennsylvania,
+LCCD.LC3,LC3,Little Conestoga - LC3,40.03694444,-76.34333333,,West Branch Little Conestoga Creek-Little Conestoga Creek,Restoration Area,NAD83,Lancaster County,FALSE,,42071,020503061002,Pennsylvania,Lower Susquehanna
+LCCD.LC4,LC4,Little Conestoga - LC3,40.036944,-76.343333,,West Branch Little Conestoga Creek-Little Conestoga Creek,Maple Grove Community Center below Columbia Ave. (Rt. 462),NAD83,Lancaster County,FALSE,Restoration area,42071,020503061002,Pennsylvania,
+LCCD.LC5,LC5,Little Conestoga - LC5,40.095278,-76.336389,,Millers Run-Little Conestoga Creek,Buch Ave. & Miller Rd.,NAD83,Lancaster County,FALSE,potential site for development and thus watershed protection,42071,020503061001,Pennsylvania,
+TUCCC.LEONCR001,LEONCR001,Leonard Creek,41.375005,-75.988388,,Leonard Creek,Leonard Creek,NAD83,Luzerne County,FALSE,,42079,020501061301,Pennsylvania,
+TUCCC.LEONCR002,LEONCR002,Leonard Creek,41.413296,-76.000236,,Leonard Creek,Leonard Creek,NAD83,Wyoming County,FALSE,,42131,020501061301,Pennsylvania,
+CVTU.LETSPRRUN6.66,LETSPRRUN 6.66,LeTort Spring Run 6.66,40.17365,-77.188767,,Letort Spring Run,LeTort Spring Run 6.66,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CVTU.LETSPRRUN7.23,LETSPRRUN 7.23,LeTort Spring Run 7.23,40.16865,-77.193367,,Letort Spring Run,LeTort Spring Run 7.23,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CCCD.LETSPRRUN4.77,LETSPRRUN4.77,LeTort Spring Run 4.77,40.195294,-77.184267,,Letort Spring Run,Letort Spring Run at Letort Park,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+TUCCC.LICKCR001,LICKCR001,Lick Creek,41.65857,-77.156567,,Headwaters Babb Creek,Lick Creek,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+TUCCC.LICKCR002,LICKCR002,Lick Creek,41.653967,-77.193518,,Headwaters Babb Creek,Lick Creek,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+TUCCC.LICKRU001,LICKRU001,Lick Run,41.74038,-77.53815,,Lick Run-Pine Creek,Lick Run,NAD83,Tioga County,FALSE,,42117,020502050208,Pennsylvania,
+TUCCC.LICKRU002,LICKRU002,Lick Run,41.72163,-77.53445,,Lick Run-Pine Creek,Lick Run,NAD83,Tioga County,FALSE,,42117,020502050208,Pennsylvania,
+TUCCC.LICKRU003,LICKRU003,Lick Run,41.43227,-77.2711,,Little Pine Creek-Pine Creek,Lick Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.LICLCR001,LICLCR001,Little Clearfield Creek,40.89428,-78.5321,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR002,LICLCR002,Little Clearfield Creek,40.9298,-78.4683,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR003,LICLCR003,Little Clearfield Creek,40.8947,-78.57742,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR004,LICLCR004,Little Clearfield Creek,40.8967,-78.5191,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR005,LICLCR005,Little Clearfield Creek,40.8941,-78.5431,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR006,LICLCR006,Little Clearfield Creek,40.9161,-78.5051,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.LICLCR007,LICLCR007,Little Clearfield Creek,40.9444,-78.4471,,Little Clearfield Creek,Little Clearfield Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+GCWD.LICRUN0.19,LICRUN0.19,Lick Run 0.19,41.74223333,-77.53732,,Lick Run-Pine Creek,Lick Run 0.19,NAD83,Tioga County,FALSE,n/a,42117,020502050208,Pennsylvania,West Branch Susquehanna
+TUCCC.LIDDGU001,LIDDGU001,UNT W Susquehanna River,40.9671,-78.4865,,Curwensville Dam-West Branch Susquehanna River,UNT W Susquehanna River,NAD83,Clearfield County,FALSE,,42033,020502010408,Pennsylvania,
+TUCCC.LIFACR001,LIFACR001,Little Fall Creek,41.5697,-77.20455,,Zimmerman Creek,Little Fall Creek,NAD83,Tioga County,FALSE,,42117,020502050501,Pennsylvania,
+TUCCC.LIISRU001,LIISRU001,Lick Island Run,41.37281,-78.05257,,Lower First Fork Sinnemahoning Creek,Lick Island Run,NAD83,Cameron County,FALSE,,42023,020502020407,Pennsylvania,
+TUCCC.LIKECR002,LIKECR002,Little Kettle Creek,41.58147,-77.704944,,Little Kettle Creek,Little Kettle Creek,NAD83,Potter County,FALSE,,42105,020502030101,Pennsylvania,
+TUCCC.LIMORU001,LIMORU001,Little Moores Run,41.642867,-78.002183,,Big Moores Run,Little Moores Run,NAD83,Potter County,FALSE,,42105,020502020401,Pennsylvania,
+TUCCC.LIPICR001,LIPICR001,Little Pine Creek,41.41283,-77.32124,,Little Pine Creek-Pine Creek,Little Pine Creek,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.LIPICR002,LIPICR002,Little Pine Creek,41.309983,-77.362625,,Little Pine Creek-Pine Creek,Little Pine Creek,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.LIPOCR001,LIPOCR001,Little Portage Creek,41.604447,-78.066728,,Freeman Run,Little Portage Creek,NAD83,Potter County,FALSE,,42105,020502020404,Pennsylvania,
+TUCCC.LISLRU001,LISLRU001,Little Slate Run,41.46369,-77.505465,,Mill Run-Pine Creek,Little Slate Run,NAD83,Lycoming County,FALSE,,42081,020502050604,Pennsylvania,
+CCST.LITFISCRE1.82,LITFISCRE1.82,,41.04028,-76.48333,,Little Fishing Creek-Fishing Creek,Little Fishing Creek,NAD83,Columbia County,FALSE,,42037,020501070602,Pennsylvania,
+GCWD.LITKETCRE2.51,LITKETCRE2.51,Little Kettle Creek 2.51,41.5874,-77.70665,,Little Kettle Creek,Little Kettle Creek 2.51,NAD83,Potter County,FALSE,,42105,020502030101,Pennsylvania,West Branch Susquehanna
+GCWD.LITPHORUN0.02,LITPHORUN0.02,Little Phoenix Run 0.02,41.81168,-77.62345,,Phoenix Run,Little Phoenix Run 0.02,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+TUCCC.LOGURU001,LOGURU001,Logue Run,41.4646,-78.06251,,Middle First Fork Sinnemahoning Creek,Logue Run,NAD83,Cameron County,FALSE,,42023,020502020406,Pennsylvania,
+TUCCC.LONGBO001,LONGBO001,Long Brook,41.36979,-76.48708,,Big Run-Muncy Creek,Long Brook,NAD83,Sullivan County,FALSE,,42113,020502060801,Pennsylvania,
+TUCCC.LONGRU001,LONGRU001,Long Run,41.7652,-77.561223,,Long Run,Long Run,NAD83,Tioga County,FALSE,,42117,020502050207,Pennsylvania,
+TUCCC.LONGRU002,LONGRU002,Long Run,41.79422,-77.5719,,Long Run,Long Run,NAD83,Tioga County,FALSE,,42117,020502050207,Pennsylvania,
+TUCCC.LONGRU003,LONGRU003,Long Run,41.59668,-77.28945,,Long Run-Babb Creek,Long Run,NAD83,Tioga County,FALSE,,42117,020502050405,Pennsylvania,
+TUCCC.LONRU001,LONRU001,Long Run,41.7652,-77.56122,,Long Run,Long Run,NAD83,Tioga County,FALSE,,42117,020502050207,Pennsylvania,
+GCWD.LONRUN4.13,LONRUN4.13,Long Run 4.13,41.794478,-77.5719,,Long Run,Long Run 4.13,NAD83,Tioga County,FALSE,n/a,42117,020502050207,Pennsylvania,West Branch Susquehanna
+TUCCC.LOVERU001,LOVERU001,Love Run,41.36619,-77.35632,,Little Pine Creek-Pine Creek,Love Run,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.LPBORU001,LPBORU001,Lower Pine Bottom Run,41.30378,-77.39496,,Upper Pine Bottom Run-Pine Creek,Lower Pine Bottom Run,NAD83,Lycoming County,FALSE,,42081,020502050606,Pennsylvania,
+CCWA.LR00.1,LR00.1,Loudon's Run 00.1,40.227646,-77.20661,,Wertz Run-Conodoguinet Creek,Loudon's Run 00.1,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+LCCD.LR3,LR3,Lititz Run - LR3,40.133611,-76.258056,,Lititz Run,Millport Conservancy,NAD83,Lancaster County,FALSE,relatively undisturbed,42071,020503061105,Pennsylvania,
+LRA.LT1,LT1,LeTort Spring Run 6.51,40.17663,-77.18537,,Letort Spring Run,LeTort Site 1,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT10,LT10,LeTort Spring Run 0.04,40.23487,-77.14193,,Letort Spring Run,LeTort Site 10,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT2,LT2,UNT to LeTort Spring Run 0.01,40.17667,-77.18507,,Letort Spring Run,LeTort Site 2,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT3,LT3,LeTort Spring Run 6.24,40.17999,-77.18692,,Letort Spring Run,LeTort Site 3,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT4,LT4,LeTort Spring Run 5.56,40.18844,-77.18606,,Letort Spring Run,LeTort Site 4,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT5,LT5,LeTort Spring Run 5.05,40.19528,-77.18423,,Letort Spring Run,LeTort Site 5,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT6,LT6,LeTort Spring Run 4.05,40.20792,-77.18104,,Letort Spring Run,LeTort Site 6,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT7,LT7,LeTort Spring Run 3.05,40.21418,-77.16883,,Letort Spring Run,LeTort Site 7,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT8,LT8,LeTort Spring Run 2.34,40.21847,-77.16003,,Letort Spring Run,LeTort Site 8,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.LT9,LT9,LeTort Spring Run 1.53,40.22429,-77.14928,,Letort Spring Run,LeTort Site 9,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CCWA.LTRT01.5,LTRT01.5,LeTort Spring Run 1.5,40.219418,-77.155726,,Letort Spring Run,LeTort Spring Run 1.5,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CCWA.LTRT04.5,LTRT04.5,LeTort Spring Run 04.5,40.20152,-77.184854,,Letort Spring Run,LeTort Spring Run 04.5,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CCWA.LTRT04.9,LTRT04.9,LeTort Spring Run 04.9,40.187955,-77.187194,,Letort Spring Run,LeTort Spring Run 04.9,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+TUCCC.LYMARU001,LYMARU001,Lyman Run,41.72096,-77.776242,,Lyman Run,Lyman Run,NAD83,Potter County,FALSE,,42105,020502050101,Pennsylvania,
+BCWA.M1,M1,,40.939139,-77.229472,,Buffalo Creek-West Branch Susquehanna River,Upstream of remediation site,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M2,M2,,40.939722,-77.225944,,Buffalo Creek-West Branch Susquehanna River,downstream of remediation site,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M3,M3,,40.944472,-77.200889,,Buffalo Creek-West Branch Susquehanna River,Frederick trail,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M4,M4,,40.920694,-77.15775,,Buffalo Creek-West Branch Susquehanna River,Aikey Rd (Nort of Hartleton),NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M5,M5,,40.91725,-77.091444,,Buffalo Creek-West Branch Susquehanna River,Hoover Rd (covered bridge),NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M6,M6,,40.930667,-77.040361,,Buffalo Creek-West Branch Susquehanna River,Forest Hill Rd,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M7,M7,,40.976583,-76.978639,,Buffalo Creek-West Branch Susquehanna River,Johnson Mill Rd,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M8,M8,,40.985611,-76.932306,,Buffalo Creek-West Branch Susquehanna River,Strawbridge Rd,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.M9,M9,,40.970083,-76.883389,,Buffalo Creek-West Branch Susquehanna River,St Anthony St,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+TUCCC.MADRU001,MADRU001,Mad Run,41.85828,-77.06178,,Painter Run-Mill Creek,Mad Run,NAD83,Tioga County,FALSE,,42117,020501040703,Pennsylvania,
+CCST.MAHCRE3.03,MAHCRE3.03,,40.9828,-76.6293,,Mahoning Creek,Mahoning Creek,NAD83,Montour County,FALSE,,42093,020501071005,Pennsylvania,
+TUCCC.MANOFO001,MANOFO001,Manor Fork,41.512067,-77.536313,,Slate Run,Manor Fork,NAD83,Lycoming County,FALSE,,42081,020502050603,Pennsylvania,
+GCWD.MARCRE0.05,MARCRE0.05,Marsh Creek 0.05,41.94638,-77.685317,,Headwaters Cowanesque River,Marsh Creek 0.05,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+GCWD.MARCRE10.99,MARCRE10.99,Marsh Creek 10.99,41.77943,-77.31009,,Marsh Creek-Pine Creek,Marsh Creek 10.99,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.MARCRE6.38,MARCRE6.38,Marsh Creek 6.38,41.772838,-77.35508,,Marsh Creek-Pine Creek,Marsh Creek 6.38,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+TUCCC.MARSCR001,MARSCR001,Marsh Creek,41.425676,-75.956269,,Lower Bowman Creek,Marsh Creek,NAD83,Wyoming County,FALSE,,42131,020501061303,Pennsylvania,
+AWA.MASP,MASP,Mont Alto State Park,39.839708,-77.537533,,West Branch Antietam Creek,Mont Alto State Park,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+TUCCC.MCKIBR002,MCKIBR002,McKinnon Branch,41.46429,-78.17316,,Hunts Run,McKinnon Branch,NAD83,Cameron County,FALSE,,42023,020502020205,Pennsylvania,
+TUCCC.MCNERU001,MCNERU001,McNeal Run,40.87207,-78.57165,,Little Clearfield Creek,McNeal Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+LCCD.MeetinghouseCreek,Meetinghouse Creek,Meetinghouse Creek,39.91252,-76.06882,,West Branch Octoraro Creek,Between Heyberger Road & Lamparter Road - in pasture,NAD83,Lancaster County,FALSE,,42071,020503061501,Pennsylvania,
+LRA.MG1,MG1,Molly Grub 0.02,40.19568,-77.18767,,Letort Spring Run,Molly Grub 1,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+LRA.MG2,MG2,Molly Grub 0.18,40.19608,-77.18518,,Letort Spring Run,Molly Grub 2,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+CCCD.MIDSPRCRE0.02,MIDSPRCRE0.02,Middle Spring Creek 0.02,40.10478,-77.559186,,Middle Spring Creek,Middle Spring Creek at McClays Mill Road,NAD83,Franklin County,FALSE,,42055,020503050302,Pennsylvania,Lower Susquehanna
+CCCD.MIDSPRCRE5.26,MIDSPRCRE5.26,Middle Spring Creek 5.26,40.061807,-77.532396,,Middle Spring Creek,Middle Spring Creek at Bard Road Bridge,NAD83,Cumberland County,FALSE,,42041,020503050302,Pennsylvania,Lower Susquehanna
+TUCCC.MIHORU001,MIHORU001,Mine Hole Run,41.55552,-77.45843,,Cedar Run,Mine Hole Run,NAD83,Tioga County,FALSE,,42117,020502050602,Pennsylvania,
+TUCCC.MILCR009,MILCR009,Mill Creek,41.38359,-76.97856,,Mill Creek-West Side of Loyalsock Creek,Mill Creek,NAD83,Lycoming County,FALSE,,42081,020502060508,Pennsylvania,
+YCST.MILCRE0.09,MILCRE 0.09,,39.982512,-76.722315,,Mill Creek,Mill Creek 0.09,NAD83,York County,FALSE,,42133,020503060706,Pennsylvania,
+GCWD.MILCRE1.08,MILCRE1.08,Mill Creek 1.08,41.905986,-77.53425,,Elklick Run-Mill Creek,Mill Creek 1.08,NAD83,Tioga County,FALSE,n/a,42117,020501040803,Pennsylvania,Upper Susquehanna
+GCWD.MILCRE1.67,MILCRE1.67,Mill Creek 1.67,41.898775,-77.53058,,Elklick Run-Mill Creek,Mill Creek 1.67,NAD83,Tioga County,FALSE,n/a,42117,020501040803,Pennsylvania,Upper Susquehanna
+GCWD.MILCRE2.32,MILCRE2.32,Mill Creek 2.32,41.889884,-77.5297,,Elklick Run-Mill Creek,Mill Creek 2.32,NAD83,Tioga County,FALSE,n/a,42117,020501040803,Pennsylvania,Upper Susquehanna
+LCCD.MILL1,MILL1,Mill Cr. - MILL1,40.085556,-76.044167,,Muddy Run-Mill Creek,Overly's Grove Rd. - below road bridge & trailer park,NAD83,Lancaster County,FALSE,upper watershed water quality,42071,020503061106,Pennsylvania,
+LCCD.MILL1A,MILL1A,Mill Cr. - MILL1A,40.089444,-76.069167,,Muddy Run-Mill Creek,Southwest of Kinzer Rd. & Mill Cr. intersection,NAD83,Lancaster County,FALSE,potential future stream restoration project location,42071,020503061106,Pennsylvania,
+LCCD.MILL2,MILL2,Mill Cr. - MILL2,40.081667,-76.086111,,Muddy Run-Mill Creek,Meadow Creek Rd. at intersection with Custer Ave.,NAD83,Lancaster County,FALSE,above waste water treatment plant discharge,42071,020503061106,Pennsylvania,
+LCCD.MILL3,MILL3,Mill Cr. - MILL3,40.076389,-76.077778,,Muddy Run-Mill Creek,Maple Grove Rd. - below road bridge,NAD83,Lancaster County,FALSE,below waste water treatment plant discharge,42071,020503061106,Pennsylvania,
+LCCD.MILL4,MILL4,Mill Cr. - MILL4,40.0625,-76.156667,,Muddy Run-Mill Creek,Below Rt. 772 bridge (Ressler Mill tract),NAD83,Lancaster County,FALSE,Mid-reach water quality,42071,020503061106,Pennsylvania,
+LCCD.MILL5,MILL5,Mill Cr. - MILL5,40.053611,-76.1725,,Muddy Run-Mill Creek,West of Monterey Rd. & Mill Cr. intersection,NAD83,Lancaster County,FALSE,future stream and habitat restoration location,42071,020503061106,Pennsylvania,
+LCCD.MILL6,MILL6,Mill Cr. - MILL 6,40.055833,-76.180278,,Muddy Run-Mill Creek,East of Gibbons Rd. & Mill Cr. intersection,NAD83,Lancaster County,FALSE,"effects of dam removal, agriculture, & stremabank fencing efforts",42071,020503061106,Pennsylvania,
+LCCD.MILL7,MILL7,Mill Cr. - MILL7,40.026389,-76.241389,,Muddy Run-Mill Creek,"East of Strasburg Pk. & Mill Cr. intersection, above Mill dam",NAD83,Lancaster County,FALSE,water quality effects above mill dam,42071,020503061106,Pennsylvania,
+TUCCC.MILLCR006,MILLCR006,Mill Creek,41.8587,-77.05975,,Painter Run-Mill Creek,Mill Creek,NAD83,Tioga County,FALSE,,42117,020501040703,Pennsylvania,
+TUCCC.MILLCR009,MILLCR009,Mill Creek,41.38359,-76.978561,,Mill Creek-West Side of Loyalsock Creek,Mill Creek,NAD83,Lycoming County,FALSE,,42081,020502060508,Pennsylvania,
+TUCCC.MILLCR011,MILLCR011,Mill Creek,41.436695,-75.922879,,Obendoffers Creek-Susquehanna River,Mill Creek,NAD83,Wyoming County,FALSE,,42131,020501061409,Pennsylvania,
+TUCCC.MILLRU002,MILLRU002,Mill Run,41.40472,-77.46471,,Mill Run-Pine Creek,Mill Run,NAD83,Lycoming County,FALSE,,42081,020502050604,Pennsylvania,
+TUCCC.MILLRU003,MILLRU003,Mill Run,41.752793,-77.503293,,Lick Run-Pine Creek,Mill Run,NAD83,Tioga County,FALSE,,42117,020502050208,Pennsylvania,
+LCCD.MILLTRIB1,MILLTRIB1,Mill Cr. - MILLTRIB1,40.026944,-76.242222,,Muddy Run-Mill Creek,Tributary stream enter Mill Cr. in Flory Park near Strasburg Pk.,NAD83,Lancaster County,FALSE,water quality of tributary stream before entering Mill Cr.,42071,020503061106,Pennsylvania,
+GCWD.MILRUN0.01,MILRUN0.01,Mill Run 0.01,41.75211667,-77.50378,,Lick Run-Pine Creek,Mill Run 0.01,NAD83,Tioga County,FALSE,n/a,42117,020502050208,Pennsylvania,West Branch Susquehanna
+TUCCC.MITCHO001,MITCHO001,Mitchell Hollow����������������������,40.9394,-78.4549,,Little Clearfield Creek,Mitchell Hollow����������������������,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.MONTRU001,MONTRU001,Montour Run,41.30661,-78.01672,,Sinnemahoning Creek-West Branch Susquehanna River,Montour Run,NAD83,Clinton County,FALSE,,42035,020502020502,Pennsylvania,
+GCWD.MOOHOLRUN0.06,MOOHOLRUN0.06,Moore Hollow Run 0.06,41.91678333,-77.62438333,,Headwaters Cowanesque River,Moore Hollow Run 0.06,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+TUCCC.MORRBR001,MORRBR001,Morris Branch,41.72523,-77.288191,,Charleston Creek,Morris Branch,NAD83,Tioga County,FALSE,,42117,020502050301,Pennsylvania,
+CCCD.MOUROCSPRCRE0.03,MOUROCSPRCRE0.03,Mount Rock Spring Creek 0.03,40.214809,-77.299823,,Big Spring Creek-Conodoguinet Creek,Mount Rock Spring Creek,NAD83,Cumberland County,FALSE,,42041,020503050308,Pennsylvania,Lower Susquehanna
+AWA.MR,MR,Mackey Run,39.741172,-77.491586,,Red Run,Mackey Run,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+AWA.MRR,MRR,Mouth-Red Run,39.737619,-77.568983,,East Branch Antietam Creek,Mouth-Red Run,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+CCWA.MSC02.8,MSC02.8,Middle Spring Creek 02.8,40.07262,-77.537821,,Middle Spring Creek,Middle Spring Creek 02.8,NAD83,Cumberland County,FALSE,,42041,020503050302,Pennsylvania,Lower Susquehanna
+CCWA.MTRK00.1,MTRK00.1,Mount Rock Creek 00.1,40.211399,-77.299815,,Mount Rock Spring Creek,Mount Rock Creek 00.1,NAD83,Cumberland County,FALSE,,42041,020503050401,Pennsylvania,Lower Susquehanna
+CCWA.MTRK03.9,MTRK03.9,Mount Rock Creek 03.9,40.161072,-77.315195,,Mount Rock Spring Creek,Mount Rock Creek 03.9,NAD83,Cumberland County,FALSE,,42041,020503050401,Pennsylvania,Lower Susquehanna
+LCCD.Mud1,Mud1,Muddy Cr. - Mud1,40.174444,-76.081667,,Muddy Creek,Red Run Campground at site #47 below Valley Protein,NAD83,Lancaster County,FALSE,,42071,020503061102,Pennsylvania,
+LCCD.Mud2,Mud2,Muddy Cr. - Mud2,40.179167,-76.081667,,Little Muddy Creek,off Rt. 897 outside of Brubaker Park below Valley Protein 1 mile below Red Run Campground,NAD83,Lancaster County,FALSE,,42071,020503061101,Pennsylvania,
+LCCD.Mud3,Mud3,Muddy Cr. - Mud3,40.196389,-76.056944,,Muddy Creek,Muddy Cr. above Black Run,NAD83,Lancaster County,FALSE,,42071,020503061102,Pennsylvania,
+LCCD.MuddyRun,Muddy Run,Muddy Run @ Homeville,39.831437,-76.004965,,Muddy Run-East Branch Octoraro Creek,Homeville Road - in horse pasture,NAD83,Chester County,FALSE,,42029,020503061403,Pennsylvania,
+TUCCC.MUDRU001,MUDRU001,Mud Run,40.996667,-75.967222,,Black Creek,Mud Run,NAD83,Luzerne County,FALSE,,42079,020501070402,Pennsylvania,
+TUCCC.MUNCCR001,MUNCCR001,Muncy Creek,41.37435,-76.46644,,Big Run-Muncy Creek,Muncy Creek,NAD83,Sullivan County,FALSE,,42113,020502060801,Pennsylvania,
+TUCCC.MUNCCR002,MUNCCR002,Muncy Creek,41.36753,-76.49158,,Big Run-Muncy Creek,Muncy Creek,NAD83,Sullivan County,FALSE,,42113,020502060801,Pennsylvania,
+TUCCC.NAVARU001,NAVARU001,Naval Run,41.458082,-77.516483,,Mill Run-Pine Creek,Naval Run,NAD83,Lycoming County,FALSE,,42081,020502050604,Pennsylvania,
+TUCCC.NBLARU001,NBLARU001,North Branch Laurel Run,40.2626,-77.491917,,Laurel Run,North Branch Laurel Run,NAD83,Perry County,FALSE,,42099,020503050105,Pennsylvania,
+TUCCC.NBRORU001,NBRORU001,North Branch Rock Run,41.56821,-76.83101,,Rock Run,North Branch Rock Run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+AWA.ND1,ND1,Nicodemus Dam 1,39.786453,-77.602325,,West Branch Antietam Creek,Nicodemus Dam 1,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+AWA.ND1d,ND1d,Nicodemus Dam 1 downstream,39.786453,-77.602325,,West Branch Antietam Creek,Nicodemus Dam 1 downstream,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+AWA.ND2,ND2,Nicodemus Dam 2,39.787736,-77.603375,,West Branch Antietam Creek,Nicodemus Dam 2,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+AWA.ND2u,ND2u,Nicodemus Dam 2 upstream,39.787736,-77.603375,,West Branch Antietam Creek,Nicodemus Dam 2 upstream,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+LCCD.NickelMinesRun,Nickel Mines Run,Nickel Mines Run,39.9127,-76.06865,,West Branch Octoraro Creek,Between Heyberger Road & Lamparter Road - in pasture,NAD83,Lancaster County,FALSE,,42071,020503061501,Pennsylvania,
+TUCCC.NICKRU001,NICKRU001,Nickel Run,41.63326,-77.04382,,Upper Tioga River,Nickel Run,NAD83,Tioga County,FALSE,,42117,020501040904,Pennsylvania,
+TUCCC.NIMIRU001,NIMIRU001,Ninemile Run,41.791875,-77.762769,,Ninemile Run,Ninemile Run,NAD83,Potter County,FALSE,,42105,020502050201,Pennsylvania,
+GCWD.NINRUN5.08,NINRUN5.08,Nine Run 5.08,41.78516667,-77.79863889,,Ninemile Run,Nine Run 5.08,NAD83,Potter County,FALSE,,42105,020502050201,Pennsylvania,West Branch Susquehanna
+TUCCC.NOCARU001,NOCARU001,North Camp Run,40.78875,-78.66919,,Lower Chest Creek,North Camp Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+GCWD.NORBRACOWRIV0.04,NORBRACOWRIV0.04,North Branch Cowanesque River 0.94,41.94142,-77.64935,,Headwaters Cowanesque River,North Branch Cowanesque River 0.94,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+NRPA.NR-7,NR-7,,36.740257,-76.579794,,,Rt. 460 Constants Wharf,NAD83,,FALSE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",,,,
+AWA.OCP,OCP,Owls Club Picnic,39.751283,-77.601036,,West Branch Antietam Creek,Owls Club Picnic,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+TUCCC.OLFARU001,OLFARU001,Old Farm Run,40.8901,-78.5551,,Little Clearfield Creek,Old Farm Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+CCSTA.OPOCRE0.19,OPOCRE0.19,Opossum Creek,40.22288,-77.272095,,Wertz Run-Conodoguinet Creek,,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,
+TUCCC.OTTERU001,OTTERU001,Otter Run,41.40702,-77.33465,,Otter Run,Otter Run,NAD83,Lycoming County,FALSE,,42081,020502050505,Pennsylvania,
+TUCCC.OTTFOR001,OTTFOR001,Ott Fork,41.31795,-77.41553,,Upper Pine Bottom Run-Pine Creek,Ott Fork,NAD83,Lycoming County,FALSE,,42081,020502050606,Pennsylvania,
+TUCCC.PACKRU001,PACKRU001,Packhorse Run,41.49417,-77.15048,,Blockhouse Creek,Packhorse Run,NAD83,Lycoming County,FALSE,,42081,020502050504,Pennsylvania,
+TUCCC.PAINRU001,PAINRU001,Painter Run,41.86603,-77.053516,,Painter Run-Mill Creek,Painter Run,NAD83,Tioga County,FALSE,,42117,020501040703,Pennsylvania,
+TUCCC.PAINRU002,PAINRU002,Painter Run,41.87906,-77.04381,,Painter Run-Mill Creek,Painter Run,NAD83,Tioga County,FALSE,,42117,020501040703,Pennsylvania,
+TUCCC.PAINRU003,PAINRU003,Painter Run,41.74574,-77.49271,,Lick Run-Pine Creek,Painter Run,NAD83,Tioga County,FALSE,,42117,020502050208,Pennsylvania,
+GCWD.PAIRUN0.53,PAIRUN0.53,Painter Run 0.53,41.74135,-77.49783,,Lick Run-Pine Creek,Painter Run 0.53,NAD83,Tioga County,FALSE,n/a,42117,020502050208,Pennsylvania,West Branch Susquehanna
+CCWA.PEN3,PEN3,Penterra 3,40.2597,-77.1025,,Simmons Creek-Conodoguinet Creek,Penterra 3,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+LCCD.PEQ1,PEQ1,Pequea Cr. - PEQ1,39.895188,-76.35781,,Climbers Run-Pequea Creek,PPL Campground,NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061204,Pennsylvania,
+LCCD.PEQ2,PEQ2,Pequea Cr. - PEQ2,40.011944,-76.108333,,Headwaters Pequea Creek,Paradise Memorial Park off of London Vale Rd.,NAD83,Lancaster County,FALSE,below confluence of Eshelman Run,42071,020503061201,Pennsylvania,
+LCCD.PEQ3,PEQ3,Pequea Cr. - PEQ3,39.934767,-76.323032,,Climbers Run-Pequea Creek,Sickman's Mill,NAD83,Lancaster County,FALSE,Recreational Site,42071,020503061204,Pennsylvania,
+TUCCC.PHOERU001,PHOERU001,Phoenix Run,41.77158,-77.6116,,Phoenix Run,Phoenix Run,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,
+GCWD.PHORUN4.36,PHORUN4.36,Phoenix Run 4.36,41.79868333,-77.61605,,Phoenix Run,Phoenix Run 4.36,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+GCWD.PHORUN7.54,PHORUN7.54,Phoenix Run 7.54,41.8358,-77.63815,,Phoenix Run,Phoenix Run 7.54,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+GCWD.PHORUN7.69,PHORUN7.69,Phoenix Run 7.69,41.83788,-77.6392,,Phoenix Run,Phoenix Run 7.69,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+TUCCC.PINCECR006,PINCECR006,Pine Creek,41.55621,-77.38228,,Trout Run-Pine Creek,Pine Creek,NAD83,Tioga County,FALSE,,42117,020502050601,Pennsylvania,
+GCWD.PINCRE64.20,PINCRE64.20,Pine Creek 64.20,41.75203333,-77.5038,,Lick Run-Pine Creek,Pine Creek 64.20,NAD83,Tioga County,FALSE,n/a,42117,020502050208,Pennsylvania,West Branch Susquehanna
+GCWD.PINCRE64.21,PINCRE64.21,Pine Creek 64.21,41.75211667,-77.50397,,Lick Run-Pine Creek,Pine Creek 64.21,NAD83,Tioga County,FALSE,n/a,42117,020502050208,Pennsylvania,West Branch Susquehanna
+TUCCC.PINECR004,PINECR004,Pine Creek,41.8141,-77.7809,,Headwaters Pine Creek,Pine Creek,NAD83,Potter County,FALSE,,42105,020502050202,Pennsylvania,
+TUCCC.PINECR005,PINECR005,Pine Creek,41.18027,-77.27837,,Pine Creek-West Branch Susquehanna River,Pine Creek,NAD83,Clinton County,FALSE,,42035,020502050607,Pennsylvania,
+TUCCC.PINECR007,PINECR007,Pine Creek,41.790247,-77.761226,,Headwaters Pine Creek,Pine Creek,NAD83,Potter County,FALSE,,42105,020502050202,Pennsylvania,
+TUCCC.PINECR008,PINECR008,Pine Creek,41.471362,-77.502809,,Mill Run-Pine Creek,Pine Creek,NAD83,Lycoming County,FALSE,,42081,020502050604,Pennsylvania,
+TUCCC.PINERU001,PINERU001,Pine Run,40.7633,-78.650473,,Lower Chest Creek,Pine Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+YCST.PLUCRE4.26,PLUCRE 4.26,,39.789385,-76.998294,,Plum Creek-South Branch Conewago Creek,Plum Creek 4.26,NAD83,York County,FALSE,,42133,020503060102,Pennsylvania,
+GCWD.PRORUN2.55,PRORUN2.55,Prouty Run 2.55,41.65761333,-77.91459,,Upper First Fork Sinnemahoning Creek,Prouty Run 2.55,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,West Branch Susquehanna
+TUCCC.PROURU002,PROURU002,Prouty Run,41.65275,-77.93745,,Upper First Fork Sinnemahoning Creek,Prouty Run,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,
+LCCD.PSA2,PSA2,Eshelman Run - PSA2,39.993611,-76.107778,,Eshleman Run-Pequea Creek,at Quarry Rd. above confluence with Londonland Run,NAD83,Lancaster County,FALSE,effects from headwaters and restoration,42071,020503061202,Pennsylvania,
+LCCD.PSA3,PSA3,Eshelman Run - PSA3,40.005556,-76.110556,,Eshleman Run-Pequea Creek,at Route 30,NAD83,Lancaster County,FALSE,"below restoration, 0.4 miles from Pequea Cr.",42071,020503061202,Pennsylvania,
+TUCCC.RAMSRU001,RAMSRU001,Ramsey Run,41.28467,-77.32413,,Pine Creek-West Branch Susquehanna River,Ramsey Run,NAD83,Lycoming County,FALSE,,42081,020502050607,Pennsylvania,
+LCCD.RattlesnakeRun,Rattlesnake Run,Rattlesnake Run @ Glenville Road,39.86197,-75.97205,,Muddy Run-East Branch Octoraro Creek,Glenville Road - in woodland,NAD83,Chester County,FALSE,,42029,020503061403,Pennsylvania,
+TUCCC.RBFMRU001,RBFMRU001,Right Branch Fourmile Run,41.70512,-77.48491,,Trout Run-Pine Creek,Right Branch Fourmile Run,NAD83,Tioga County,FALSE,,42117,020502050601,Pennsylvania,
+AWA.R,Re,Renfrew,39.745025,-77.559425,,East Branch Antietam Creek,Renfrew,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+NYWS.REDRUN1.13,REDRUN 1.13,,41.541332,-77.502759,,Slate Run,Genesee River Trib at Gazdag Rd.,NAD83,Lycoming County,FALSE,,42081,020502050603,Pennsylvania,
+TUCCC.ROARRU001,ROARRU001,Roaring Creek,41.289817,-76.708483,,Gregs Run-Muncy Creek,Roaring Creek,NAD83,Lycoming County,FALSE,,42081,020502060803,Pennsylvania,
+AWA.RR1,RR1,,39.739406,-77.481092,,Red Run,Red Run #1,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+AWA.RR2,RR2,,39.741603,-77.491469,,Red Run,Red Run #2,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+AWA.RRP,RRP,,39.740386,-77.519908,,Red Run,Red Run Park,NAD83,Franklin County,FALSE,,42055,020700041001,Pennsylvania,Potomac
+MSWA.S1,S1,RR Fayette St,40.04716,-77.52071,,Middle Spring Creek,RR Fayette St,NAD83,Cumberland County,FALSE,,42041,020503050302,Pennsylvania,Lower Susquehanna
+MSWA.S4,S4,Bard Road/Old Mill Road Bridge,40.06169,-77.53258,,Middle Spring Creek,Bard Road/Old Mill Road Bridge,NAD83,Franklin County,FALSE,,42055,020503050302,Pennsylvania,Lower Susquehanna
+TUCCC.SALTRU001,SALTRU001,Salt Run,41.533977,-78.195171,,Sinnemahoning Portage Creek-Driftwood Branch Sinnemahoning Creek,Salt Run,NAD83,Cameron County,FALSE,,42023,020502020102,Pennsylvania,
+TUCCC.SALTRU002,SALTRU002,Salt Run,41.5236,-78.21419,,Sinnemahoning Portage Creek-Driftwood Branch Sinnemahoning Creek,Salt Run,NAD83,Cameron County,FALSE,,42023,020502020102,Pennsylvania,
+TUCCC.SANDRU002,SANDRU002,Sand Run,41.68398,-77.15475,,Headwaters Babb Creek,Sand Run,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+TUCCC.SANDRU003,SANDRU003,Sand Run,41.661359,-77.194348,,Headwaters Babb Creek,Sand Run,NAD83,Tioga County,FALSE,,42117,020502050401,Pennsylvania,
+BCVM.SATCRE3.02,SATCRE3.02,Satterlee Creek 3.02,41.9518,-76.46995,,Satterlee Creek-Susquehanna River,Satterlee Creek 3.02,NAD83,Bradford County,FALSE,,42015,020501030707,Pennsylvania,Upper Susquehanna
+TUCCC.SBLARU001,SBLARU001,South Branch Laurel Run,40.26185,-77.489133,,Laurel Run,South Branch Laurel Run,NAD83,Perry County,FALSE,,42099,020503050105,Pennsylvania,
+TUCCC.SBRORU001,SBRORU001,South Branch Rock Run,41.54502,-76.81256,,Rock Run,South Branch Rock Run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+TUCCC.SBRORU003,SBRORU003,South Branch Rock Run,41.54653,-76.8281,,Rock Run,South Branch Rock Run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+TUCCC.SCHOHO001,SCHOHO001,Schoolhouse Hollow,41.39542,-77.34731,,Little Pine Creek-Pine Creek,Schoolhouse Hollow,NAD83,Lycoming County,FALSE,,42081,020502050506,Pennsylvania,
+TUCCC.SEBIFO001,SEBIFO001,Second Big Fork,41.40119,-77.50041,,Trout Run,Second Big Fork,NAD83,Lycoming County,FALSE,,42081,020502050605,Pennsylvania,
+TUCCC.SHAERU001,SHAERU001,Shaeffer Run,40.27395,-77.543033,,Bull Run,Shaeffer Run,NAD83,Perry County,FALSE,,42099,020503050102,Pennsylvania,
+TUCCC.SHAMRU001,SHAMRU001,Shamps Run,40.9009,-78.5717,,Little Clearfield Creek,Shamps Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+LCCD.Silv1,Silv1,Silvermine Run - Silv1,39.9447,-76.313433,,Climbers Run-Pequea Creek,Downstream,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+LCCD.Silv2,Silv2,Silvermine Run - Silv2,39.94755,-76.314952,,Climbers Run-Pequea Creek,Upstream,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+TUCCC.SIMERU001,SIMERU001,Simeline Run,40.929005,-78.281017,,Laurel Run,Simeline Run,NAD83,Clearfield County,FALSE,,42033,020502010503,Pennsylvania,
+TUCCC.SIMIRU001,SIMIRU001,six mile run,40.94253,-78.12451,,Sixmile Run,six mile run,NAD83,Centre County,FALSE,,42027,020502010505,Pennsylvania,
+TUCCC.SIPOCR001,SIPOCR001,Sinnemahoning Portage Creek (Emporium),41.513077,-78.21967,,Sinnemahoning Portage Creek-Driftwood Branch Sinnemahoning Creek,Sinnemahoning Portage Creek (Emporium),NAD83,Cameron County,FALSE,,42023,020502020102,Pennsylvania,
+TUCCC.SLATRU001,SLATRU001,Slate Run,41.525047,-77.531073,,Slate Run,Slate Run,NAD83,Lycoming County,FALSE,,42081,020502050603,Pennsylvania,
+TUCCC.SLATRU002,SLATRU002,Slate Run,41.471524,-77.505574,,Slate Run,Slate Run,NAD83,Lycoming County,FALSE,,42081,020502050603,Pennsylvania,
+TUCCC.SNYDRU001,SNYDRU001,Snyder Run,40.86374,-78.71089,,Lower Chest Creek,Snyder Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+TUCCC.SNYDRU002,SNYDRU002,Snyder Run,40.79468,-78.680517,,Lower Chest Creek,Snyder Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+GCWD.SOUBRAPINCRE0.17,SOUBRAPINCRE0.17,South Branch Pine Creek 0.17,41.732133,-77.64145,,West Branch Pine Creek-Pine Creek,South Branch Pine Creek 0.17,NAD83,Potter County,FALSE,,42105,020502050204,Pennsylvania,West Branch Susquehanna
+TUCCC.SOWOBR001,SOWOBR001,Southwoods Branch,41.637767,-78.053217,,South Woods Branch,Southwoods Branch,NAD83,Potter County,FALSE,,42105,020502020402,Pennsylvania,
+TUCCC.SPRIRU001,SPRIRU001,Spring Run,40.78597,-78.68095,,Lower Chest Creek,Spring Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+LCCD.SR1,SR1,Swarr Run - SR1,40.083056,-76.381389,,Millers Run-Little Conestoga Creek,"SR1 is west side of bridge over Rt. 722, just off Harrisburg Pk., SR1 is also just west of Mann Farm, located on Harrisburg Pk.",NAD83,Lancaster County,FALSE,site is just before the Swarr Run stream restoration project,42071,020503061001,Pennsylvania,
+LCCD.SR2,SR2,Swarr Run - SR2,40.075278,-76.37,,Millers Run-Little Conestoga Creek,"SR2 location is east side of bridge over Colebrook R., just off Harrisburg Pk., site is just below the future Mann Farm restoration project",NAD83,Lancaster County,FALSE,this site is below Swarr Run stream restoration project,42071,020503061001,Pennsylvania,
+TUCCC.STAFFRU001,STAFFRU001,Staffords Run������������������������,40.9474,-78.4386,,Little Clearfield Creek,Staffords Run������������������������,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+LCCD.Stein1,Stein1,Steinman Run - Stein1,39.905046,-76.286754,,Climbers Run-Pequea Creek,"Stump R., LCC Nature Preserve",NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061204,Pennsylvania,
+LCCD.Stein2,Stein2,Steinman Run - Stein2,39.896465,-76.284922,,Climbers Run-Pequea Creek,North of Culvert on Clearview Rd.,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+LCCD.Stein3,Stein3,UNT Steinman Run - Stein3,39.893916,-76.286239,,Climbers Run-Pequea Creek,South of Clearview Rd.,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+TUCCC.STERRU001,STERRU001,Sterling Run,41.41382,-78.19929,,Sterling Run,Sterling Run,NAD83,Cameron County,FALSE,,42023,020502020206,Pennsylvania,
+TUCCC.STMIBR001,STMIBR001,Steam Mill Branch,41.481817,-78.175283,,Hunts Run,Steam Mill Branch,NAD83,Cameron County,FALSE,,42023,020502020205,Pennsylvania,
+TUCCC.STONFO001,STONFO001,Stony Fork Trib,41.70917,-77.30778,,Wilson Creek,Stony Fork Trib,NAD83,Tioga County,FALSE,,42117,020502050402,Pennsylvania,
+TUCCC.STONRU003,STONRU003,Stony Run,41.595067,-77.899812,,East Fork Sinnemahoning Creek,Stony Run,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.STRARU001,STRARU001,Straight Run,41.77722,-77.39611,,Marsh Creek-Pine Creek,Straight Run,NAD83,Tioga County,FALSE,,42117,020502050303,Pennsylvania,
+TUCCC.SUGARU002,SUGARU002,Sugar Run,41.62758,-76.624959,,Millstone Creek-Schrader Creek,Sugar Run,NAD83,Bradford County,FALSE,,42015,020501060202,Pennsylvania,
+TUCCC.SUGARU003,SUGARU003,Sugar Run,41.34657,-76.970598,,Mill Creek-West Side of Loyalsock Creek,Sugar Run,NAD83,Lycoming County,FALSE,,42081,020502060508,Pennsylvania,
+GCWD.SUNBRA0.76,SUNBRA0.76,Sunken Branch 0.76,41.68773333,-77.801,,Wetmore Run-West Branch Pine Creek,Sunken Branch 0.76,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,West Branch Susquehanna
+TUCCC.SUNKBR001,SUNKBR001,Sunken Branch,41.682252,-77.794633,,Wetmore Run-West Branch Pine Creek,Sunken Branch,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,
+BCWA.T1,T1,,40.934056,-77.047083,,North Branch Buffalo Creek,Coal Run,NAD83,Union County,FALSE,,42119,020502061001,Pennsylvania,
+BCWA.T2A1,T2A1,,40.921917,-77.002556,,Buffalo Creek-West Branch Susquehanna River,Up of Grove Rd Trib (Furnace Rd),NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.T2A2,T2A2,,40.925833,-77.017556,,Buffalo Creek-West Branch Susquehanna River,Grove Rd,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.T2B,T2B,,40.93275,-77.033389,,Buffalo Creek-West Branch Susquehanna River,Down of Grove Rd trib,NAD83,Union County,FALSE,,42119,020502061005,Pennsylvania,
+BCWA.T3A,T3A,,40.9665,-77.048306,,Rapid Run,Up of Conley Run (Forest Hill Rd),NAD83,Union County,FALSE,,42119,020502061002,Pennsylvania,
+BCWA.T3B,T3B,,40.962944,-77.022417,,Rapid Run,Down of Conley Run (Buffalo Rd),NAD83,Union County,FALSE,,42119,020502061002,Pennsylvania,
+TUCCC.TANNHO001,TANNHO001,Tannery Hollow,41.4194,-78.2264,,Sterling Run,Tannery Hollow,NAD83,Cameron County,FALSE,,42023,020502020206,Pennsylvania,
+TUCCC.TAYLRU001,TAYLRU001,Taylor Run,41.64097,-77.04497,,Upper Tioga River,Taylor Run,NAD83,Tioga County,FALSE,,42117,020501040904,Pennsylvania,
+NYWS.TIORIV13.81,TIORIV 13.81,,41.999517,-77.114683,,Mutton Lane Creek-Tioga River,Tioga River at Mechanic St.,NAD83,Tioga County,FALSE,,42117,020501040908,Pennsylvania,
+NYWS.TIORIV17.23,TIORIV 17.23,,41.957467,-77.115283,,Mutton Lane Creek-Tioga River,Tioga River at Jct Cross Rd.,NAD83,Tioga County,FALSE,,42117,020501040908,Pennsylvania,
+CCCD.TRISPRRUN0.16,TRISPRRUN0.16,Trindle Spring Run 0.16,40.251672,-77.00744,,Trindle Spring Run,Trindle Spring Run behind Wegmans,NAD83,Cumberland County,FALSE,,42041,020503050407,Pennsylvania,Lower Susquehanna
+CCWA.TRND01.0,TRND01.0,Trindle Spring 01.0,40.209576,-77.027172,,Trindle Spring Run,Trindle Spring 01.0,NAD83,Cumberland County,FALSE,,42041,020503050407,Pennsylvania,Lower Susquehanna
+TUCCC.TROURU003,TROURU003,Trout Run,41.39996,-77.46183,,Upper Pine Bottom Run-Pine Creek,Trout Run,NAD83,Lycoming County,FALSE,,42081,020502050606,Pennsylvania,
+LCCD.Trout1,Trout1,Trout Run - Trout1,39.91528,-76.286944,,Climbers Run-Pequea Creek,,NAD83,Lancaster County,FALSE,,42071,020503061204,Pennsylvania,
+AWA.TRS,TRS,,39.764094,-77.607036,,West Branch Antietam Creek,Tick Ridge Springs,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+LCCD.Tuc1,Tuc1,Tucquan Cr. - Tuc1,39.86339,-76.341193,,Muddy Run-Susquehanna River,LCC Nature Preserve,NAD83,Lancaster County,FALSE,Master Naturalist site,42071,020503061708,Pennsylvania,
+TUCCC.TUCKRU001,TUCKRU001,Tucker Run,40.83895,-78.679499,,Lower Chest Creek,Tucker Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+LCCD.TucTrib1,TucTrib1,Tucquan Cr. - TucTrib1,39.864814,-76.340042,,Muddy Run-Susquehanna River,Clark Run - Small tributary upstream of Tucquan Cr.,NAD83,Lancaster County,FALSE,,42071,020503061708,Pennsylvania,
+BCVM.TUTCRE2.03,TUTCRE2.03,Tutelow Creek 2.03,41.980927,-76.57009,,Dry Brook-Chemung River,Tutelow Creek 2.03,NAD83,Bradford County,FALSE,,42015,020501050607,Pennsylvania,Upper Susquehanna
+YCST.TYLRUN0.50,TYLRUN 0.50,,39.948313,-76.729919,,Willis Run-Codorus Creek,Tyler Run 0.50,NAD83,York County,FALSE,,42133,020503060705,Pennsylvania,
+YCST.TYLRUN1.01,TYLRUN 1.01,,39.946511,-76.721144,,Willis Run-Codorus Creek,Tyler Run 1.01,NAD83,York County,FALSE,,42133,020503060705,Pennsylvania,
+GCWD.UKW006,UKW006,Unknown Water 006,41.70792,-77.693633,,Wetmore Run-West Branch Pine Creek,Unknown Water 006,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,West Branch Susquehanna
+GCWD.UKW029,UKW029,Unknown Water 029,41.80456667,-77.29553,,Marsh Creek-Pine Creek,Unknown Water 029,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.UKW030,UKW030,Unknown Water 030,41.81018333,-77.28352,,Marsh Creek-Pine Creek,Unknown Water 030,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+CCWA.UN01.1,UN01.1,Unnamed 01.1,40.284529,-77.101384,,Simmons Creek-Conodoguinet Creek,Unnamed 01.1,NAD83,Cumberland County,FALSE,,42041,020503050406,Pennsylvania,Lower Susquehanna
+TUCCC.UNSTFO001,UNSTFO001,Unnamed Trib to Stony Fork Creek,41.6556,-77.3693,,East Branch Stony Fork,Unnamed Trib to Stony Fork Creek,NAD83,Tioga County,FALSE,,42117,020502050403,Pennsylvania,
+GCWD.UNTBALRUN0.23,UNTBALRUN0.23,UNT Baldwin Run 0.23,41.79036667,-77.30237,,Marsh Creek-Pine Creek,UNT Baldwin Run 0.23,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.UNTBALRUN0.95,UNTBALRUN0.95,UNT Baldwin Run 0.95,41.797433,-77.29553,,Marsh Creek-Pine Creek,UNT Baldwin Run 0.95,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.UNTBALRUN2.17,UNTBALRUN2.17,UNT Baldwin Run 2.17,41.8107,-77.28607,,Marsh Creek-Pine Creek,UNT Baldwin Run 2.17,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+GCWD.UNTBALRUN2.18,UNTBALRUN2.18,UNT Baldwin Run 2.18,41.80983333,-77.28518,,Marsh Creek-Pine Creek,UNT Baldwin Run 2.17,NAD83,Tioga County,FALSE,n/a,42117,020502050303,Pennsylvania,West Branch Susquehanna
+CCCD.UNTCONCRE0.06,UNTCONCRE0.06,UNT to Conodoguinet Creek 0.06,40.231014,-77.218649,,Wertz Run-Conodoguinet Creek,UNT at North Middleton Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+CCCD.UNTCONCRE2.68,UNTCONCRE2.68,UNT to Conodoguinet Creek,40.265907,-77.223096,,Wertz Run-Conodoguinet Creek,UNT to Conodoguinet northern tributary,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+GCWD.UNTCOWRIV0.33,UNTCOWRIV0.33,UNT Cowanesque River 0.33,41.90963,-77.612,,Headwaters Cowanesque River,UNT Cowanesque River (Teed Hollow) 0.33,NAD83,Potter County,FALSE,,42105,020501040801,Pennsylvania,Upper Susquehanna
+GCWD.UNTFIRFORSINCRE0.24,UNTFIRFORSINCRE0.24,UNT First Fork Sinnemahong Creek 0.24,41.63119833,-78.0052,,Upper First Fork Sinnemahoning Creek,UNT First Fork Sinnemahong Creek 0.24,NAD83,Potter County,FALSE,,42105,020502020403,Pennsylvania,West Branch Susquehanna
+GCWD.UNTGENFOR1.05,UNTGENFOR1.05,UNT Genesee Forks 1.05,41.88315,-77.67865,,Genesee Forks,UNT Genesee Forks 1.05,NAD83,Potter County,FALSE,,42105,020502050203,Pennsylvania,West Branch Susquehanna
+CVTU.UNTLETSPRRUN0.71,UNTLETSPRRUN 0.71,UNT LeTort Spring Run 0.71,40.173767,-77.177667,,Tributary to Letort Spring Run,UNT LeTort Spring Run 0.71,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+GCWD.UNTNORBRO0.71,UNTNORBRO0.71,UNT Norris Brook 0.71,41.82465,-77.2801,,Catlin Hollow,UNT Norris Brook 0.71,NAD83,Tioga County,FALSE,n/a,42117,020501040601,Pennsylvania,Upper Susquehanna
+GCWD.UNTPHORUN0.05TEMP,UNTPHORUN0.05TEMP,UNT Phoenix Run 0.05,41.82511667,-77.63861667,,Phoenix Run,UNT Phoenix Run (Temporary ID) 0.05,NAD83,Potter County,FALSE,,42105,020502050205,Pennsylvania,West Branch Susquehanna
+TUCCC.UPBORU001,UPBORU001,Upper Pine Bottom Run,41.318501,-77.414284,,Upper Pine Bottom Run-Pine Creek,Upper Pine Bottom Run,NAD83,Lycoming County,FALSE,,42081,020502050606,Pennsylvania,
+TUCCC.UPKECR001,UPKECR001,Upper Kettle Creek,41.558944,-77.681556,,Upper Kettle Creek,Upper Kettle Creek,NAD83,Potter County,FALSE,,42105,020502030102,Pennsylvania,
+TUCCC.UTCHCR001,UTCHCR001,Unnamed Trib to Catlin Hollow Creek,41.802128,-77.265121,,Catlin Hollow,Unnamed Trib to Catlin Hollow Creek,NAD83,Tioga County,FALSE,,42117,020501040601,Pennsylvania,
+TUCCC.UTCHCR002,UTCHCR002,Unnamed Trib to Catlin Hollow Creek,41.79674,-77.263427,,Catlin Hollow,Unnamed Trib to Catlin Hollow Creek,NAD83,Tioga County,FALSE,,42117,020501040601,Pennsylvania,
+TUCCC.UTLACR001,UTLACR001,Unnamed Trib to Lambs Creek,41.821368,-77.136349,,Middle Tioga River,Unnamed Trib to Lambs Creek,NAD83,Tioga County,FALSE,,42117,020501040907,Pennsylvania,
+TUCCC.UTLACR002,UTLACR002,Unnamed Trib to Lambs Creek,41.82129,-77.13666,,Middle Tioga River,Unnamed Trib to Lambs Creek,NAD83,Tioga County,FALSE,,42117,020501040907,Pennsylvania,
+TUCCC.UTRORU001,UTRORU001,Unnamed Trib to South Branch of Rock run,41.548428,-76.832964,,Rock Run,Unnamed Trib to South Branch of Rock run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+TUCCC.UTRORU002,UTRORU002,Unnamed Trib to South Branch of Rock run,41.548422,-76.834036,,Rock Run,Unnamed Trib to South Branch of Rock run,NAD83,Lycoming County,FALSE,,42081,020502060203,Pennsylvania,
+TUCCC.UTTRRU001,UTTRRU001,Unnamed Trib to Trout Run,41.39933,-77.47693,,Trout Run,Unnamed Trib to Trout Run,NAD83,Lycoming County,FALSE,,42081,020502050605,Pennsylvania,
+TUCCC.WALLRU001,WALLRU001,Wallace Run,40.9587,-78.4297,,Little Clearfield Creek,Wallace Run,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.WALLRU002,WALLRU002,Wallace Run,40.94715,-77.82855,,Wallace Run,Wallace Run,NAD83,Centre County,FALSE,,42027,020502040403,Pennsylvania,
+AWA.WASD,WASD,Unnamed Tributary,39.737858,-77.569172,,East Branch Antietam Creek,WASD Unnamed trib,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+TUCCC.WATTCR001,WATTCR001,Watts Creek,40.8947,-78.5817,,Little Clearfield Creek,Watts Creek,NAD83,Clearfield County,FALSE,,42033,020502010309,Pennsylvania,
+TUCCC.WBCORU001,WBCORU001,West Branch of Cowley Run,41.598638,-78.18568,,Cowley Run,West Branch of Cowley Run,NAD83,Cameron County,FALSE,,42023,020502020101,Pennsylvania,
+TUCCC.WBFRRU001,WBFRRU001,West Branch Freeman Run,41.634237,-78.10305,,Freeman Run,West Branch Freeman Run,NAD83,Potter County,FALSE,,42105,020502020404,Pennsylvania,
+TUCCC.WBLARI002,WBLARI002,West Branch of the Lackawanna River,41.787251,-75.49991,,West Branch Lackawanna River,West Branch of the Lackawanna River,NAD83,Susquehanna County,FALSE,,42115,020501070101,Pennsylvania,
+TUCCC.WBLARI02,WBLARI02,West Branch of the Lackawanna River,41.787251,-75.49991,,West Branch Lackawanna River,West Branch of the Lackawanna River,NAD83,Susquehanna County,FALSE,,42115,020501070101,Pennsylvania,
+TUCCC.WBPICR001,WBPICR001,West Branch Pine Creek,41.73277,-77.65026,,Wetmore Run-West Branch Pine Creek,West Branch Pine Creek,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,
+TUCCC.WBPICR002,WBPICR002,West Branch Pine Creek,41.682143,-77.774465,,Wetmore Run-West Branch Pine Creek,West Branch Pine Creek,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,
+AWA.WBS,WBS,W Branch Source,39.853353,-77.517319,,West Branch Antietam Creek,W Branch Source,NAD83,Franklin County,FALSE,,42055,020700041003,Pennsylvania,Potomac
+CCCD.WERRUN0.34,WERRUN0.34,Wertz Run 0.34,40.244658,-77.17598,,Wertz Run-Conodoguinet Creek,Wertz Run at Partridge Circle Neighborhood Park,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+GCWD.WESBRAPINCRE14.64,WESBRAPINCRE14.64,West Branch Pine Creek 14.64,41.72995,-77.6534,,Wetmore Run-West Branch Pine Creek,West Branch Pine Creek 14.64,NAD83,Potter County,FALSE,,42105,020502050102,Pennsylvania,West Branch Susquehanna
+GCWD.WILBOYRUN0.49,WILBOYRUN0.49,Wild Boy Run 0.49,41.61465,-77.8958,,East Fork Sinnemahoning Creek,Wild Boy Run 0.49,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,West Branch Susquehanna
+TUCCC.WILDRU002,WILDRU002,Wildboy Run,41.610128,-77.890917,,East Fork Sinnemahoning Creek,Wildboy Run,NAD83,Potter County,FALSE,,42105,020502020405,Pennsylvania,
+TUCCC.WILSCR001,WILSCR001,Wilson Creek,41.61417,-77.28833,,Wilson Creek,Wilson Creek,NAD83,Tioga County,FALSE,,42117,020502050402,Pennsylvania,
+TUCCC.WILSONRU001,WILSONRU001,Wilson Run,41.35955,-78.43584,,Trout Run,Wilson Run,NAD83,Elk County,FALSE,,42047,020502020307,Pennsylvania,
+TUCCC.WILSRU002,WILSRU002,Wilson Run,40.82066,-78.636709,,Lower Chest Creek,Wilson Run,NAD83,Clearfield County,FALSE,,42033,020502010103,Pennsylvania,
+LRA.WL,WL,Mully Grub Wetland 0.15,40.19588,-77.18745,,Letort Spring Run,Wetland,NAD83,Cumberland County,FALSE,,42041,020503050404,Pennsylvania,Lower Susquehanna
+BCVM.WOLCRE1.92,WOLCRE1.92,Wolcott Creek,41.920029,-76.55004,,Wolcott Creek-Chemung River,Wolcott Creek,NAD83,Bradford County,FALSE,,42015,020501050608,Pennsylvania,Upper Susquehanna
+CCWA.WRTZ00.1,WRTZ00.1,Wertz Run 00.1,40.241721,-77.175346,,Wertz Run-Conodoguinet Creek,Wertz Run 00.1,NAD83,Cumberland County,FALSE,,42041,020503050403,Pennsylvania,Lower Susquehanna
+AWA.WTMA,WTMA,WTMA Sewer Plant Trib,39.727578,-77.590798,,East Branch Antietam Creek,WTMA Sewer Plant Trib,NAD83,Franklin County,FALSE,,42055,020700041002,Pennsylvania,Potomac
+CCSTA.YELBRECRE0.85,YELBRECRE0.85,Yellow Breeches Creek,40.218817,-76.862862,,Lower Yellow Breeches Creek,New Cumberland Borough Park,NAD83,Cumberland County,FALSE,,42041,020503050505,Pennsylvania,
+CCSTA.YELBRECRE13.63,YELBRECRE13.63,Yellow Breeches Creek,40.172452,-76.913721,,Lower Yellow Breeches Creek,Lower Allen Community Park,NAD83,Cumberland County,FALSE,,42041,020503050505,Pennsylvania,
+CCSTA.YELBRECRE17.65,YELBRECRE17.65,Yellow Breeches Creek,40.16418,-76.976213,,Lower Yellow Breeches Creek,Simpson Park,NAD83,Cumberland County,FALSE,,42041,020503050505,Pennsylvania,
+CCSTA.YELBRECRE32.32,YELBRECRE32.32,Yellow Breeches Creek,40.1474003,-77.12339399,,Middle Yellow Breeches Creek,Behind Children's Lake,NAD83,Cumberland County,FALSE,,42041,020503050504,Pennsylvania,
+CCSTA.YELBRECRE34.93,YELBRECRE34.93,Yellow Breeches Creek,40.1365,-77.14583,,Middle Yellow Breeches Creek,South Middleton Township Park,NAD83,Cumberland County,FALSE,,42041,020503050504,Pennsylvania,
+CCSTA.YELBRECRE36.90,YELBRECRE36.90,Yellow Breeches Creek,40.12347,-77.221977,,Upper Yellow Breeches Creek,Barnitz Mill,NAD83,Cumberland County,FALSE,,42041,020503050502,Pennsylvania,
+TUCCC.ZIMMRU001,ZIMMRU001,Zimmerman Run,41.57988,-77.17777,,Zimmerman Creek,Zimmerman Run,NAD83,Tioga County,FALSE,,42117,020502050501,Pennsylvania,
+TUCCC.ZIMMRU002,ZIMMRU002,Zimmerman Run,41.57997,-77.17781,,Zimmerman Creek,Zimmerman Run,NAD83,Tioga County,FALSE,,42117,020502050501,Pennsylvania,

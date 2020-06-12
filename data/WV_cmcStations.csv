@@ -1,0 +1,12 @@
+Code,Name,NameLong,Lat,Long,Cbseg,WaterBody,Description,Datum,CityCounty,Tidal,Comments,Fips,Huc12,State,Huc6Name
+TUPMP.BRUSRU001,BRUSRU001,Brushy Run,38.84138,-79.41505,,Outlet Seneca Creek,Brushy Run,NAD83,Pendleton County,FALSE,,54071,020700010105,West Virginia,
+TUPMP.HORSRU001,HORSRU001,Horsecamp Run of Seneca Creek,38.86398,-79.45479,,Headwaters Seneca Creek,Horsecamp Run of Seneca Creek,NAD83,Pendleton County,FALSE,,54071,020700010104,West Virginia,
+TUPMP.LOSTRI001,LOSTRI001,Lost River,39.0648,-78.655033,,Three Springs Run-Lost River,Lost River,NAD83,Hardy County,FALSE,,54031,020700030505,West Virginia,
+TUPMP.MOORRU001,MOORRU001,Moores Run,39.0958,-78.5951,,Waites Run-Cacapon River,Moores Run,NAD83,Hardy County,FALSE,,54031,020700030702,West Virginia,
+TUPMP.NFPOCR001,NFPOCR001,North Fork of Potts Creek,37.483283,-80.437078,,South Fork Potts Creek-North Fork Potts Creek,North Fork of Potts Creek,NAD83,Monroe County,FALSE,,54063,020802010401,West Virginia,
+NRPA.NR-7,NR-7,,36.740257,-76.579794,,,Rt. 460 Constants Wharf,NAD83,,FALSE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",,,,
+TUPMP.ROARCR001,ROARCR001,Roaring Creek,38.85047,-79.41937,,Outlet Seneca Creek,Roaring Creek,NAD83,Pendleton County,FALSE,,54071,020700010105,West Virginia,
+TUPMP.SENECR001,SENECR001,Seneca Creek,38.84945,-79.48681,,Headwaters Seneca Creek,Seneca Creek,NAD83,Pendleton County,FALSE,,54071,020700010104,West Virginia,
+TUPMP.SENECR002,SENECR002,Seneca Creek,38.83485,-79.37389,,Outlet Seneca Creek,Seneca Creek,NAD83,Pendleton County,FALSE,,54071,020700010105,West Virginia,
+TUPMP.TROURU001,TROURU001,Trout Run,38.98885,-78.656567,,Trout Run,Trout Run,NAD83,Hardy County,FALSE,,54031,020700030701,West Virginia,
+TUPMP.WHITRU001,WHITRU001,Whites Run,38.85014,-79.4871,,Headwaters Seneca Creek,Whites Run,NAD83,Pendleton County,FALSE,,54071,020700010104,West Virginia,

@@ -1,0 +1,209 @@
+Code,Name,NameLong,Lat,Long,Cbseg,WaterBody,Description,Datum,CityCounty,Tidal,Comments,Fips,Huc12,State,Huc6Name
+MDE.0102003,0102003,,39.303056,-76.323056,,Saltpeter Creek-Gunpowder River,,NAD83,Baltimore County,TRUE,,24005,020600030602,Maryland,Upper Chesapeake
+MDE.0102016,0102016,,39.241667,-76.397778,,Back River-Hawk Cove-Chesapeake Bay,,NAD83,Baltimore County,TRUE,,24005,020600030703,Maryland,Upper Chesapeake
+MDE.0102017,0102017,,39.25861,-76.44333,,Back River-Hawk Cove-Chesapeake Bay,,NAD83,Baltimore County,TRUE,,24005,020600030703,Maryland,Upper Chesapeake
+MDE.0102018,0102018,,39.29,-76.467222,,Back River-Hawk Cove-Chesapeake Bay,,NAD83,Baltimore County,TRUE,,24005,020600030703,Maryland,Upper Chesapeake
+MDE.0103008,0103008,,39.476931,-75.943156,,Lower Elk River,,NAD83,Cecil County,TRUE,,24015,020600020207,Maryland,Upper Chesapeake
+MDE.0103013,0103013,,39.38261,-76.06811,,Upper Chesapeake Bay,,NAD83,Kent County,TRUE,,24029,020600010000,Maryland,Upper Chesapeake
+MDE.0301003,0301003,,39.0692,-76.48061,,Sillery Bay-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040102,Maryland,Upper Chesapeake
+MDE.0301005C,0301005C,,39.0875,-76.460833,,Sillery Bay-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040102,Maryland,Upper Chesapeake
+MDE.0301009,0301009,,39.0568,-76.43667,,Sillery Bay-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040102,Maryland,Upper Chesapeake
+MDE.0303004,0303004,,38.98667,-76.4375,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,Upper Chesapeake
+MDE.0303200,0303200,,38.96833,-76.45389,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,Upper Chesapeake
+MDE.0304008,0304008,,39.029167,-76.526111,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,Upper Chesapeake
+MDE.0306006,0306006,,38.935556,-76.523056,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,Upper Chesapeake
+MDE.0306017,0306017,,38.915,-76.489444,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,Upper Chesapeake
+MDE.0306110,0306110,,38.950833,-76.557778,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,Upper Chesapeake
+MDE.0307108,0307108,,38.860833,-76.511944,,Rhode River-West River,,NAD83,Anne Arundel County,TRUE,,24003,020600040401,Maryland,Upper Chesapeake
+MDE.0307117,0307117,,38.8775,-76.518333,,Rhode River-West River,,NAD83,Anne Arundel County,TRUE,,24003,020600040401,Maryland,Upper Chesapeake
+MDE.0307204,0307204,,38.854681,-76.531378,,Rhode River-West River,,NAD83,Anne Arundel County,TRUE,,24003,020600040401,Maryland,Upper Chesapeake
+MDE.0401002,0401002,,39.15444,-76.06806,,Middle Chester River,,NAD83,Kent County,TRUE,,24029,020600020408,Maryland,Upper Chesapeake
+MDE.0403004A,0403004A,,39.0875,-76.165556,,Lower Chester River,,NAD83,Queen Anne's County,TRUE,,24035,020600020411,Maryland,Upper Chesapeake
+MDE.0404019A,0404019A,,39.023611,-76.265556,,Lower Chester River,,NAD83,Queen Anne's County,TRUE,,24035,020600020411,Maryland,Upper Chesapeake
+MDE.0801028,0801028,,38.76458,-76.17628,,Miles River,,NAD83,Talbot County,TRUE,,24041,020600020605,Maryland,Upper Chesapeake
+MDE.0802010,0802010,,38.888056,-76.180278,,Wye River,,NAD83,Queen Anne's County,TRUE,,24035,020600020604,Maryland,Upper Chesapeake
+MDE.0804014,0804014,,38.842222,-76.303611,,Eastern Bay Deep,,NAD83,Talbot County,TRUE,,24041,020600020609,Maryland,Upper Chesapeake
+MDE.0804019,0804019,,38.898333,-76.313333,,Cox Creek-Eastern Bay,,NAD83,Queen Anne's County,TRUE,,24035,020600020607,Maryland,Upper Chesapeake
+MDE.0806006A,0806006A,,38.73336,-76.13172,,Tred Avon River-Choptank River,,NAD83,Talbot County,TRUE,,24041,020600050504,Maryland,Upper Chesapeake
+MDE.0807004,0807004,,38.755833,-76.22722,,Broad Creek-Choptank River,,NAD83,Talbot County,TRUE,,24041,020600050505,Maryland,Upper Chesapeake
+MDE.0808044,0808044,,38.753333,-76.307778,,Harris Creek-Coptank River,,NAD83,Talbot County,TRUE,,24041,020600050506,Maryland,Upper Chesapeake
+MDE.1001017,1001017,,38.59856,-75.98742,,Bolingbroke Creek-Choptank River,,NAD83,Talbot County,TRUE,,24041,020600050502,Maryland,Upper Chesapeake
+MDE.1001701,1001701,,38.64214,-75.96519,,Warwick River-Choptank River,,NAD83,Talbot County,TRUE,,24041,020600050501,Maryland,Upper Chesapeake
+MDE.1003011,1003011,,38.63153,-76.138333,,LaTrappe Creek-Choptank River,,NAD83,Talbot County,TRUE,,24041,020600050503,Maryland,Upper Chesapeake
+MDE.1007015,1007015,,38.5525,-76.2125,,Fishing Creek-Little Choptank River,,NAD83,Dorchester County,TRUE,,24019,020600050401,Maryland,Upper Chesapeake
+MDE.1104022A,1104022A,,38.188056,-76.438889,,Eastern Branch-Saint Marys River,,NAD83,St. Mary's County,TRUE,,24037,020700110902,Maryland,Potomac
+MDE.1301024,1301024,,38.276667,-76.824167,,Charleston Creek-Wicomico River,,NAD83,Charles County,TRUE,,24017,020700110504,Maryland,Potomac
+MDE.1302025,1302025,,38.263611,-76.649444,,Glebe Run-Breton Bay,,NAD83,St. Mary's County,TRUE,,24037,020700110703,Maryland,Potomac
+MDE.1302702,1302702,,38.257778,-76.713056,,Saint Clements Creek-Saint Clements Bay,,NAD83,St. Mary's County,TRUE,,24037,020700110701,Maryland,Potomac
+MDE.1304045,1304045,,38.23575,-76.851,,Potomac River Channel,,NAD83,Charles County,TRUE,,24017,020700111001,Maryland,Potomac
+MDE.1401020,1401020,,38.336944,-76.198056,,Charles Creek-Honga River,,NAD83,Dorchester County,TRUE,,24019,020600050602,Maryland,Upper Chesapeake
+MDE.1402201,1402201,,38.266944,-76.150833,,Fox Creek-Honga River,,NAD83,Dorchester County,TRUE,,24019,020600050603,Maryland,Upper Chesapeake
+MDE.1404016A,1404016A,,38.337178,-75.9841,,Upper Fishing Bay,,NAD83,Dorchester County,TRUE,,24019,020801100205,Maryland,Lower Chesapeake
+MDE.1405702,1405702,,38.29438,-75.9315,,Wetipquin Creek-Nanticoke River,,NAD83,Dorchester County,TRUE,,24019,020801090505,Maryland,Lower Chesapeake
+MDE.1406211,1406211,,38.252222,-75.835,,Ellis Bay-Wicomico River,,NAD83,Somerset County,TRUE,,24039,020801100307,Maryland,Lower Chesapeake
+MDE.1801203,1801203,,38.222944,-75.881133,,Ellis Bay-Wicomico River,,NAD83,Wicomico County,TRUE,,24045,020801100307,Maryland,Lower Chesapeake
+MDE.1802025,1802025,,38.037222,-75.924444,,Upper Tangier Sound Channel,,NAD83,Somerset County,TRUE,,24039,020801100503,Maryland,Lower Chesapeake
+MDE.1803010,1803010,,38.120278,-75.908889,,Broad Creek-Manokin River,,NAD83,Somerset County,TRUE,,24039,020801100404,Maryland,Lower Chesapeake
+MDE.1803017,1803017,,38.098056,-75.881667,,Broad Creek-Manokin River,,NAD83,Somerset County,TRUE,,24039,020801100404,Maryland,Lower Chesapeake
+MDE.1804001,1804001,,38.075833,-75.783889,,Big Annemessex River,,NAD83,Somerset County,TRUE,,24039,020801100405,Maryland,Lower Chesapeake
+MDE.1804007,1804007,,38.0525,-75.87,,Deal Island-Tangier Sound,,NAD83,Somerset County,TRUE,,24039,020801100501,Maryland,Lower Chesapeake
+MDE.1807111,1807111,,37.956917,-75.665003,,Marumsco Creek-Pocomoke Sound,,NAD83,Somerset County,TRUE,,24039,020801110501,Maryland,Lower Chesapeake
+ARF.Aberdeen,Aberdeen,,38.947317,-76.519136,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.Almshouse,Almshouse,,38.939947,-76.546744,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ACWA.ANT0.2,ANT0.2,Above mouth to Potomac above ironworks bridge,39.417211,-77.74194,,Sharmans Branch-Antietam Creek,Chesapeake & Ohio Canal National Heritage Park 21782 Sharpsburg,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041009,Maryland,
+ACWA.ANT20A,ANT20A,Antietam Creek at Devils Backbone Park,39.5383399,-77.7095891,,Antietam Creek,Devil's backbone park above bridge\below dam,NAD83,Washington County,FALSE,Benthics,24043,020700041009,Maryland,
+ACWA.ANT20B,ANT20B,Devils backbone below dam above bridge,39.537648,-77.709906,,Sharmans Branch-Antietam Creek,18934 Lappans Rd 21713 Boonsboro,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041009,Maryland,
+ACWA.ANT40,ANT40,Antietam Creek at Miller's Church Rd,39.715333,-77.606724,,Middle Antietam Creek,"just west of bridge, north of Miller's Church Road, same as USGS Station",NAD83,Washington County,FALSE,,24043,020700041006,Maryland,Potomac
+AACC.AR,AR,Annapolis Roads,38.94934,-76.46491,,Whitehall Creek-Severn River-Chesapeake Bay,Community Beach along western shore of the Chesapeake Bay,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,Upper Chesapeake
+AACC.BA,BA,Baywoods,38.96223,-76.47287,,Whitehall Creek-Severn River-Chesapeake Bay,community dock,NAD83,Anne Arundel County,TRUE,Community pier on the south shore and near the mouth of the Severn River.,24003,020600040203,Maryland,Upper Chesapeake
+NWA.BACR2,BACR2,Mardela Springs Boat Ramp,38.4555,-75.7569,,Barren Creek-Nanticoke River,Bridge,NAD83,Wicomico County,TRUE,,24045,020801090504,Maryland,Lower Chesapeake
+LCCD.BasinRun,Basin Run,Basin Run,39.6618,-76.1474,,Basin Run-Octoraro Creek,"McCauley Road - upstream, in woodland",NAD83,Cecil County,FALSE,,24015,020503061503,Maryland,
+SRA.BC1,BC1,Burley Creek,39.0004,-76.4512,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SCC.BCC1,BCC1,Near SPCA,38.9562972,-76.486666,,Whitehall Creek-Severn River-Chesapeake Bay,mid-stream near headwaters of Back Creek,NAD83,Anne Arundel County,TRUE,"Mid-stream site near the headwaters of Back Creek, monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+SCC.BCC2,BCC2,Parkwood area,38.958161,-76.486764,,Whitehall Creek-Severn River-Chesapeake Bay,mid-stream site on western branch of Back Creek near headwaters,NAD83,Anne Arundel County,TRUE,"mid-stream site on western branch of Back Creek near headwaters, monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+SCC.BCC3,BCC3,New CAP SUP,38.961242,-76.480933,,Whitehall Creek-Severn River-Chesapeake Bay,Mid-stream near Ellen Moyer Park ramp,NAD83,Anne Arundel County,TRUE,"Mid-stream near Ellen Moyer Park ramp, monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+SCC.BCC4,BCC4,Annapolis Maritime Museum,38.962358,-76.479083,,Whitehall Creek-Severn River-Chesapeake Bay,Cove near Annapolis Maritime Museum,NAD83,Anne Arundel County,TRUE,"Cove near Annapolis Maritime Museum, monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+SCC.BCC5,BCC5,St.Luke's,38.963164,-76.484114,,Whitehall Creek-Severn River-Chesapeake Bay,Mid-stream Back Creek,NAD83,Anne Arundel County,TRUE,"Mid-stream Back Creek, monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+SCC.BCC6,BCC6,John's Cove,38.965975,-76.483083,,Whitehall Creek-Severn River-Chesapeake Bay,John's Cove on Back Creek,NAD83,Anne Arundel County,TRUE,"John's Cove on Back Creek,monitored by Back Creek Conservancy",24003,020600040203,Maryland,Upper Chesapeake
+ACWA.BEA0.1,BEA0.1,Beaver Creek Mouth,39.53479,-77.70855,,Beaver Creek,Beaver Creek just above Mouth to Antietam,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041007,Maryland,
+ACWA.BEA8.0B,BEA8.0B,Beaver Creek,39.5832821,-77.6443383,,Beaver Creek,"Behind Fly Shop, before confluence of Black Rock",NAD83,Washington County,FALSE,"for water quality, benthic site (BEA8.0A) is slightly downstream",24043,020700041007,Maryland,Potomac
+ARF.Beards,Beards,,38.938778,-76.580722,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+AACC.BF,BF,Beachwood Forest,39.10079,-76.53123,,Cattail Creek-Magothy River,private dock,NAD83,Anne Arundel County,TRUE,Private dock along the north branch of the Magothy River.,24003,020600040101,Maryland,Upper Chesapeake
+TUPMP.BIGRUN001,BIGRUN001,Big Run,39.549374,-79.144978,,Lower Savage River,Big Run,NAD83,Garrett County,FALSE,,24023,020700020103,Maryland,
+CBF.BmoreCanton,BmoreCanton,Baltimore Canton Turning Basin,39.27441,-76.57444,,Northwest Harbor-Patapsco River,"Baltimore Harbor's Canton Turning Basin- near Canton Waterfront Park, Lighthouse Point Marina, and the Pier 7 Heliport in Baltimore City.",NAD83,Baltimore city,TRUE,,24510,020600031203,Maryland,Upper Chesapeake
+AACC.BO,BO,Ben Oaks,39.08204,-76.61105,,Round Bay-Severn River,Community Pier,NAD83,Anne Arundel County,TRUE,Community pier near headwaters of the Severn River,24003,020600040202,Maryland,Upper Chesapeake
+SRA.BR1,BR1,Brewer #1,39.024,-76.538,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.BR2,BR2,Brewer #2,39.0235,-76.5414,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+ACWA.BRC2.0,BRC2.0,Crystal Falls Rd behind BRChurch belowbridge,39.581375,-77.610609,,Beaver Creek,,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041007,Maryland,
+ARF.Broad,Broad,,38.972872,-76.576158,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SRA.CC1,CC1,Chase Creek #1,39.0208,-76.5092,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.CC2,CC2,Chase Creek #2,39.0233,-76.5151,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.CC3,CC3,Chase Creek #3,39.0212,-76.5145,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SCC.CG,CG,,38.9731,-76.5171,,Whitehall Creek-Severn River-Chesapeake Bay,Cherry Grove,NAD83,Anne Arundel County,TRUE,at ped bridge over creek (DJ),24003,020600040203,Maryland,Upper Chesapeake
+CSC.CHACRE0.5,CHACRE0.5,Charleston Creek,38.290616,-76.848728,,Charleston Creek-Wicomico River,From the dock approximately 0.5 miles from the Wicomico River.,NAD83,Charles County,TRUE,,24017,020700110504,Maryland,Potomac
+NWA.CHIC1,CHIC1,Chicamicomico HW,38.5134,-75.8796,,Chicamacomico River,Private,NAD83,Dorchester County,TRUE,,24019,020801100102,Maryland,Lower Chesapeake
+NWA.CHIC2,CHIC2,New Bridge Rd.,38.48161,-75.88352,,Chicamacomico River,Chicamacomico River at New Bridge Rd. (bridge site),NAD83,Dorchester County,TRUE,First began monitoring at CHIC2 on 06.04.2018. Discontinued CHIC1 at same time.,24019,020801100102,Maryland,Lower Chesapeake
+ARF.Church,Church,,38.9639,-76.5381,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SRA.CL1,CL1,Clements #1,39.0173,-76.5338,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.CL2,CL2,Clements #2,39.0173,-76.5392,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+AACC.CMH,CMH,Carrollton Manor Hillbottom,39.07218,-76.58113,,Round Bay-Severn River,community swimming beach,NAD83,Anne Arundel County,TRUE,Community swimming beach along the north shore of the Severn River.,24003,020600040202,Maryland,Upper Chesapeake
+AACC.CMS,CMS,Carrollton Manor Sunset Beach,39.07318,-76.58629,,Round Bay-Severn River,Community Beach,NAD83,Anne Arundel County,TRUE,Community beach along north shore of the Severn River,24003,020600040202,Maryland,Upper Chesapeake
+ARF.Crab,Crab,,38.956828,-76.532547,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ENERWA.CTN,CTN,Charlestown Fishing Pier,39.5693,-75.9723,,Hance Point Creek-North East River,Charlestown,NAD83,Cecil County,TRUE,Sample taken from Charlestown fishing pier,24015,020600020104,Maryland,Upper Chesapeake
+AACC.CY,CY,Cypress Creek,39.07234,-76.52624,,Cattail Creek-Magothy River,Community Pier,NAD83,Anne Arundel County,TRUE,Near the merging of North Cypress Creek and Cypress Creek flowing into the Magothy River.,24003,020600040101,Maryland,Upper Chesapeake
+ENERWA.DRM,DRM,Doctor Miller Road Bridge,39.6814,-75.9517,,Little North East Creek,Dr. Miller Road bridge,NAD83,Cecil County,FALSE,Small creek; site just downstream from site of proposed chicken farm,24015,020600020101,Maryland,Upper Chesapeake
+ARF.Duvall,Duvall,,38.930017,-76.4835,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SRA.EF,EF,Epping Forest,39.0173,-76.5212,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SCC.EYC,EYC,,38.9753,-76.4782,,Whitehall Creek-Severn River-Chesapeake Bay,Eastport Yacht Club,NAD83,Anne Arundel County,TRUE,at pier closest to mouth (MS),24003,020600040203,Maryland,Upper Chesapeake
+SRA.FC1,FC1,Forked Creek #1,39.074,-76.5739,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.FC2,FC2,Forked Creek #2,39.0738,-76.5768,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+FB.FOBBT01,FOB BT01,Bohemia Mouth - FOB BT01,39.480194,-75.930028,,Bohemia River,Bohemia Mouth - FOB BT01,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+FB.FOBBT02,FOB BT02,Bohemia - Battery Point FOB BT02,39.480444,-75.902528,,Bohemia River,Bohemia River off Battery Point FOB BT02,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+FB.FOBBT03,FOB BT03,Bohemia - Hacks Point FOB BT03,39.466889,-75.873639,,Bohemia River,Bohemia River off of Hacks Point FOB BT03,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+FB.FOBBT04,FOB BT04,Little Bohemia Creek - FOB BT04,39.454,-75.854444,,Bohemia River,Little Bohemia Creek - FOB BT04,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+FB.FOBBT05,FOB BT05,Great Bohemia Creek - FOB BT05,39.463667,-75.843528,,Bohemia River,Great Bohemia Creek - FOB BT05,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+FB.FOBBT06,FOB BT06,Scotchmans Creek - FOB BT06,39.459333,-75.880056,,Bohemia River,Scotchmans Creek - FOB BT06,NAD83,Cecil County,TRUE,,24015,020600020206,Maryland,Upper Chesapeake
+ENERWA.GIL,GIL,Gilpins Falls,39.6486,-75.9555,,North East Creek,North East Creek at Gilpins Falls,NAD83,Cecil County,FALSE,Samples taken from pond above old dam,24015,020600020102,Maryland,Upper Chesapeake
+ARF.Gingerville,Gingerville,,38.960333,-76.556067,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.Glebe,Glebe,,38.927347,-76.545839,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.Harness,Harness,,38.937,-76.510894,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SCC.HC,HC,,38.9678,-76.4971,,Whitehall Creek-Severn River-Chesapeake Bay,Hawkins Cove,NAD83,Anne Arundel County,TRUE,from dock at 1224 Boucher Lane (MS),24003,020600040203,Maryland,Upper Chesapeake
+AACC.HH,HH,Herald Harbor,39.04812,-76.56798,,Round Bay-Severn River,Community Beach,NAD83,Anne Arundel County,TRUE,Community Beach on Little Round Bay along the Severn River,24003,020600040202,Maryland,Upper Chesapeake
+ENERWA.HSP,HSP,Herring Snatcher's Park,39.6022,-75.9437,,North East Creek,"Herring Snatcher's Park, North East",NAD83,Cecil County,FALSE,Sample taken from NW bank at MD 272 bridge,24015,020600020102,Maryland,Upper Chesapeake
+SCC.HW,HW,,38.9695,-76.5023,,Whitehall Creek-Severn River-Chesapeake Bay,Headwater Merge,NAD83,Anne Arundel County,TRUE,(MS),24003,020600040203,Maryland,Upper Chesapeake
+SRA.IL,IL,Indian Landing,39.0816,-76.6111,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+ACWA.LAC0.4-N,LAC0.4-N,above poplar grove road bridge,39.688547,-77.591957,,Little Antietam Creek,13555 Popular Grove Road Hagerstown,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041004,Maryland,
+ACWA.LAC4.4-N,LAC4.4-N,491 at AT,39.664381,-77.5361,,Little Antietam Creek,South Mountain State Park Smithsburg,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041004,Maryland,
+ACWA.LAC4.7-N,LAC4.7-N,Pleasant valley rd bridge,39.646363,-77.529613,,Little Antietam Creek,11717_11899 Pleasant Valley Rd 21783 Smithsburg,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041004,Maryland,
+ACWA.LAC5.0-N,LAC5.0-N,Hells Delight Road,39.663071,-77.516278,,Little Antietam Creek,24500_24654 Hells Delight Rd 21780 Smithsburg,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041004,Maryland,
+ACWA.LAN0.1,LAN0.1,Landis spring above Alt40 bridge,39.571515,-77.689354,,Sharmans Branch-Antietam Creek,9407 Old National Pike 21740 Hagerstown,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041009,Maryland,
+ACWA.LBC2.1,LBC2.1,Route 66 at S curve,39.556826,-77.647929,,Beaver Creek,8797_8899 Mapleville Rd 21713 Boonsboro,NAD83,Washington County,FALSE,Benthics and Water Quality,24043,020700041007,Maryland,
+AACC.LC,LC,Lindamoor Carriage Drive,39.00277,-76.50906,,Whitehall Creek-Severn River-Chesapeake Bay,Private dock,NAD83,Anne Arundel County,TRUE,Private dock in Cove of Cork along the Severn River,24003,020600040203,Maryland,Upper Chesapeake
+SRA.LC1,LC1,Luce #1,39.0063,-76.517,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.LC2,LC2,Luce #2,39.0048,-76.5218,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+NWA.LIBL1,LIBL1,Little Blackwater 1,38.54619,-76.08297,,Little Blackwater River,Bridge,NAD83,Dorchester County,FALSE,,24019,020801100202,Maryland,Lower Chesapeake
+NWA.LIBL4,LIBL4,Little Blackwater 4,38.51675,-76.0808,,Little Blackwater River,Bridge,NAD83,Dorchester County,TRUE,,24019,020801100202,Maryland,Lower Chesapeake
+ARF.LittleAberdeen,Little Aberdeen,,38.947403,-76.527272,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+AACC.LO,LO,Longview,39.06629,-76.49624,,Sillery Bay-Chesapeake Bay,Private dock,NAD83,Anne Arundel County,TRUE,Private dock on southern shore of the Magothy River,24003,020600040102,Maryland,Upper Chesapeake
+SRA.LO1,LO1,Lake Ogleton #1,38.9466,-76.4655,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.LO2,LO2,Lake Ogleton #2,38.9471,-76.4742,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.LO3,LO3,Lake Ogleton #3,38.9436,-76.46,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+AACC.LP,LP,Lindamoor Community Dock,39.001,-76.51032,,Whitehall Creek-Severn River-Chesapeake Bay,Community dock in Cove of Cork,NAD83,Anne Arundel County,TRUE,Community dock in Cove Cork near the Severn River Bridge,24003,020600040203,Maryland,Upper Chesapeake
+AACC.LPT,LPT,Long Point,39.04889,-76.56472,,Round Bay-Severn River,Dock along Little Round Bay on Severn River,NAD83,Anne Arundel County,TRUE,Dock in Little Round Bay along the Severn River,24003,020600040202,Maryland,Upper Chesapeake
+SRA.MA,MA,Manresa,39.003,-76.4923,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SCC.MAC,MAC,,38.9732,-76.4924,,Whitehall Creek-Severn River-Chesapeake Bay,Acton Cove,NAD83,Anne Arundel County,TRUE,(MS),24003,020600040203,Maryland,Upper Chesapeake
+NWA.MAHO2,MAHO2,Federalsburg Marina,38.6882,-75.7701,,Faulkner Branch-Marshyhope Creek,Public dock,NAD83,Caroline County,TRUE,,24011,020801090305,Maryland,Lower Chesapeake
+NWA.MAHO3,MAHO3,Noble Road,38.7627,-75.723,,Tommy Wright Branch-Marshyhope Creek,Bridge,NAD83,Caroline County,FALSE,,24011,020801090303,Maryland,Lower Chesapeake
+NWA.MAHO5,MAHO5,Henson Scout Reservation,38.545,-75.7627,,Stony Bar Creek-Marshyhope Creek,Boy Scout dock,NAD83,Dorchester County,TRUE,,24019,020801090307,Maryland,Lower Chesapeake
+NWA.MANA1,MANA1,Cherry Beach Park,38.5456,-75.7175,,Gales Creek-Nanticoke River,Dock,NAD83,Wicomico County,TRUE,,24045,020801090406,Maryland,Lower Chesapeake
+NWA.MANA2,MANA2,Riverton Wharf,38.5124,-75.7561,,Chicone Creek-Nanticoke River,Private dock,NAD83,Wicomico County,TRUE,,24045,020801090501,Maryland,Lower Chesapeake
+NWA.MANA3,MANA3,Vienna Docks,38.4828,-75.8232,,Chicone Creek-Nanticoke River,Floating dock,NAD83,Dorchester County,TRUE,,24019,020801090501,Maryland,Lower Chesapeake
+NWA.MANA4,MANA4,Lewis Wharf,38.4152,-75.85,,Barren Creek-Nanticoke River,Private dock,NAD83,Dorchester County,TRUE,,24019,020801090504,Maryland,Lower Chesapeake
+NWA.MANA5,MANA5,Bivalve Wharf,38.3096,-75.8929,,Wetipquin Creek-Nanticoke River,Public dock,NAD83,Wicomico County,TRUE,,24045,020801090505,Maryland,Lower Chesapeake
+NWA.MANA6,MANA6,Nanticoke Harbor,38.2712,-75.9092,,Wetipquin Creek-Nanticoke River,Private dock,NAD83,Wicomico County,TRUE,,24045,020801090505,Maryland,Lower Chesapeake
+NWA.MANA7,MANA7,Nanticoke Pier,38.25951,-75.91222,,Wetipquin Creek-Nanticoke River,Private pier,NAD83,Wicomico County,TRUE,,24045,020801090505,Maryland,Lower Chesapeake
+ACWA.MAR0.0,MAR0.0,Marsh Run Mouth,39.649828,-77.688806,,Sharmans Branch-Antietam Creek,"Just above mouth, south of Security Blvd,",NAD83,Washington County,FALSE,,24043,020700041009,Maryland,Potomac
+AACC.MB,MB,Manhattan Beach,39.07009,-76.51555,,Cattail Creek-Magothy River,Community Beach on Dividing Creek,NAD83,Anne Arundel County,TRUE,Community beach on Diving Creek where it flows into the Magothy River.,24003,020600040101,Maryland,Upper Chesapeake
+SRA.MC1,MC1,Mill Creek #1,38.9944,-76.453,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.MC2,MC2,Mill Creek #2,39.0035,-76.457,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.MC3,MC3,Mill Creek #3,39.0131,-76.4676,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+TUPMP.MFCRCR001,MFCRCR001,Middle Fork Crabtree Creek,39.512917,-79.1545,,Lower Savage River,Middle Fork Crabtree Creek,NAD83,Garrett County,FALSE,,24023,020700020103,Maryland,
+SCC.MOS,MOS,,38.9753,-76.4837,,Whitehall Creek-Severn River-Chesapeake Bay,Mouth of Spa Creek,NAD83,Anne Arundel County,TRUE,near boat anchorage (MS),24003,020600040203,Maryland,Upper Chesapeake
+SCC.MOWC,MOWC,,38.9724,-76.4958,,Whitehall Creek-Severn River-Chesapeake Bay,Cheston,NAD83,Anne Arundel County,TRUE,facing mid-stream (DC),24003,020600040203,Maryland,Upper Chesapeake
+ARF.MS1,MS1,,38.895678,-76.473597,,Upper Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600010000,Maryland,
+ARF.MS1A,MS1A,,38.919578,-76.500936,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.MS1B,MS1B,,38.929831,-76.518374,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.MS2,MS2,,38.949213,-76.546948,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.MS2a,MS2a,,38.953185,-76.562178,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,Upper Chesapeake
+ARF.MS4,MS4,,38.962661,-76.593797,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ARF.MS5,MS5,,38.97503,-76.6032,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SCC.MSM,MSM,,38.9699,-76.4996,,Whitehall Creek-Severn River-Chesapeake Bay,Truxton MIdstream,NAD83,Anne Arundel County,TRUE,(MS),24003,020600040203,Maryland,Upper Chesapeake
+SCC.MSW,MSW,,38.9734,-76.4879,,Whitehall Creek-Severn River-Chesapeake Bay,ShipWright,NAD83,Anne Arundel County,TRUE,off floating dock (DC),24003,020600040203,Maryland,Upper Chesapeake
+SRA.NA,NA,The Narrows,39.0698,-76.5823,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+ENERWA.NEP,NEP,North East Park,39.5927,-75.9469,,Hance Point Creek-North East River,North East River at transient pier at North East town park,NAD83,Cecil County,TRUE,Tidal,24015,020600020104,Maryland,Upper Chesapeake
+NRPA.NR-7,NR-7,,36.740257,-76.579794,,,Rt. 460 Constants Wharf,NAD83,,FALSE,"""""Monthly, All parameters dissolved oxygen, water temperature, salinity, water clarity, pH, e.Coli""""",,,,
+LCCD.OctoraroMoore,Octoraro Mainstem,Octoraro Mainstem,39.659947,-76.152979,,Basin Run-Octoraro Creek,Moore Road - at railway bridges,NAD83,Cecil County,FALSE,,24015,020503061503,Maryland,
+LCCD.OctoraroHorseshoe,Octoraro Mainstem,Octoraro Mainstem,39.70666667,-76.11555556,,Tweed Creek-Octoraro Creek,"Horseshoe Road - upstream, in woodland",NAD83,Cecil County,FALSE,USGS Gauge Station,24015,020503061502,Maryland,
+AACC.OH,OH,Oyster Harbor,38.92649,-76.46361,,Whitehall Creek-Severn River-Chesapeake Bay,Community Beach on Severn River,NAD83,Anne Arundel County,TRUE,Community Beach along the south shore of the Severn River.,24003,020600040203,Maryland,Upper Chesapeake
+SRA.PC,PC,Plum Creek,39.063,-76.578,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+ACB.PC2,PC2,,38.5357,-76.5288,,Parker Creek-Chesapeake Bay,PARKERS CREEK-HEAD OF TIDE,NAD83,Calvert County,FALSE,ACTIVE; GEOGRAPHIC ATTRIBUTES NEED TO BE VERIFIED,24009,020600040403,Maryland,Upper Chesapeake
+SRA.PO,PO,Peach Orchard,39.0015,-76.4895,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+ARF.Pocahontas,Pocahontas,,38.922622,-76.527222,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+TUPMP.POLIRU001,POLIRU001,Poplar Lick Run,39.5853,-79.093083,,Upper Savage River,Poplar Lick Run,NAD83,Garrett County,FALSE,,24023,020700020101,Maryland,
+PRK.PR-10,PR-10,National Harbor Marina,38.784099,-77.018505,,Little Hunting Creek-Potomac River,National Harbor Marina,NAD83,Prince George's County,TRUE,"National Harbor is located in Oxon Hill Maryland on the Potomac River. The sampling location is at the end of pier in the marina where Potomac Riverkeeper Network, Sea Dog floating laboratory is located (same pier as giant Ferris Wheel). Samples are taken from the very end of the pier that is closest to the buildings and farthest from the Ferris Wheel. A code is needed to unlock the gate that secures the pier, the will be given out on an as needed basis. The closest parking area is the Carousel Lot located at 149 National Plaza, Oxon Hill, MD 20745.",24033,020700100307,Maryland,
+NWA.QUCR1,QUCR1,Quantico Creek,38.3664,-75.7722,,Quantico Creek,Bridge,NAD83,Wicomico County,TRUE,,24045,020801090503,Maryland,Lower Chesapeake
+SRA.RBE,RBE,Eaglenest,39.0582,-76.5481,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.RBN,RBN,Round Bay North,39.0599,-76.5618,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.RBP,RBP,Palisades,39.0412,-76.5723,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.RBS,RBS,Round Bay South,39.0354,-76.5429,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.RBW,RBW,Round Bay West,39.0374,-76.5601,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+SRA.RC1,RC1,Ridout #1,39.0125,-76.4437,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+NWA.RECR1,RECR1,Rewastico Creek,38.4016,-75.7905,,Rewastico Creek,Private dock,NAD83,Wicomico County,TRUE,,24045,020801090502,Maryland,Lower Chesapeake
+NWA.RECR2c,RECR2C,Rewastico Pond Creek,38.4106,-75.7544,,Rewastico Creek,Bridge ,NAD83,Wicomico County,TRUE,,24045,020801090502,Maryland,Lower Chesapeake
+NWA.RECR2p,RECR2P,Rewastico Pond,38.4106,-75.7544,,Rewastico Creek,Launch from canoe/row boat,NAD83,Wicomico County,FALSE,,24045,020801090502,Maryland,Lower Chesapeake
+AACC.SA,SA,Saefern,39.01715,-76.54195,,Whitehall Creek-Severn River-Chesapeake Bay,community dock,NAD83,Anne Arundel County,TRUE,Community marina dock along the Severn River,24003,020600040203,Maryland,Upper Chesapeake
+SRA.SC1,SC1,Saltworks #1,39.0121,-76.5271,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.SC2,SC2,Saltworks #2,39.0085,-76.5319,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.SC3,SC3,Saltworks #3,39.0076,-76.5354,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SCC.SCM,SCM,,38.9706,-76.5074,,Whitehall Creek-Severn River-Chesapeake Bay,Children's Museum,NAD83,Anne Arundel County,TRUE,from ped bridge behind  Children's museum on Spa Creek Trail (DJ),24003,020600040203,Maryland,Upper Chesapeake
+ARF.Selby,Selby,,38.909378,-76.507692,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+ACWA.SHA00,SHA00,Sharman's Branch,39.429622,-77.733282,,Sharmans Branch-Antietam Creek,Mouth to Antietam,NAD83,Washington County,FALSE,Site used for Benthics with partial WQ testing,24043,020700041009,Maryland,Potomac
+ENERWA.SMA,SMA,St. Mary Anne's Church,39.5958,-75.9441,,North East Creek,St. Mary Anne's Church dock,NAD83,Cecil County,TRUE,"104 Church Point Rd., North East",24015,020600020102,Maryland,Upper Chesapeake
+LCCD.StoneRun,Stone Run,Stone Run,39.70298333,-76.10946667,,Basin Run-Octoraro Creek,"Horseshoe Road - downstream, in woodland",NAD83,Cecil County,FALSE,,24015,020503061503,Maryland,
+ENERWA.,STR,Stony Run,39.5988,-75.952,,North East Creek,Stony Run,NAD83,Cecil County,TRUE,Sample taken from N side of bridge on North East Isles Drive,24015,020600020102,Maryland,Upper Chesapeake
+SCC.SUP,SUP,,38.9724,-76.4893,,Whitehall Creek-Severn River-Chesapeake Bay,SUP Midstream,NAD83,Anne Arundel County,TRUE,(MS),24003,020600040203,Maryland,Upper Chesapeake
+SRA.TH,TH,Traces Hollow,39.0077,-76.499,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+NWA.TRAN1,TRAN1,Transquaking HW,38.5508,-75.9528,,Middletown Branch-Transquaking River,Tricky to get to,NAD83,Dorchester County,FALSE,,24019,020801100101,Maryland,Lower Chesapeake
+NWA.TRAN2,TRAN2,Drawbridge Rd.,38.51269,-75.96834,,Middletown Branch-Transquaking River,Transquaking River at Drawbridge Rd.,NAD83,Dorchester County,TRUE,We began monitoring TRAN2 on 06.04.2018 and discontinued TRAN1 at the same time.,24019,020801100101,Maryland,Lower Chesapeake
+NWA.TYCR1,TYCR1,Tyaskin Creek,38.320059,-75.859137,,Wetipquin Creek-Nanticoke River,Bridge,NAD83,Wicomico County,TRUE,,24045,020801090505,Maryland,Lower Chesapeake
+SRA.VC,VC,Valentine Creek,39.0595,-76.5766,,Round Bay-Severn River,,NAD83,Anne Arundel County,TRUE,,24003,020600040202,Maryland,
+ENERWA.WAR,WAR,Warburton Road bridge,39.6611,-75.9323,,Little North East Creek,"Little North East Creek at Warburton Road bridge, near intersection with Tonys Road",NAD83,Cecil County,FALSE,Sample taken from north side of bridge.,24015,020600020101,Maryland,Upper Chesapeake
+ARF.Warehouse,Warehouse,,38.941706,-76.55815,,Beards Creek-South River,,NAD83,Anne Arundel County,TRUE,,24003,020600040302,Maryland,
+SRA.WC1,WC1,Weems Creek #1,38.9972,-76.5048,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.WC2,WC2,Weems Creek #2,38.9934,-76.5066,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+NWA.WECR1,WECR1,Wetipquin Boat Ramp,38.3267,-75.8665,,Wetipquin Creek-Nanticoke River,Bridge; very high; deep; swift,NAD83,Wicomico County,TRUE,,24045,020801090505,Maryland,Lower Chesapeake
+SRA.WH1,WH1,Whitehall #1,39.0012,-76.4326,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.WH2,WH2,Whitehall #2,39.0106,-76.4345,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+SRA.WH3,WH3,Whitehall #3,39.0199,-76.4385,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
+CSC.WICRIV3.0,WICRIV3.0,Wicomico River,38.291747,-76.846396,,Charleston Creek-Wicomico River,Sample from the beach approximately 3 miles from the mouth of the Potomac River,NAD83,Charles County,TRUE,,24017,020700110504,Maryland,Potomac
+SRA.WU,WU,Weems Upper,38.9988,-76.4965,,Whitehall Creek-Severn River-Chesapeake Bay,,NAD83,Anne Arundel County,TRUE,,24003,020600040203,Maryland,
